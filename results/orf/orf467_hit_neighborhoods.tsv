@@ -1,0 +1,56 @@
+sample	target_id	relation	seqid	start	end	strand	protein_id	gene	locus_tag	product
+ecoli_Sakai	NP_308259.1	LEFT	NC_002695.2	256527	257807	-	NP_308254.1	imp	ECs_0227	type VI secretion system protein ImpI
+ecoli_Sakai	NP_308259.1	LEFT	NC_002695.2	257832	258914	-	NP_308255.1	impH	ECs_0228	type VI secretion system protein ImpH
+ecoli_Sakai	NP_308259.1	LEFT	NC_002695.2	258878	260728	-	NP_308256.1		ECs_0229	type VI secretion protein
+ecoli_Sakai	NP_308259.1	LEFT	NC_002695.2	260732	261145	-	NP_308257.1		ECs_0230	type VI secretion protein
+ecoli_Sakai	NP_308259.1	LEFT	NC_002695.2	261236	262627	-	NP_308258.1	impC	ECs_0231	type VI secretion system protein ImpC
+ecoli_Sakai	NP_308259.1	TARGET	NC_002695.2	262678	262902	-	NP_308259.1		ECs_0232	hypothetical protein
+ecoli_Sakai	NP_308259.1	RIGHT	NC_002695.2	262937	263437	-	NP_308260.1	impB	ECs_0233	type VI secretion system protein ImpB
+ecoli_Sakai	NP_308259.1	RIGHT	NC_002695.2	264134	264652	+	NP_308261.1		ECs_0234	Hcp-like protein
+ecoli_Sakai	NP_308259.1	RIGHT	NC_002695.2	264862	267003	+	NP_308263.1	vgrE	ECs_0236	type VI secretion system Vgr family protein
+ecoli_Sakai	NP_308259.1	RIGHT	NC_002695.2	267079	271293	+	NP_308264.2	rhsC	ECs_0237	type IV secretion protein Rhs
+ecoli_Sakai	NP_308259.1	RIGHT	NC_002695.2	271362	271907	+	NP_308265.2	yibG	ECs_0238	hypothetical protein
+ecoli_Sakai	NP_309765.1	LEFT	NC_002695.2	1731209	1731886	+	NP_309759.1	narI	ECs_1732	nitrate reductase 1 gamma subunit
+ecoli_Sakai	NP_309765.1	LEFT	NC_002695.2	1732964	1733806	-	NP_309761.1	purU	ECs_1734	formyltetrahydrofolate hydrolase
+ecoli_Sakai	NP_309765.1	LEFT	NC_002695.2	1733856	1734314	-	NP_309762.1	ychJ	ECs_1735	hypothetical protein
+ecoli_Sakai	NP_309765.1	LEFT	NC_002695.2	1734388	1735332	+	NP_309763.3	rssA	ECs_1736	patatin-like family phospholipase
+ecoli_Sakai	NP_309765.1	LEFT	NC_002695.2	1735424	1736437	+	NP_309764.1	rssB	ECs_1737	response regulator
+ecoli_Sakai	NP_309765.1	TARGET	NC_002695.2	1736639	1737547	+	NP_309765.1	galU	ECs_1738	glucose-1-phosphate uridylyltransferase
+ecoli_Sakai	NP_309765.1	RIGHT	NC_002695.2	1737691	1738104	-	NP_309766.1	hns	ECs_1739	global DNA-binding transcriptional dual regulator H-NS
+ecoli_Sakai	NP_309765.1	RIGHT	NC_002695.2	1738708	1739325	+	NP_309767.1	tdk	ECs_1740	thymidine kinase/deoxyuridine kinase
+ecoli_Sakai	NP_309765.1	RIGHT	NC_002695.2	1739626	1742301	-	NP_309768.1	adhE	ECs_1741	acetaldehyde dehydrogenase
+ecoli_Sakai	NP_309765.1	RIGHT	NC_002695.2	1742778	1743425	+	NP_309769.1	ychE	ECs_1742	inner membrane protein
+ecoli_Sakai	NP_309765.1	RIGHT	NC_002695.2	1744118	1745794	+	NP_309770.2	oppA	ECs_1743	oligopeptide ABC transporter periplasmic binding protein
+ecoli_W3110	BAA36104.1	LEFT	AP009048.1	1288664	1288765	-	BAA36099.1	tpr		predicted protamine-like protein
+ecoli_W3110	BAA36104.1	LEFT	AP009048.1	1289359	1290201	-	BAA36100.1	purU		formyltetrahydrofolate hydrolase
+ecoli_W3110	BAA36104.1	LEFT	AP009048.1	1290251	1290709	-	BAA36101.1	ychJ		conserved hypothetical protein
+ecoli_W3110	BAA36104.1	LEFT	AP009048.1	1290783	1291727	+	BAA36102.1	rssA		conserved hypothetical protein
+ecoli_W3110	BAA36104.1	LEFT	AP009048.1	1291819	1292832	+	BAA36103.1	rssB		response regulator of RpoS
+ecoli_W3110	BAA36104.1	TARGET	AP009048.1	1293034	1293942	+	BAA36104.1	galU		glucose-1-phosphate uridylyltransferase
+ecoli_W3110	BAA36104.1	RIGHT	AP009048.1	1294086	1294499	-	BAA36117.1	hns		global DNA-binding transcriptional dual regulator H-NS
+ecoli_W3110	BAA36104.1	RIGHT	AP009048.1	1295104	1295721	+	BAA36118.1	tdk		thymidine kinase/deoxyuridine kinase
+ecoli_W3110	BAA36104.1	RIGHT	AP009048.1	1296003	1296775	-		ychG		
+ecoli_W3110	BAA36104.1	RIGHT	AP009048.1	1296003	1296593	-		ychG		
+ecoli_W3110	BAA36104.1	RIGHT	AP009048.1	1296545	1296775	-		ychG		
+ecoli_MG1655	NP_415752.1	LEFT	NC_000913.3	1287087	1287176	-	NP_415747.2	tpr	b1229	protamine-like protein
+ecoli_MG1655	NP_415752.1	LEFT	NC_000913.3	1287782	1288624	-	NP_415748.1	purU	b1232	formyltetrahydrofolate deformylase
+ecoli_MG1655	NP_415752.1	LEFT	NC_000913.3	1288674	1289132	-	NP_415749.1	ychJ	b1233	NTF2-like domain-containing protein YchJ
+ecoli_MG1655	NP_415752.1	LEFT	NC_000913.3	1289245	1290150	+	NP_415750.2	rssA	b1234	putative patatin-like phospholipase RssA
+ecoli_MG1655	NP_415752.1	LEFT	NC_000913.3	1290242	1291255	+	NP_415751.1	rssB	b1235	regulator of RpoS
+ecoli_MG1655	NP_415752.1	TARGET	NC_000913.3	1291457	1292365	+	NP_415752.1	galU	b1236	UTP--glucose-1-phosphate uridylyltransferase
+ecoli_MG1655	NP_415752.1	RIGHT	NC_000913.3	1292509	1292922	-	NP_415753.1	hns	b1237	DNA-binding transcriptional dual regulator H-NS
+ecoli_MG1655	NP_415752.1	RIGHT	NC_000913.3	1293527	1294144	+	NP_415754.1	tdk	b1238	thymidine/deoxyuridine kinase
+ecoli_MG1655	NP_415752.1	RIGHT	NC_000913.3	1295446	1298121	-	NP_415757.1	adhE	b1241	fused acetaldehyde-CoA dehydrogenase and Fe-dependent alcohol dehydrogenasealdehyde/alcohol dehydrogenase AdhE
+ecoli_MG1655	NP_415752.1	RIGHT	NC_000913.3	1298514	1298567	+	YP_010051181.1	ychT	b4771	protein YchT
+ecoli_MG1655	NP_415752.1	RIGHT	NC_000913.3	1298598	1299245	+	NP_415758.1	ychE	b1242	MarC family putative inner membrane protein YchE
+ecoli_REL606	ACT38889.1	LEFT	CP000819.1	1285999	1286676	+	ACT38884.1	narI	ECB_01205	nitrate reductase 1%2C gamma (cytochrome b(NR)) subunit
+ecoli_REL606	ACT38889.1	LEFT	CP000819.1	1287576	1288418	-	ACT38885.1	purU	ECB_01208	formyltetrahydrofolate deformylase
+ecoli_REL606	ACT38889.1	LEFT	CP000819.1	1288468	1288926	-	ACT38886.1	ychJ	ECB_01209	hypothetical protein
+ecoli_REL606	ACT38889.1	LEFT	CP000819.1	1289000	1289944	+	ACT38887.1	ychK	ECB_01210	hypothetical protein
+ecoli_REL606	ACT38889.1	LEFT	CP000819.1	1290036	1291049	+	ACT38888.1	hnr	ECB_01211	response regulator of RpoS
+ecoli_REL606	ACT38889.1	TARGET	CP000819.1	1291251	1292159	+	ACT38889.1	galU	ECB_01212	glucose-1-phosphate uridylyltransferase
+ecoli_REL606	ACT38889.1	RIGHT	CP000819.1	1292303	1292716	-	ACT38890.1	hns	ECB_01213	global DNA-binding transcriptional dual regulator H-NS
+ecoli_REL606	ACT38889.1	RIGHT	CP000819.1	1293320	1293937	+	ACT38891.1	tdk	ECB_01214	thymidine kinase
+ecoli_REL606	ACT38889.1	RIGHT	CP000819.1	1294239	1296914	-	ACT38892.1	adhE	ECB_01215	fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase
+ecoli_REL606	ACT38889.1	RIGHT	CP000819.1	1297391	1298038	+	ACT38893.1	ychE	ECB_01216	predicted inner membrane protein
+ecoli_REL606	ACT38889.1	RIGHT	CP000819.1	1298776	1300407	+	ACT38894.1	oppA	ECB_01217	oligopeptide transporter subunit

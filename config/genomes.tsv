@@ -1,0 +1,5 @@
+sample	organism	strain	assembly_accession
+ecoli_MG1655	Escherichia coli	K-12 MG1655	GCF_000005845.2
+ecoli_W3110	Escherichia coli	K-12 W3110	GCA_000010245.1
+ecoli_REL606	Escherichia coli	B REL606	GCA_000017985.1
+ecoli_Sakai	Escherichia coli	O157:H7 Sakai	GCF_000008865.2

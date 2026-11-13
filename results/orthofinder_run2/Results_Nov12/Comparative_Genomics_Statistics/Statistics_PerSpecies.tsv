@@ -1,0 +1,100 @@
+	E_albertii	MG1655	REL606	Sakai	W3110
+Number of genes	4314	4300	4209	5155	4227
+Number of genes in orthogroups	4015	4211	4107	4741	4215
+Number of unassigned genes	299	89	102	414	12
+Percentage of genes in orthogroups	93.1	97.9	97.6	92.0	99.7
+Percentage of unassigned genes	6.9	2.1	2.4	8.0	0.3
+Number of orthogroups containing species	3804	4090	3917	4081	4077
+Percentage of orthogroups containing species	82.7	89.0	85.2	88.8	88.7
+Number of species-specific orthogroups	24	2	5	62	0
+Number of genes in species-specific orthogroups	53	4	12	212	0
+Percentage of genes in species-specific orthogroups	1.2	0.1	0.3	4.1	0.0
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	794	508	681	517	521
+'1	3627	4015	3809	3783	4001
+'2	153	54	89	188	54
+'3	16	13	9	40	14
+'4	6	2	1	30	1
+'5	2	2	5	8	3
+'6	0	2	2	6	1
+'7	0	1	0	6	0
+'8	0	0	0	3	0
+'9	0	0	0	4	0
+'10	0	0	0	6	1
+11-15	0	1	0	5	1
+16-20	0	0	0	0	1
+21-50	0	0	2	2	0
+51-100	0	0	0	0	0
+101-150	0	0	0	0	0
+151-200	0	0	0	0	0
+201-500	0	0	0	0	0
+501-1000	0	0	0	0	0
+'1001+	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	17.3	11.0	14.8	11.2	11.3
+'1	78.9	87.3	82.8	82.3	87.0
+'2	3.3	1.2	1.9	4.1	1.2
+'3	0.3	0.3	0.2	0.9	0.3
+'4	0.1	0.0	0.0	0.7	0.0
+'5	0.0	0.0	0.1	0.2	0.1
+'6	0.0	0.0	0.0	0.1	0.0
+'7	0.0	0.0	0.0	0.1	0.0
+'8	0.0	0.0	0.0	0.1	0.0
+'9	0.0	0.0	0.0	0.1	0.0
+'10	0.0	0.0	0.0	0.1	0.0
+11-15	0.0	0.0	0.0	0.1	0.0
+16-20	0.0	0.0	0.0	0.0	0.0
+21-50	0.0	0.0	0.0	0.0	0.0
+51-100	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes
+'0	0	0	0	0	0
+'1	3627	4015	3809	3783	4001
+'2	306	108	178	376	108
+'3	48	39	27	120	42
+'4	24	8	4	120	4
+'5	10	10	25	40	15
+'6	0	12	12	36	6
+'7	0	7	0	42	0
+'8	0	0	0	24	0
+'9	0	0	0	36	0
+'10	0	0	0	60	10
+11-15	0	12	0	61	11
+16-20	0	0	0	0	18
+21-50	0	0	52	43	0
+51-100	0	0	0	0	0
+101-150	0	0	0	0	0
+151-200	0	0	0	0	0
+201-500	0	0	0	0	0
+501-1000	0	0	0	0	0
+'1001+	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0	0.0	0.0
+'1	84.1	93.4	90.5	73.4	94.7
+'2	7.1	2.5	4.2	7.3	2.6
+'3	1.1	0.9	0.6	2.3	1.0
+'4	0.6	0.2	0.1	2.3	0.1
+'5	0.2	0.2	0.6	0.8	0.4
+'6	0.0	0.3	0.3	0.7	0.1
+'7	0.0	0.2	0.0	0.8	0.0
+'8	0.0	0.0	0.0	0.5	0.0
+'9	0.0	0.0	0.0	0.7	0.0
+'10	0.0	0.0	0.0	1.2	0.2
+11-15	0.0	0.3	0.0	1.2	0.3
+16-20	0.0	0.0	0.0	0.0	0.4
+21-50	0.0	0.0	1.2	0.8	0.0
+51-100	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0

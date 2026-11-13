@@ -1,0 +1,5 @@
+origin_candidate	number_of_ORFs	best_identity	best_alignment	best_evalue	best_bitscore	orf_id	orf_length	candidate_length	query_coverage	target_coverage	qstart	qend	candidate_id	length	status
+ecoli_REL606__ACT39985.1	2	86.207	29	8.18e-13	52.0	ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	64	58	0.453125	0.5	1	29	ecoli_REL606__ACT39985.1	577	rearranged_or_opposite_orientation
+ecoli_Sakai__NP_303550.1	1	88.889	18	1.01e-05	35.8	ORF449|ecoli_Sakai__NP_303550.1|+|1125573-1125800	76	132	0.23684210526315788	0.13636363636363635	28	45	ecoli_Sakai__NP_303550.1	2653	rearranged_or_opposite_orientation
+ecoli_Sakai__NP_308259.1	1	41.667	36	0.000827	29.3	ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	59	74	0.6101694915254238	0.4864864864864865	21	56	ecoli_Sakai__NP_308259.1	295	same_order_same_strand
+ecoli_Sakai__NP_310689.1	14	98.0	177	8.45e-110	331.0	ORF1015|ecoli_Sakai__NP_310689.1|-|947282-948640	453	585	0.39072847682119205	0.30256410256410254	1	177	ecoli_Sakai__NP_310689.1	1926	rearranged_or_opposite_orientation

@@ -1,0 +1,6 @@
+origin_candidate	orf_id	orf_seqid	orf_start	orf_end	orf_strand	orf_length_bp	albertii_protein_id	albertii_gene	albertii_product	cds_start	cds_end	cds_strand	overlap_bp	same_strand
+ecoli_Sakai__NP_310248.1	ORF804|ecoli_Sakai__NP_310248.1|+|50238-51830	NZ_CP117569.1	50238	51830	+	1593	WP_048237919.1	tnpC	IS66 family transposase	50238.0	51830.0	+	1593	True
+ecoli_Sakai__NP_303550.1	ORF413|ecoli_Sakai__NP_303550.1|-|1125456-1127309	NZ_CP117568.1	1125456	1127309	-	1854	WP_059225691.1		SASA family carbohydrate esterase	1125456.0	1127309.0	-	1854	True
+ecoli_Sakai__NP_310689.1	ORF1015|ecoli_Sakai__NP_310689.1|-|947282-948640	NZ_CP117568.1	947282	948640	-	1359	WP_000079681.1		FliC/FljB family flagellin	947282.0	948640.0	-	1359	True
+ecoli_REL606__ACT39985.1	ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	NZ_CP117568.1	1522237	1522428	+	192			serine hydrolase	1522237.0	1522603.0	+	192	True
+ecoli_Sakai__NP_308259.1	ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	NZ_CP117568.1	4007735	4007911	-	177							0	

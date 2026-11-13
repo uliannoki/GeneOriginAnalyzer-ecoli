@@ -1,0 +1,126 @@
+BLASTP 2.17.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input:
+results/orf/orf467_vs_candidate.faa).
+           2 sequences; 133 total letters
+
+
+
+Query= ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911
+
+Length=59
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911                     191     4e-66
+ecoli_Sakai__NP_308259.1                                              25.2    1e-04
+
+
+> ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911
+Length=59
+
+ Score = 191 bits (444),  Expect = 4e-66
+ Identities = 59/59 (100%), Positives = 59/59 (100%), Gaps = 0/59 (0%)
+
+Query  1   LSRRGGKQKYPREQSRSDQGFLQAVHWVRFSRTGEINREAIDMLVAKQDSRISCLMGR*  59
+           LSRRGGKQKYPREQSRSDQGFLQAVHWVRFSRTGEINREAIDMLVAKQDSRISCLMGR*
+Sbjct  1   LSRRGGKQKYPREQSRSDQGFLQAVHWVRFSRTGEINREAIDMLVAKQDSRISCLMGR*  59
+
+
+> ecoli_Sakai__NP_308259.1
+Length=74
+
+ Score = 25.2 bits (52),  Expect = 1e-04
+ Identities = 14/32 (44%), Positives = 17/32 (53%), Gaps = 0/32 (0%)
+
+Query  22  LQAVHWVRFSRTGEINREAIDMLVAKQDSRIS  53
+           LQ V  V FS   EIN + +  L+   D RIS
+Sbjct  19  LQVVYQVCFSPSVEINQDGVAALITTLDRRIS  50
+
+
+
+Lambda      K        H        a         alpha
+   0.345    0.283     1.84    0.194    0.162 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.294    0.110    0.610    0.480     2.46     3.19 
+
+Effective search space used: 6875
+
+
+Query= ecoli_Sakai__NP_308259.1
+
+Length=74
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+ecoli_Sakai__NP_308259.1                                              244     4e-85
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911                     25.2    1e-04
+
+
+> ecoli_Sakai__NP_308259.1
+Length=74
+
+ Score = 244 bits (569),  Expect = 4e-85
+ Identities = 74/74 (100%), Positives = 74/74 (100%), Gaps = 0/74 (0%)
+
+Query  1   MTAHKNISGTYHLSVADILQVVYQVCFSPSVEINQDGVAALITTLDRRISDLLDEIIHFC  60
+           MTAHKNISGTYHLSVADILQVVYQVCFSPSVEINQDGVAALITTLDRRISDLLDEIIHFC
+Sbjct  1   MTAHKNISGTYHLSVADILQVVYQVCFSPSVEINQDGVAALITTLDRRISDLLDEIIHFC  60
+
+Query  61  EFQQSASHWQRVLH  74
+           EFQQSASHWQRVLH
+Sbjct  61  EFQQSASHWQRVLH  74
+
+
+> ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911
+Length=59
+
+ Score = 25.2 bits (52),  Expect = 1e-04
+ Identities = 14/32 (44%), Positives = 17/32 (53%), Gaps = 0/32 (0%)
+
+Query  19  LQVVYQVCFSPSVEINQDGVAALITTLDRRIS  50
+           LQ V  V FS   EIN + +  L+   D RIS
+Sbjct  22  LQAVHWVRFSRTGEINREAIDMLVAKQDSRIS  53
+
+
+
+Lambda      K        H        a         alpha
+   0.340    0.281     1.75    0.194    0.162 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.294    0.110    0.610    0.480     2.46     3.19 
+
+Effective search space used: 8487
+
+
+  Database: User specified sequence set (Input:
+results/orf/orf467_vs_candidate.faa).
+    Posted date:  Unknown
+  Number of letters in database: 133
+  Number of sequences in database:  2
+
+
+
+Matrix: PAM30
+Gap Penalties: Existence: 9, Extension: 1
+Neighboring words threshold: 16
+Window for multiple hits: 15

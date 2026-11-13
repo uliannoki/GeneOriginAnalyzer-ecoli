@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "all_proteins_shortsearch_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "data/processed/all_proteins.faa",
+  "number-of-letters": 5581411,
+  "number-of-sequences": 17891,
+  "last-updated": "2026-11-12T21:34:00",
+  "number-of-volumes": 1,
+  "bytes-total": 7751550,
+  "bytes-to-cache": 5742567,
+  "files": [
+    "all_proteins_shortsearch_db.pdb",
+    "all_proteins_shortsearch_db.phr",
+    "all_proteins_shortsearch_db.pin",
+    "all_proteins_shortsearch_db.pot",
+    "all_proteins_shortsearch_db.psq",
+    "all_proteins_shortsearch_db.ptf",
+    "all_proteins_shortsearch_db.pto"
+  ]
+}

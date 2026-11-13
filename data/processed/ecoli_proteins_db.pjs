@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "ecoli_proteins_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "data/processed/all_proteins.faa",
+  "number-of-letters": 5581411,
+  "number-of-sequences": 17891,
+  "last-updated": "2026-11-12T19:32:00",
+  "number-of-volumes": 1,
+  "bytes-total": 9409173,
+  "bytes-to-cache": 5742559,
+  "files": [
+    "ecoli_proteins_db.pdb",
+    "ecoli_proteins_db.phr",
+    "ecoli_proteins_db.pin",
+    "ecoli_proteins_db.pog",
+    "ecoli_proteins_db.pos",
+    "ecoli_proteins_db.pot",
+    "ecoli_proteins_db.psq",
+    "ecoli_proteins_db.ptf",
+    "ecoli_proteins_db.pto"
+  ]
+}

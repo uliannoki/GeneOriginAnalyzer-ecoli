@@ -1,0 +1,162 @@
+{
+  "commands": {
+    "FastTree": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/FastTree /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Alignments_ids/OG0000403.fa > /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Trees_ids/OG0000403.txt",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/FastTree",
+      "stage": "Build alignments and gene trees"
+    },
+    "FastTree (species tree)": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/FastTree /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Alignments_ids/SpeciesTreeAlignment.fa > /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/SpeciesTree_unrooted_ids.txt",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/FastTree",
+      "stage": "Build alignments and gene trees"
+    },
+    "diamond blastp": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/diamond blastp --ignore-warnings -d /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/diamondDBSpecies3 -q /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Species3.fa -o /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Blast3_3.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/diamond",
+      "stage": "Sequence search"
+    },
+    "diamond makedb": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/diamond makedb --ignore-warnings --in /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Species0.fa -d /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/diamondDBSpecies0",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/diamond",
+      "stage": "Create search databases"
+    },
+    "mafft": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mafft --localpair --maxiterate 1000 --anysymbol /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Sequences_ids/OG0000403.fa > /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/Alignments_ids/OG0000403.fa",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mafft",
+      "stage": "Build alignments and gene trees"
+    },
+    "mcl": {
+      "command": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mcl /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/OrthoFinder_graph.txt -I 1.2 -o /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/WorkingDirectory/clusters_OrthoFinder_I1.2.txt -te 4 -V all",
+      "invocation": 1,
+      "program": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mcl",
+      "stage": "Infer orthogroups"
+    }
+  },
+  "dirs": {
+    "base": [
+      "WorkingDirectory/"
+    ],
+    "trees": "WorkingDirectory/",
+    "working": "WorkingDirectory/"
+  },
+  "files": {
+    "orthogroups": "WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt"
+  },
+  "programs": {
+    "FastTree": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/FastTree",
+    "diamond": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/diamond",
+    "mafft": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mafft",
+    "mcl": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/mcl"
+  },
+  "python": {
+    "executable": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/python3",
+    "orthofinder": {
+      "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/bin/src/orthofinder",
+      "version": "3.2"
+    },
+    "packages": {
+      "biopython": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/Bio",
+        "version": "1.88"
+      },
+      "ete4": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/ete4",
+        "version": "4.4.0"
+      },
+      "numpy": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/numpy",
+        "version": "2.4.6"
+      },
+      "pandas": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/pandas",
+        "version": "3.1.1"
+      },
+      "rich": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/rich",
+        "version": "15.0.0"
+      },
+      "scikit-learn": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/sklearn",
+        "version": "1.9.1"
+      },
+      "scipy": {
+        "path": "/Users/ulakarvelis/miniconda3/envs/ortho_env/lib/python3.11/site-packages/scipy",
+        "version": "1.17.1"
+      }
+    },
+    "prefix": "/Users/ulakarvelis/miniconda3/envs/ortho_env",
+    "version": "3.11.18"
+  },
+  "run": {
+    "analysis": "core",
+    "invocations": [
+      {
+        "command": "orthofinder -f data/processed/orthofinder_input -o results/orthofinder_run2 -S diamond -M msa -A mafft -T fasttree -t 4 -a 4",
+        "directory": "/Users/ulakarvelis/GeneOriginAnalyzer",
+        "number": 1,
+        "started": "2026-11-12T22:55:54",
+        "version": "3.2"
+      }
+    ]
+  },
+  "settings": {
+    "dna": false,
+    "gapextend": "1",
+    "gapopen": "11",
+    "mcl_inflation": 1.2,
+    "min_seq": 4,
+    "msa_min_seq": 10,
+    "msa_program": "mafft",
+    "n_skip": 50,
+    "q_add_species_to_ids": true,
+    "q_double_blast": true,
+    "q_msa_trees": true,
+    "q_split_para_clades": false,
+    "q_trim": true,
+    "score_matrix": "BLOSUM62",
+    "search_program": "diamond",
+    "species_tree_program": null,
+    "tree_program": "fasttree",
+    "v2_scores": false
+  },
+  "species": {
+    "ids_lines": "0: E_albertii.faa\n1: MG1655.faa\n2: REL606.faa\n3: Sakai.faa\n4: W3110.faa\n"
+  },
+  "system": {
+    "container": null,
+    "cpu": {
+      "cores": 8,
+      "cores_available": 8,
+      "model": "Apple M3"
+    },
+    "job": null,
+    "memory_mb": {
+      "available": null,
+      "limit": null,
+      "total": 16384
+    },
+    "open_files": {
+      "hard": null,
+      "soft": 2560
+    },
+    "os": {
+      "distribution": {
+        "name": "macOS",
+        "version": "15.6.1"
+      },
+      "libc": null,
+      "machine": "x86_64",
+      "release": "24.6.0",
+      "rosetta2": true,
+      "system": "Darwin",
+      "version": "Darwin Kernel Version 24.6.0: Mon Jul 14 11:29:54 PDT 2025; root:xnu-11417.140.69~1/RELEASE_ARM64_T8122",
+      "wsl": false
+    }
+  },
+  "version": 1
+}

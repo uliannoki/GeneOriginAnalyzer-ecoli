@@ -1,0 +1,1161 @@
+protein_id	original_id	sample	length	albertii_hit	number_of_hits	best_identity	best_evalue	best_subject
+ecoli_MG1655__NP_416938.1	NP_416938.1	ecoli_MG1655	213	False	0			
+ecoli_MG1655__NP_416939.1	NP_416939.1	ecoli_MG1655	81	False	0			
+ecoli_MG1655__NP_416940.2	NP_416940.2	ecoli_MG1655	122	False	0			
+ecoli_MG1655__NP_416941.1	NP_416941.1	ecoli_MG1655	138	False	0			
+ecoli_MG1655__NP_416942.1	NP_416942.1	ecoli_MG1655	197	False	0			
+ecoli_MG1655__NP_416943.2	NP_416943.2	ecoli_MG1655	125	False	0			
+ecoli_MG1655__NP_416944.1	NP_416944.1	ecoli_MG1655	130	False	0			
+ecoli_MG1655__NP_416945.2	NP_416945.2	ecoli_MG1655	269	False	0			
+ecoli_MG1655__YP_001165307.1	YP_001165307.1	ecoli_MG1655	159	True	1	85.806	1.22e-97	ref|WP_038430066.1|
+ecoli_MG1655__YP_001165314.1	YP_001165314.1	ecoli_MG1655	57	False	0			
+ecoli_MG1655__YP_001165315.1	YP_001165315.1	ecoli_MG1655	61	False	0			
+ecoli_MG1655__YP_001165316.1	YP_001165316.1	ecoli_MG1655	57	True	1	98.246	7.69e-36	ref|WP_123057730.1|
+ecoli_MG1655__YP_001165332.1	YP_001165332.1	ecoli_MG1655	92	True	1	95.652	7.78e-64	ref|WP_059260031.1|
+ecoli_MG1655__YP_001165333.1	YP_001165333.1	ecoli_MG1655	67	False	0			
+ecoli_MG1655__YP_002791241.1	YP_002791241.1	ecoli_MG1655	84	False	0			
+ecoli_MG1655__YP_009518745.1	YP_009518745.1	ecoli_MG1655	74	False	0			
+ecoli_MG1655__YP_009518752.1	YP_009518752.1	ecoli_MG1655	70	False	0			
+ecoli_MG1655__YP_009518768.1	YP_009518768.1	ecoli_MG1655	67	False	0			
+ecoli_MG1655__YP_009518772.1	YP_009518772.1	ecoli_MG1655	54	True	1	85.185	3.02e-23	ref|WP_123057729.1|
+ecoli_MG1655__YP_009518775.1	YP_009518775.1	ecoli_MG1655	57	True	1	91.228	1.08e-31	ref|WP_032275239.1|
+ecoli_MG1655__YP_009518780.1	YP_009518780.1	ecoli_MG1655	61	False	0			
+ecoli_MG1655__YP_009518795.2	YP_009518795.2	ecoli_MG1655	52	True	1	86.538	1.81e-27	ref|WP_269446631.1|
+ecoli_MG1655__YP_009518796.1	YP_009518796.1	ecoli_MG1655	58	True	1	77.586	5.74e-28	ref|WP_044708919.1|
+ecoli_MG1655__YP_009518799.1	YP_009518799.1	ecoli_MG1655	274	False	0			
+ecoli_MG1655__YP_009518806.1	YP_009518806.1	ecoli_MG1655	51	True	1	96.078	2.75e-31	ref|WP_010342848.1|
+ecoli_MG1655__YP_009518820.1	YP_009518820.1	ecoli_MG1655	51	False	0			
+ecoli_MG1655__YP_009518821.1	YP_009518821.1	ecoli_MG1655	111	True	1	36.735	2.53e-16	ref|WP_256879267.1|
+ecoli_MG1655__YP_010051186.1	YP_010051186.1	ecoli_MG1655	56	False	0			
+ecoli_MG1655__YP_010051197.1	YP_010051197.1	ecoli_MG1655	286	True	1	90.909	0.0	ref|WP_256878844.1|
+ecoli_MG1655__YP_010051208.1	YP_010051208.1	ecoli_MG1655	80	False	0			
+ecoli_MG1655__YP_010283910.1	YP_010283910.1	ecoli_MG1655	64	True	1	93.75	1.84e-41	ref|WP_242704109.1|
+ecoli_MG1655__YP_013606033.1	YP_013606033.1	ecoli_MG1655	60	False	0			
+ecoli_W3110__BAA15281.2	BAA15281.2	ecoli_W3110	306	False	0			
+ecoli_W3110__BAA15823.2	BAA15823.2	ecoli_W3110	86	False	0			
+ecoli_W3110__BAA15964.1	BAA15964.1	ecoli_W3110	104	False	0			
+ecoli_W3110__BAA16191.1	BAA16191.1	ecoli_W3110	298	False	0			
+ecoli_W3110__BAA16507.2	BAA16507.2	ecoli_W3110	172	False	0			
+ecoli_W3110__BAA16508.2	BAA16508.2	ecoli_W3110	66	False	0			
+ecoli_W3110__BAA35263.1	BAA35263.1	ecoli_W3110	158	False	0			
+ecoli_W3110__BAA35268.1	BAA35268.1	ecoli_W3110	75	False	0			
+ecoli_W3110__BAA35347.2	BAA35347.2	ecoli_W3110	69	False	0			
+ecoli_W3110__BAA77888.1	BAA77888.1	ecoli_W3110	62	False	0			
+ecoli_W3110__BAA77931.2	BAA77931.2	ecoli_W3110	120	False	0			
+ecoli_W3110__BAE76046.1	BAE76046.1	ecoli_W3110	112	False	0			
+ecoli_W3110__BAE76082.1	BAE76082.1	ecoli_W3110	295	False	0			
+ecoli_W3110__BAE76155.1	BAE76155.1	ecoli_W3110	467	False	0			
+ecoli_W3110__BAE76314.1	BAE76314.1	ecoli_W3110	87	False	0			
+ecoli_W3110__BAE76389.1	BAE76389.1	ecoli_W3110	73	False	0			
+ecoli_W3110__BAE76455.1	BAE76455.1	ecoli_W3110	59	False	0			
+ecoli_W3110__BAE76553.1	BAE76553.1	ecoli_W3110	116	False	0			
+ecoli_W3110__BAE76777.1	BAE76777.1	ecoli_W3110	110	False	0			
+ecoli_W3110__BAE76778.1	BAE76778.1	ecoli_W3110	90	False	0			
+ecoli_W3110__BAE76783.1	BAE76783.1	ecoli_W3110	88	False	0			
+ecoli_W3110__BAE76924.1	BAE76924.1	ecoli_W3110	51	False	0			
+ecoli_W3110__BAE76929.1	BAE76929.1	ecoli_W3110	99	False	0			
+ecoli_W3110__BAE77181.1	BAE77181.1	ecoli_W3110	167	False	0			
+ecoli_W3110__BAE77581.1	BAE77581.1	ecoli_W3110	148	False	0			
+ecoli_W3110__BAE78301.1	BAE78301.1	ecoli_W3110	338	False	0			
+ecoli_REL606__ACT37714.1	ACT37714.1	ecoli_REL606	319	False	0			
+ecoli_REL606__ACT37716.1	ACT37716.1	ecoli_REL606	234	False	0			
+ecoli_REL606__ACT37719.1	ACT37719.1	ecoli_REL606	116	False	0			
+ecoli_REL606__ACT37720.1	ACT37720.1	ecoli_REL606	54	False	0			
+ecoli_REL606__ACT37905.1	ACT37905.1	ecoli_REL606	123	False	0			
+ecoli_REL606__ACT37956.1	ACT37956.1	ecoli_REL606	70	False	0			
+ecoli_REL606__ACT38067.1	ACT38067.1	ecoli_REL606	180	False	0			
+ecoli_REL606__ACT38177.1	ACT38177.1	ecoli_REL606	133	False	0			
+ecoli_REL606__ACT38201.1	ACT38201.1	ecoli_REL606	781	False	0			
+ecoli_REL606__ACT38202.1	ACT38202.1	ecoli_REL606	93	False	0			
+ecoli_REL606__ACT38203.1	ACT38203.1	ecoli_REL606	234	False	0			
+ecoli_REL606__ACT38204.1	ACT38204.1	ecoli_REL606	97	False	0			
+ecoli_REL606__ACT38205.1	ACT38205.1	ecoli_REL606	111	False	0			
+ecoli_REL606__ACT38211.1	ACT38211.1	ecoli_REL606	56	False	0			
+ecoli_REL606__ACT38213.1	ACT38213.1	ecoli_REL606	53	False	0			
+ecoli_REL606__ACT38214.1	ACT38214.1	ecoli_REL606	96	False	0			
+ecoli_REL606__ACT38215.1	ACT38215.1	ecoli_REL606	86	False	0			
+ecoli_REL606__ACT38307.1	ACT38307.1	ecoli_REL606	625	True	1	92.32	0.0	ref|WP_256879104.1|
+ecoli_REL606__ACT38333.1	ACT38333.1	ecoli_REL606	85	False	0			
+ecoli_REL606__ACT38346.1	ACT38346.1	ecoli_REL606	92	False	0			
+ecoli_REL606__ACT38347.1	ACT38347.1	ecoli_REL606	80	True	1	31.646	8.88e-08	ref|WP_001078567.1|
+ecoli_REL606__ACT38412.1	ACT38412.1	ecoli_REL606	114	False	0			
+ecoli_REL606__ACT38413.1	ACT38413.1	ecoli_REL606	61	False	0			
+ecoli_REL606__ACT38414.1	ACT38414.1	ecoli_REL606	183	False	0			
+ecoli_REL606__ACT38415.1	ACT38415.1	ecoli_REL606	540	True	1	31.633	2.16e-29	ref|WP_000200764.1|
+ecoli_REL606__ACT38416.1	ACT38416.1	ecoli_REL606	253	False	0			
+ecoli_REL606__ACT38417.1	ACT38417.1	ecoli_REL606	152	False	0			
+ecoli_REL606__ACT38419.1	ACT38419.1	ecoli_REL606	330	False	0			
+ecoli_REL606__ACT38420.1	ACT38420.1	ecoli_REL606	445	False	0			
+ecoli_REL606__ACT38421.1	ACT38421.1	ecoli_REL606	381	False	0			
+ecoli_REL606__ACT38496.1	ACT38496.1	ecoli_REL606	110	False	0			
+ecoli_REL606__ACT38498.1	ACT38498.1	ecoli_REL606	50	False	0			
+ecoli_REL606__ACT38499.1	ACT38499.1	ecoli_REL606	187	False	0			
+ecoli_REL606__ACT38501.1	ACT38501.1	ecoli_REL606	169	False	0			
+ecoli_REL606__ACT38502.1	ACT38502.1	ecoli_REL606	79	False	0			
+ecoli_REL606__ACT38503.1	ACT38503.1	ecoli_REL606	113	False	0			
+ecoli_REL606__ACT38504.1	ACT38504.1	ecoli_REL606	77	False	0			
+ecoli_REL606__ACT38508.1	ACT38508.1	ecoli_REL606	62	False	0			
+ecoli_REL606__ACT38510.1	ACT38510.1	ecoli_REL606	111	False	0			
+ecoli_REL606__ACT38511.1	ACT38511.1	ecoli_REL606	54	False	0			
+ecoli_REL606__ACT38512.1	ACT38512.1	ecoli_REL606	307	False	0			
+ecoli_REL606__ACT38513.1	ACT38513.1	ecoli_REL606	320	False	0			
+ecoli_REL606__ACT38514.1	ACT38514.1	ecoli_REL606	342	True	1	60.704	2.9e-156	ref|WP_181665890.1|
+ecoli_REL606__ACT38515.1	ACT38515.1	ecoli_REL606	588	True	1	63.39	0.0	ref|WP_000156861.1|
+ecoli_REL606__ACT38516.1	ACT38516.1	ecoli_REL606	250	True	1	47.66	2.97e-70	ref|WP_273774183.1|
+ecoli_REL606__ACT38518.1	ACT38518.1	ecoli_REL606	142	True	2	37.333	9.11e-08	ref|WP_096956618.1|
+ecoli_REL606__ACT38519.1	ACT38519.1	ecoli_REL606	96	True	2	41.892	6.14e-15	ref|WP_139531265.1|
+ecoli_REL606__ACT38520.1	ACT38520.1	ecoli_REL606	143	True	2	50.365	2.18e-42	ref|WP_150003000.1|
+ecoli_REL606__ACT38521.1	ACT38521.1	ecoli_REL606	148	True	2	39.583	9.57e-33	ref|WP_001001781.1|
+ecoli_REL606__ACT38522.1	ACT38522.1	ecoli_REL606	268	False	0			
+ecoli_REL606__ACT38523.1	ACT38523.1	ecoli_REL606	273	True	2	40.67	6.89e-47	ref|WP_001093750.1|
+ecoli_REL606__ACT38524.1	ACT38524.1	ecoli_REL606	119	True	2	54.63	9.62e-41	ref|WP_000127163.1|
+ecoli_REL606__ACT38525.1	ACT38525.1	ecoli_REL606	302	True	2	65.232	2.61e-146	ref|WP_001121499.1|
+ecoli_REL606__ACT38526.1	ACT38526.1	ecoli_REL606	201	True	2	56.977	1.66e-74	ref|WP_273774211.1|
+ecoli_REL606__ACT38527.1	ACT38527.1	ecoli_REL606	540	False	0			
+ecoli_REL606__ACT38531.1	ACT38531.1	ecoli_REL606	91	False	0			
+ecoli_REL606__ACT38532.1	ACT38532.1	ecoli_REL606	122	False	0			
+ecoli_REL606__ACT39010.1	ACT39010.1	ecoli_REL606	90	True	1	98.889	2.95e-61	ref|WP_000370545.1|
+ecoli_REL606__ACT39015.1	ACT39015.1	ecoli_REL606	278	False	0			
+ecoli_REL606__ACT39016.1	ACT39016.1	ecoli_REL606	741	False	0			
+ecoli_REL606__ACT39017.1	ACT39017.1	ecoli_REL606	92	False	0			
+ecoli_REL606__ACT39018.1	ACT39018.1	ecoli_REL606	97	False	0			
+ecoli_REL606__ACT39056.1	ACT39056.1	ecoli_REL606	67	False	0			
+ecoli_REL606__ACT39154.1	ACT39154.1	ecoli_REL606	94	False	0			
+ecoli_REL606__ACT39155.1	ACT39155.1	ecoli_REL606	106	False	0			
+ecoli_REL606__ACT39172.1	ACT39172.1	ecoli_REL606	97	False	0			
+ecoli_REL606__ACT39173.1	ACT39173.1	ecoli_REL606	234	False	0			
+ecoli_REL606__ACT39174.1	ACT39174.1	ecoli_REL606	93	False	0			
+ecoli_REL606__ACT39175.1	ACT39175.1	ecoli_REL606	792	False	0			
+ecoli_REL606__ACT39200.1	ACT39200.1	ecoli_REL606	259	True	1	87.615	2.78e-152	ref|WP_059235805.1|
+ecoli_REL606__ACT39208.1	ACT39208.1	ecoli_REL606	95	False	0			
+ecoli_REL606__ACT39564.1	ACT39564.1	ecoli_REL606	135	False	0			
+ecoli_REL606__ACT39565.1	ACT39565.1	ecoli_REL606	144	False	0			
+ecoli_REL606__ACT39566.1	ACT39566.1	ecoli_REL606	136	False	0			
+ecoli_REL606__ACT39567.1	ACT39567.1	ecoli_REL606	52	False	0			
+ecoli_REL606__ACT39594.1	ACT39594.1	ecoli_REL606	255	False	0			
+ecoli_REL606__ACT39595.1	ACT39595.1	ecoli_REL606	370	False	0			
+ecoli_REL606__ACT39596.1	ACT39596.1	ecoli_REL606	391	False	0			
+ecoli_REL606__ACT39597.1	ACT39597.1	ecoli_REL606	273	False	0			
+ecoli_REL606__ACT39598.1	ACT39598.1	ecoli_REL606	248	False	0			
+ecoli_REL606__ACT39646.1	ACT39646.1	ecoli_REL606	259	False	0			
+ecoli_REL606__ACT39648.1	ACT39648.1	ecoli_REL606	103	False	0			
+ecoli_REL606__ACT39650.1	ACT39650.1	ecoli_REL606	71	False	0			
+ecoli_REL606__ACT39652.1	ACT39652.1	ecoli_REL606	920	False	0			
+ecoli_REL606__ACT39653.1	ACT39653.1	ecoli_REL606	176	True	2	94.318	1.78e-123	ref|WP_273774211.1|
+ecoli_REL606__ACT39654.1	ACT39654.1	ecoli_REL606	289	True	2	98.616	0.0	ref|WP_001121499.1|
+ecoli_REL606__ACT39655.1	ACT39655.1	ecoli_REL606	115	True	2	98.261	6.75e-81	ref|WP_000127163.1|
+ecoli_REL606__ACT39656.1	ACT39656.1	ecoli_REL606	217	True	2	100.0	2.39e-156	ref|WP_001093750.1|
+ecoli_REL606__ACT39657.1	ACT39657.1	ecoli_REL606	261	False	0			
+ecoli_REL606__ACT39658.1	ACT39658.1	ecoli_REL606	316	True	1	96.032	0.0	ref|WP_181665890.1|
+ecoli_REL606__ACT39659.1	ACT39659.1	ecoli_REL606	655	False	0			
+ecoli_REL606__ACT39660.1	ACT39660.1	ecoli_REL606	121	False	0			
+ecoli_REL606__ACT39661.1	ACT39661.1	ecoli_REL606	405	False	0			
+ecoli_REL606__ACT39663.1	ACT39663.1	ecoli_REL606	91	True	2	98.901	3e-65	ref|WP_000027667.1|
+ecoli_REL606__ACT39665.1	ACT39665.1	ecoli_REL606	100	True	2	100.0	1.16e-67	ref|WP_001277898.1|
+ecoli_REL606__ACT39666.1	ACT39666.1	ecoli_REL606	74	True	2	94.595	1.82e-48	ref|WP_064186420.1|
+ecoli_REL606__ACT39667.1	ACT39667.1	ecoli_REL606	163	True	2	98.773	5.02e-122	ref|WP_000217671.1|
+ecoli_REL606__ACT39668.1	ACT39668.1	ecoli_REL606	91	True	2	47.436	3.36e-23	ref|WP_059225167.1|
+ecoli_REL606__ACT39669.1	ACT39669.1	ecoli_REL606	123	True	2	59.596	5.99e-37	ref|WP_001389238.1|
+ecoli_REL606__ACT39671.1	ACT39671.1	ecoli_REL606	71	False	0			
+ecoli_REL606__ACT39691.1	ACT39691.1	ecoli_REL606	143	False	0			
+ecoli_REL606__ACT39692.1	ACT39692.1	ecoli_REL606	221	False	0			
+ecoli_REL606__ACT39693.1	ACT39693.1	ecoli_REL606	87	False	0			
+ecoli_REL606__ACT39694.1	ACT39694.1	ecoli_REL606	83	False	0			
+ecoli_REL606__ACT39695.1	ACT39695.1	ecoli_REL606	132	False	0			
+ecoli_REL606__ACT39696.1	ACT39696.1	ecoli_REL606	63	False	0			
+ecoli_REL606__ACT39985.1	ACT39985.1	ecoli_REL606	58	False	0			
+ecoli_REL606__ACT40158.1	ACT40158.1	ecoli_REL606	50	False	0			
+ecoli_REL606__ACT40163.1	ACT40163.1	ecoli_REL606	518	False	0			
+ecoli_REL606__ACT40164.1	ACT40164.1	ecoli_REL606	298	False	0			
+ecoli_REL606__ACT40165.1	ACT40165.1	ecoli_REL606	298	False	0			
+ecoli_REL606__ACT40274.1	ACT40274.1	ecoli_REL606	282	False	0			
+ecoli_REL606__ACT40450.1	ACT40450.1	ecoli_REL606	300	False	0			
+ecoli_REL606__ACT40453.1	ACT40453.1	ecoli_REL606	151	False	0			
+ecoli_REL606__ACT40455.1	ACT40455.1	ecoli_REL606	303	False	0			
+ecoli_REL606__ACT40458.1	ACT40458.1	ecoli_REL606	353	False	0			
+ecoli_REL606__ACT40463.1	ACT40463.1	ecoli_REL606	97	False	0			
+ecoli_REL606__ACT40464.1	ACT40464.1	ecoli_REL606	51	False	0			
+ecoli_REL606__ACT40466.1	ACT40466.1	ecoli_REL606	378	False	0			
+ecoli_REL606__ACT40467.1	ACT40467.1	ecoli_REL606	558	False	0			
+ecoli_REL606__ACT40469.1	ACT40469.1	ecoli_REL606	675	False	0			
+ecoli_REL606__ACT40470.1	ACT40470.1	ecoli_REL606	410	False	0			
+ecoli_REL606__ACT40471.1	ACT40471.1	ecoli_REL606	310	False	0			
+ecoli_REL606__ACT40472.1	ACT40472.1	ecoli_REL606	379	False	0			
+ecoli_REL606__ACT40477.1	ACT40477.1	ecoli_REL606	458	False	0			
+ecoli_REL606__ACT40479.1	ACT40479.1	ecoli_REL606	258	False	0			
+ecoli_REL606__ACT40503.1	ACT40503.1	ecoli_REL606	82	True	1	96.341	4.6e-52	ref|WP_000248101.1|
+ecoli_REL606__ACT40508.1	ACT40508.1	ecoli_REL606	274	True	1	87.591	0.0	ref|WP_059227473.1|
+ecoli_REL606__ACT40728.1	ACT40728.1	ecoli_REL606	159	False	0			
+ecoli_REL606__ACT40729.1	ACT40729.1	ecoli_REL606	113	False	0			
+ecoli_REL606__ACT41160.1	ACT41160.1	ecoli_REL606	347	False	0			
+ecoli_REL606__ACT41161.1	ACT41161.1	ecoli_REL606	76	False	0			
+ecoli_REL606__ACT41166.1	ACT41166.1	ecoli_REL606	387	False	0			
+ecoli_REL606__ACT41168.1	ACT41168.1	ecoli_REL606	112	False	0			
+ecoli_REL606__ACT41169.1	ACT41169.1	ecoli_REL606	51	False	0			
+ecoli_REL606__ACT41170.1	ACT41170.1	ecoli_REL606	100	False	0			
+ecoli_REL606__ACT41171.1	ACT41171.1	ecoli_REL606	84	False	0			
+ecoli_REL606__ACT41173.1	ACT41173.1	ecoli_REL606	137	False	0			
+ecoli_REL606__ACT41174.1	ACT41174.1	ecoli_REL606	60	False	0			
+ecoli_REL606__ACT41321.1	ACT41321.1	ecoli_REL606	75	False	0			
+ecoli_REL606__ACT41333.1	ACT41333.1	ecoli_REL606	58	False	0			
+ecoli_REL606__ACT41349.1	ACT41349.1	ecoli_REL606	117	False	0			
+ecoli_REL606__ACT41357.1	ACT41357.1	ecoli_REL606	496	True	1	97.782	0.0	ref|WP_256879340.1|
+ecoli_REL606__ACT41358.1	ACT41358.1	ecoli_REL606	169	True	1	86.31	6.88e-86	ref|WP_044710402.1|
+ecoli_REL606__ACT41359.1	ACT41359.1	ecoli_REL606	324	True	1	93.519	0.0	ref|WP_044710401.1|
+ecoli_REL606__ACT41459.1	ACT41459.1	ecoli_REL606	207	False	0			
+ecoli_REL606__ACT41706.1	ACT41706.1	ecoli_REL606	690	True	2	92.464	0.0	ref|WP_256878740.1|
+ecoli_REL606__ACT41709.1	ACT41709.1	ecoli_REL606	280	True	1	95.357	0.0	ref|WP_149451260.1|
+ecoli_REL606__ACT41777.1	ACT41777.1	ecoli_REL606	87	False	0			
+ecoli_REL606__ACT41790.1	ACT41790.1	ecoli_REL606	97	False	0			
+ecoli_REL606__ACT41847.1	ACT41847.1	ecoli_REL606	520	False	0			
+ecoli_REL606__ACT41852.1	ACT41852.1	ecoli_REL606	126	False	0			
+ecoli_REL606__ACT41853.1	ACT41853.1	ecoli_REL606	283	False	0			
+ecoli_Sakai__NP_052604.1	NP_052604.1	ecoli_Sakai	107	False	0			
+ecoli_Sakai__NP_052605.1	NP_052605.1	ecoli_Sakai	126	False	0			
+ecoli_Sakai__NP_052607.1	NP_052607.1	ecoli_Sakai	898	False	0			
+ecoli_Sakai__NP_052620.1	NP_052620.1	ecoli_Sakai	133	False	0			
+ecoli_Sakai__NP_052623.1	NP_052623.1	ecoli_Sakai	163	True	1	29.87	4.01e-22	ref|WP_054410868.1|
+ecoli_Sakai__NP_052624.1	NP_052624.1	ecoli_Sakai	998	False	0			
+ecoli_Sakai__NP_052626.1	NP_052626.1	ecoli_Sakai	479	True	1	22.951	1.68e-10	ref|WP_273775025.1|
+ecoli_Sakai__NP_052627.1	NP_052627.1	ecoli_Sakai	94	False	0			
+ecoli_Sakai__NP_052629.1	NP_052629.1	ecoli_Sakai	105	False	0			
+ecoli_Sakai__NP_052630.2	NP_052630.2	ecoli_Sakai	325	True	1	99.077	0.0	ref|WP_000361611.1|
+ecoli_Sakai__NP_052631.1	NP_052631.1	ecoli_Sakai	109	False	0			
+ecoli_Sakai__NP_052632.1	NP_052632.1	ecoli_Sakai	206	False	0			
+ecoli_Sakai__NP_052633.1	NP_052633.1	ecoli_Sakai	227	False	0			
+ecoli_Sakai__NP_052634.1	NP_052634.1	ecoli_Sakai	72	True	1	98.611	1.63e-49	ref|WP_000813639.1|
+ecoli_Sakai__NP_052635.1	NP_052635.1	ecoli_Sakai	101	True	2	99.01	1.05e-72	ref|WP_001159871.1|
+ecoli_Sakai__NP_052640.1	NP_052640.1	ecoli_Sakai	388	False	0			
+ecoli_Sakai__NP_052641.1	NP_052641.1	ecoli_Sakai	323	False	0			
+ecoli_Sakai__NP_052643.1	NP_052643.1	ecoli_Sakai	300	True	1	92.0	0.0	ref|WP_476397317.1|
+ecoli_Sakai__NP_052644.1	NP_052644.1	ecoli_Sakai	101	False	0			
+ecoli_Sakai__NP_052646.1	NP_052646.1	ecoli_Sakai	184	False	0			
+ecoli_Sakai__NP_052647.1	NP_052647.1	ecoli_Sakai	258	False	0			
+ecoli_Sakai__NP_052648.1	NP_052648.1	ecoli_Sakai	190	False	0			
+ecoli_Sakai__NP_052650.1	NP_052650.1	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_052651.1	NP_052651.1	ecoli_Sakai	129	False	0			
+ecoli_Sakai__NP_052652.1	NP_052652.1	ecoli_Sakai	76	False	0			
+ecoli_Sakai__NP_052653.1	NP_052653.1	ecoli_Sakai	453	False	0			
+ecoli_Sakai__NP_052654.1	NP_052654.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_052655.1	NP_052655.1	ecoli_Sakai	151	False	0			
+ecoli_Sakai__NP_052657.1	NP_052657.1	ecoli_Sakai	652	False	0			
+ecoli_Sakai__NP_052658.1	NP_052658.1	ecoli_Sakai	144	False	0			
+ecoli_Sakai__NP_052659.1	NP_052659.1	ecoli_Sakai	253	False	0			
+ecoli_Sakai__NP_052661.1	NP_052661.1	ecoli_Sakai	657	False	0			
+ecoli_Sakai__NP_052662.1	NP_052662.1	ecoli_Sakai	143	False	0			
+ecoli_Sakai__NP_052663.1	NP_052663.1	ecoli_Sakai	119	False	0			
+ecoli_Sakai__NP_052664.1	NP_052664.1	ecoli_Sakai	136	False	0			
+ecoli_Sakai__NP_052665.1	NP_052665.1	ecoli_Sakai	3169	True	2	29.279	0.0	ref|WP_273774873.1|
+ecoli_Sakai__NP_052666.1	NP_052666.1	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_052667.1	NP_052667.1	ecoli_Sakai	167	False	0			
+ecoli_Sakai__NP_052669.1	NP_052669.1	ecoli_Sakai	248	False	0			
+ecoli_Sakai__NP_052671.1	NP_052671.1	ecoli_Sakai	186	False	0			
+ecoli_Sakai__NP_052672.1	NP_052672.1	ecoli_Sakai	153	False	0			
+ecoli_Sakai__NP_052673.1	NP_052673.1	ecoli_Sakai	112	False	0			
+ecoli_Sakai__NP_052674.1	NP_052674.1	ecoli_Sakai	84	True	1	59.756	3.42e-30	ref|WP_256878409.1|
+ecoli_Sakai__NP_052675.1	NP_052675.1	ecoli_Sakai	285	False	0			
+ecoli_Sakai__NP_052676.1	NP_052676.1	ecoli_Sakai	94	True	1	35.616	3.82e-13	ref|WP_000535212.1|
+ecoli_Sakai__NP_052677.1	NP_052677.1	ecoli_Sakai	91	True	1	41.758	7.92e-23	ref|WP_001683517.1|
+ecoli_Sakai__NP_052678.1	NP_052678.1	ecoli_Sakai	68	False	0			
+ecoli_Sakai__NP_052681.1	NP_052681.1	ecoli_Sakai	154	False	0			
+ecoli_Sakai__NP_052685.1	NP_052685.1	ecoli_Sakai	1300	True	2	41.286	0.0	ref|WP_256878718.1|
+ecoli_Sakai__NP_052686.1	NP_052686.1	ecoli_Sakai	145	False	0			
+ecoli_Sakai__NP_052687.1	NP_052687.1	ecoli_Sakai	368	False	0			
+ecoli_Sakai__NP_302948.1	NP_302948.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__NP_303550.1	NP_303550.1	ecoli_Sakai	132	False	0			
+ecoli_Sakai__NP_303789.1	NP_303789.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_303838.1	NP_303838.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_304285.1	NP_304285.1	ecoli_Sakai	1080	False	0			
+ecoli_Sakai__NP_304527.1	NP_304527.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__NP_304549.1	NP_304549.1	ecoli_Sakai	85	False	0			
+ecoli_Sakai__NP_304958.1	NP_304958.1	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_304966.1	NP_304966.1	ecoli_Sakai	71	False	0			
+ecoli_Sakai__NP_304968.1	NP_304968.1	ecoli_Sakai	391	False	0			
+ecoli_Sakai__NP_305057.1	NP_305057.1	ecoli_Sakai	237	False	0			
+ecoli_Sakai__NP_305381.1	NP_305381.1	ecoli_Sakai	64	False	0			
+ecoli_Sakai__NP_305382.1	NP_305382.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_305405.1	NP_305405.1	ecoli_Sakai	379	False	0			
+ecoli_Sakai__NP_305407.1	NP_305407.1	ecoli_Sakai	379	False	0			
+ecoli_Sakai__NP_305453.1	NP_305453.1	ecoli_Sakai	391	False	0			
+ecoli_Sakai__NP_305458.1	NP_305458.1	ecoli_Sakai	254	False	0			
+ecoli_Sakai__NP_305459.1	NP_305459.1	ecoli_Sakai	620	True	1	83.475	0.0	ref|WP_060877380.1|
+ecoli_Sakai__NP_305677.1	NP_305677.1	ecoli_Sakai	391	False	0			
+ecoli_Sakai__NP_305733.1	NP_305733.1	ecoli_Sakai	98	True	1	96.939	8.46e-68	ref|WP_000995467.1|
+ecoli_Sakai__NP_305741.1	NP_305741.1	ecoli_Sakai	58	False	0			
+ecoli_Sakai__NP_306228.1	NP_306228.1	ecoli_Sakai	76	False	0			
+ecoli_Sakai__NP_306455.1	NP_306455.1	ecoli_Sakai	78	False	0			
+ecoli_Sakai__NP_306456.1	NP_306456.1	ecoli_Sakai	150	True	2	82.667	1.89e-83	ref|WP_256878866.1|
+ecoli_Sakai__NP_308052.1	NP_308052.1	ecoli_Sakai	473	False	0			
+ecoli_Sakai__NP_308079.1	NP_308079.1	ecoli_Sakai	77	True	1	30.0	6.08e-08	ref|WP_000813639.1|
+ecoli_Sakai__NP_308080.1	NP_308080.1	ecoli_Sakai	104	True	2	90.385	4.46e-65	ref|WP_256878782.1|
+ecoli_Sakai__NP_308166.1	NP_308166.1	ecoli_Sakai	369	True	1	69.459	0.0	ref|WP_256878682.1|
+ecoli_Sakai__NP_308239.1	NP_308239.1	ecoli_Sakai	98	False	0			
+ecoli_Sakai__NP_308240.1	NP_308240.1	ecoli_Sakai	149	False	0			
+ecoli_Sakai__NP_308241.2	NP_308241.2	ecoli_Sakai	198	False	0			
+ecoli_Sakai__NP_308243.1	NP_308243.1	ecoli_Sakai	159	True	2	55.975	1.96e-66	ref|WP_044712774.1|
+ecoli_Sakai__NP_308244.1	NP_308244.1	ecoli_Sakai	469	True	1	87.016	0.0	ref|WP_256879475.1|
+ecoli_Sakai__NP_308245.2	NP_308245.2	ecoli_Sakai	1144	True	1	94.668	0.0	ref|WP_476397316.1|
+ecoli_Sakai__NP_308249.1	NP_308249.1	ecoli_Sakai	247	True	1	85.02	3.78e-148	ref|WP_044710921.1|
+ecoli_Sakai__NP_308251.1	NP_308251.1	ecoli_Sakai	253	True	1	92.49	5.03e-178	ref|WP_044712016.1|
+ecoli_Sakai__NP_308252.1	NP_308252.1	ecoli_Sakai	443	True	1	95.711	0.0	ref|WP_256879473.1|
+ecoli_Sakai__NP_308253.1	NP_308253.1	ecoli_Sakai	174	True	1	94.828	5.24e-126	ref|WP_098402510.1|
+ecoli_Sakai__NP_308254.1	NP_308254.1	ecoli_Sakai	426	True	1	92.019	0.0	ref|WP_059272067.1|
+ecoli_Sakai__NP_308255.1	NP_308255.1	ecoli_Sakai	360	True	1	92.222	0.0	ref|WP_103053279.1|
+ecoli_Sakai__NP_308256.1	NP_308256.1	ecoli_Sakai	616	True	1	95.292	0.0	ref|WP_044714119.1|
+ecoli_Sakai__NP_308257.1	NP_308257.1	ecoli_Sakai	137	True	1	83.942	1.42e-85	ref|WP_256879472.1|
+ecoli_Sakai__NP_308258.1	NP_308258.1	ecoli_Sakai	463	True	1	96.328	0.0	ref|WP_054412784.1|
+ecoli_Sakai__NP_308259.1	NP_308259.1	ecoli_Sakai	74	False	0			
+ecoli_Sakai__NP_308260.1	NP_308260.1	ecoli_Sakai	166	True	1	91.566	3.04e-109	ref|WP_000037393.1|
+ecoli_Sakai__NP_308261.1	NP_308261.1	ecoli_Sakai	172	True	2	99.419	2.52e-131	ref|WP_001142955.1|
+ecoli_Sakai__NP_308270.1	NP_308270.1	ecoli_Sakai	56	False	0			
+ecoli_Sakai__NP_308299.1	NP_308299.1	ecoli_Sakai	81	False	0			
+ecoli_Sakai__NP_308300.1	NP_308300.1	ecoli_Sakai	129	False	0			
+ecoli_Sakai__NP_308302.1	NP_308302.1	ecoli_Sakai	66	False	0			
+ecoli_Sakai__NP_308303.1	NP_308303.1	ecoli_Sakai	97	True	2	43.182	9.51e-13	ref|WP_273774476.1|
+ecoli_Sakai__NP_308310.1	NP_308310.1	ecoli_Sakai	136	False	0			
+ecoli_Sakai__NP_308312.1	NP_308312.1	ecoli_Sakai	257	False	0			
+ecoli_Sakai__NP_308317.1	NP_308317.1	ecoli_Sakai	138	False	0			
+ecoli_Sakai__NP_308318.1	NP_308318.1	ecoli_Sakai	205	False	0			
+ecoli_Sakai__NP_308319.1	NP_308319.1	ecoli_Sakai	152	False	0			
+ecoli_Sakai__NP_308324.1	NP_308324.1	ecoli_Sakai	183	True	1	31.844	2.69e-10	ref|WP_000446136.1|
+ecoli_Sakai__NP_308325.1	NP_308325.1	ecoli_Sakai	250	True	1	23.045	2.91e-08	ref|WP_001283007.1|
+ecoli_Sakai__NP_308327.1	NP_308327.1	ecoli_Sakai	185	True	1	55.67	1.03e-52	ref|WP_000980221.1|
+ecoli_Sakai__NP_308328.1	NP_308328.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__NP_308329.1	NP_308329.1	ecoli_Sakai	107	True	1	71.429	3.16e-47	ref|WP_000856729.1|
+ecoli_Sakai__NP_308330.1	NP_308330.1	ecoli_Sakai	777	True	1	72.704	0.0	ref|WP_006678642.1|
+ecoli_Sakai__NP_308331.1	NP_308331.1	ecoli_Sakai	318	False	0			
+ecoli_Sakai__NP_308334.1	NP_308334.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_308355.2	NP_308355.2	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_308356.1	NP_308356.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_308357.1	NP_308357.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_308361.1	NP_308361.1	ecoli_Sakai	118	False	0			
+ecoli_Sakai__NP_308376.2	NP_308376.2	ecoli_Sakai	70	False	0			
+ecoli_Sakai__NP_308377.1	NP_308377.1	ecoli_Sakai	364	False	0			
+ecoli_Sakai__NP_308378.1	NP_308378.1	ecoli_Sakai	253	False	0			
+ecoli_Sakai__NP_308379.2	NP_308379.2	ecoli_Sakai	55	False	0			
+ecoli_Sakai__NP_308426.1	NP_308426.1	ecoli_Sakai	317	False	0			
+ecoli_Sakai__NP_308427.2	NP_308427.2	ecoli_Sakai	258	False	0			
+ecoli_Sakai__NP_308470.1	NP_308470.1	ecoli_Sakai	149	True	1	88.889	5.41e-96	ref|WP_000813700.1|
+ecoli_Sakai__NP_308481.1	NP_308481.1	ecoli_Sakai	481	False	0			
+ecoli_Sakai__NP_308488.1	NP_308488.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_308489.1	NP_308489.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_308499.1	NP_308499.1	ecoli_Sakai	523	True	1	31.157	1.5e-71	ref|WP_256921741.1|
+ecoli_Sakai__NP_308568.1	NP_308568.1	ecoli_Sakai	1461	False	0			
+ecoli_Sakai__NP_308569.1	NP_308569.1	ecoli_Sakai	5291	False	0			
+ecoli_Sakai__NP_308571.1	NP_308571.1	ecoli_Sakai	391	False	0			
+ecoli_Sakai__NP_308573.1	NP_308573.1	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_308575.1	NP_308575.1	ecoli_Sakai	338	False	0			
+ecoli_Sakai__NP_308576.1	NP_308576.1	ecoli_Sakai	120	False	0			
+ecoli_Sakai__NP_308630.1	NP_308630.1	ecoli_Sakai	444	False	0			
+ecoli_Sakai__NP_308631.1	NP_308631.1	ecoli_Sakai	135	False	0			
+ecoli_Sakai__NP_308633.1	NP_308633.1	ecoli_Sakai	153	False	0			
+ecoli_Sakai__NP_308786.1	NP_308786.1	ecoli_Sakai	105	False	0			
+ecoli_Sakai__NP_308787.1	NP_308787.1	ecoli_Sakai	456	False	0			
+ecoli_Sakai__NP_308788.1	NP_308788.1	ecoli_Sakai	413	False	0			
+ecoli_Sakai__NP_308789.1	NP_308789.1	ecoli_Sakai	481	False	0			
+ecoli_Sakai__NP_308790.1	NP_308790.1	ecoli_Sakai	462	False	0			
+ecoli_Sakai__NP_308791.1	NP_308791.1	ecoli_Sakai	149	False	0			
+ecoli_Sakai__NP_308793.1	NP_308793.1	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_308794.1	NP_308794.1	ecoli_Sakai	314	True	1	63.694	2.08e-151	ref|WP_256879093.1|
+ecoli_Sakai__NP_308829.1	NP_308829.1	ecoli_Sakai	55	False	0			
+ecoli_Sakai__NP_308831.2	NP_308831.2	ecoli_Sakai	200	False	0			
+ecoli_Sakai__NP_308834.1	NP_308834.1	ecoli_Sakai	63	True	1	95.082	2.12e-38	ref|WP_000548547.1|
+ecoli_Sakai__NP_308835.1	NP_308835.1	ecoli_Sakai	60	True	1	91.667	1.72e-38	ref|WP_049029061.1|
+ecoli_Sakai__NP_308836.1	NP_308836.1	ecoli_Sakai	226	True	1	99.115	3.68e-173	ref|WP_000186837.1|
+ecoli_Sakai__NP_308839.1	NP_308839.1	ecoli_Sakai	207	True	1	85.437	5.4e-121	ref|WP_059257244.1|
+ecoli_Sakai__NP_308841.1	NP_308841.1	ecoli_Sakai	319	False	0			
+ecoli_Sakai__NP_308842.1	NP_308842.1	ecoli_Sakai	229	False	0			
+ecoli_Sakai__NP_308843.3	NP_308843.3	ecoli_Sakai	247	True	1	100.0	0.0	ref|WP_001302581.1|
+ecoli_Sakai__NP_308849.1	NP_308849.1	ecoli_Sakai	50	False	0			
+ecoli_Sakai__NP_308851.1	NP_308851.1	ecoli_Sakai	163	False	0			
+ecoli_Sakai__NP_308852.1	NP_308852.1	ecoli_Sakai	700	False	0			
+ecoli_Sakai__NP_308853.2	NP_308853.2	ecoli_Sakai	374	False	0			
+ecoli_Sakai__NP_308856.2	NP_308856.2	ecoli_Sakai	675	False	0			
+ecoli_Sakai__NP_308857.2	NP_308857.2	ecoli_Sakai	107	False	0			
+ecoli_Sakai__NP_308858.1	NP_308858.1	ecoli_Sakai	91	False	0			
+ecoli_Sakai__NP_308859.1	NP_308859.1	ecoli_Sakai	192	True	1	46.875	6.39e-48	ref|WP_273774731.1|
+ecoli_Sakai__NP_308860.1	NP_308860.1	ecoli_Sakai	133	True	1	52.713	1.01e-45	ref|WP_273774729.1|
+ecoli_Sakai__NP_308861.1	NP_308861.1	ecoli_Sakai	247	True	1	56.504	8.41e-101	ref|WP_032330267.1|
+ecoli_Sakai__NP_308862.1	NP_308862.1	ecoli_Sakai	128	True	1	33.333	9.7e-12	ref|WP_032329098.1|
+ecoli_Sakai__NP_308863.1	NP_308863.1	ecoli_Sakai	109	True	1	37.736	2.18e-22	ref|WP_059236887.1|
+ecoli_Sakai__NP_308864.1	NP_308864.1	ecoli_Sakai	1021	True	1	25.287	9.16e-47	ref|WP_060877380.1|
+ecoli_Sakai__NP_308865.1	NP_308865.1	ecoli_Sakai	109	True	1	55.556	4.58e-41	ref|WP_000847354.1|
+ecoli_Sakai__NP_308866.1	NP_308866.1	ecoli_Sakai	232	True	1	91.81	2.61e-163	ref|WP_105175642.1|
+ecoli_Sakai__NP_308867.2	NP_308867.2	ecoli_Sakai	247	True	1	97.166	0.0	ref|WP_161537892.1|
+ecoli_Sakai__NP_308868.2	NP_308868.2	ecoli_Sakai	170	True	1	85.207	2.48e-101	ref|WP_240431810.1|
+ecoli_Sakai__NP_308871.1	NP_308871.1	ecoli_Sakai	438	True	1	92.661	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_308872.2	NP_308872.2	ecoli_Sakai	89	True	1	91.011	3.93e-55	ref|WP_095575662.1|
+ecoli_Sakai__NP_308873.1	NP_308873.1	ecoli_Sakai	326	True	1	60.182	1.07e-143	ref|WP_054409997.1|
+ecoli_Sakai__NP_308874.2	NP_308874.2	ecoli_Sakai	339	False	0			
+ecoli_Sakai__NP_308875.1	NP_308875.1	ecoli_Sakai	293	True	1	75.85	4.84e-165	ref|WP_273774525.1|
+ecoli_Sakai__NP_308877.1	NP_308877.1	ecoli_Sakai	232	False	0			
+ecoli_Sakai__NP_308903.1	NP_308903.1	ecoli_Sakai	670	False	0			
+ecoli_Sakai__NP_308976.1	NP_308976.1	ecoli_Sakai	413	False	0			
+ecoli_Sakai__NP_308977.2	NP_308977.2	ecoli_Sakai	96	False	0			
+ecoli_Sakai__NP_309088.1	NP_309088.1	ecoli_Sakai	61	False	0			
+ecoli_Sakai__NP_309094.1	NP_309094.1	ecoli_Sakai	95	False	0			
+ecoli_Sakai__NP_309095.1	NP_309095.1	ecoli_Sakai	63	False	0			
+ecoli_Sakai__NP_309097.1	NP_309097.1	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_309100.1	NP_309100.1	ecoli_Sakai	363	False	0			
+ecoli_Sakai__NP_309104.1	NP_309104.1	ecoli_Sakai	257	False	0			
+ecoli_Sakai__NP_309112.1	NP_309112.1	ecoli_Sakai	272	False	0			
+ecoli_Sakai__NP_309113.1	NP_309113.1	ecoli_Sakai	79	False	0			
+ecoli_Sakai__NP_309117.2	NP_309117.2	ecoli_Sakai	216	False	0			
+ecoli_Sakai__NP_309118.1	NP_309118.1	ecoli_Sakai	104	True	2	94.505	2.86e-62	ref|WP_024164817.1|
+ecoli_Sakai__NP_309125.2	NP_309125.2	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_309128.1	NP_309128.1	ecoli_Sakai	91	False	0			
+ecoli_Sakai__NP_309129.1	NP_309129.1	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_309130.1	NP_309130.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_309131.1	NP_309131.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_309133.2	NP_309133.2	ecoli_Sakai	654	True	1	65.415	0.0	ref|WP_149540987.1|
+ecoli_Sakai__NP_309134.1	NP_309134.1	ecoli_Sakai	530	True	1	60.461	0.0	ref|WP_059217885.1|
+ecoli_Sakai__NP_309135.1	NP_309135.1	ecoli_Sakai	501	True	1	53.995	2.21e-140	ref|WP_151402187.1|
+ecoli_Sakai__NP_309136.1	NP_309136.1	ecoli_Sakai	115	True	1	56.989	2.61e-32	ref|WP_001299443.1|
+ecoli_Sakai__NP_309137.1	NP_309137.1	ecoli_Sakai	88	False	0			
+ecoli_Sakai__NP_309138.2	NP_309138.2	ecoli_Sakai	209	True	1	78.325	2.22e-116	ref|WP_032330267.1|
+ecoli_Sakai__NP_309139.2	NP_309139.2	ecoli_Sakai	143	True	1	67.133	5.14e-62	ref|WP_032329098.1|
+ecoli_Sakai__NP_309140.2	NP_309140.2	ecoli_Sakai	137	True	1	69.697	7.2e-59	ref|WP_059236887.1|
+ecoli_Sakai__NP_309141.1	NP_309141.1	ecoli_Sakai	859	True	1	81.956	0.0	ref|WP_060877380.1|
+ecoli_Sakai__NP_309142.1	NP_309142.1	ecoli_Sakai	109	True	1	81.651	1.86e-63	ref|WP_000847354.1|
+ecoli_Sakai__NP_309143.1	NP_309143.1	ecoli_Sakai	232	True	1	76.293	3.28e-136	ref|WP_105175642.1|
+ecoli_Sakai__NP_309144.2	NP_309144.2	ecoli_Sakai	247	True	1	86.939	1.09e-166	ref|WP_161537892.1|
+ecoli_Sakai__NP_309145.2	NP_309145.2	ecoli_Sakai	193	True	1	60.417	2.36e-75	ref|WP_240431810.1|
+ecoli_Sakai__NP_309150.2	NP_309150.2	ecoli_Sakai	437	True	1	92.677	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_309151.1	NP_309151.1	ecoli_Sakai	89	True	1	92.135	6.79e-56	ref|WP_095575662.1|
+ecoli_Sakai__NP_309189.2	NP_309189.2	ecoli_Sakai	99	False	0			
+ecoli_Sakai__NP_309191.1	NP_309191.1	ecoli_Sakai	207	False	0			
+ecoli_Sakai__NP_309192.1	NP_309192.1	ecoli_Sakai	95	False	0			
+ecoli_Sakai__NP_309193.1	NP_309193.1	ecoli_Sakai	72	False	0			
+ecoli_Sakai__NP_309194.2	NP_309194.2	ecoli_Sakai	71	False	0			
+ecoli_Sakai__NP_309195.2	NP_309195.2	ecoli_Sakai	62	False	0			
+ecoli_Sakai__NP_309196.1	NP_309196.1	ecoli_Sakai	257	False	0			
+ecoli_Sakai__NP_309199.1	NP_309199.1	ecoli_Sakai	63	True	1	98.413	2.81e-41	ref|WP_000548547.1|
+ecoli_Sakai__NP_309200.1	NP_309200.1	ecoli_Sakai	60	True	1	95.0	2.38e-39	ref|WP_049029061.1|
+ecoli_Sakai__NP_309201.1	NP_309201.1	ecoli_Sakai	226	True	1	99.115	3.93e-173	ref|WP_000186837.1|
+ecoli_Sakai__NP_309202.1	NP_309202.1	ecoli_Sakai	261	True	1	99.617	0.0	ref|WP_000100845.1|
+ecoli_Sakai__NP_309203.2	NP_309203.2	ecoli_Sakai	98	True	1	98.98	9.28e-70	ref|WP_000995467.1|
+ecoli_Sakai__NP_309205.1	NP_309205.1	ecoli_Sakai	54	True	1	100.0	5.91e-37	ref|WP_001198861.1|
+ecoli_Sakai__NP_309206.1	NP_309206.1	ecoli_Sakai	122	True	1	99.18	1.94e-88	ref|WP_000065374.1|
+ecoli_Sakai__NP_309207.1	NP_309207.1	ecoli_Sakai	83	False	0			
+ecoli_Sakai__NP_309208.1	NP_309208.1	ecoli_Sakai	90	True	1	100.0	1.21e-62	ref|WP_000088203.1|
+ecoli_Sakai__NP_309211.1	NP_309211.1	ecoli_Sakai	173	False	0			
+ecoli_Sakai__NP_309213.1	NP_309213.1	ecoli_Sakai	71	False	0			
+ecoli_Sakai__NP_309214.1	NP_309214.1	ecoli_Sakai	98	True	2	87.755	1.72e-60	ref|WP_273774476.1|
+ecoli_Sakai__NP_309216.1	NP_309216.1	ecoli_Sakai	299	False	0			
+ecoli_Sakai__NP_309218.1	NP_309218.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_309219.1	NP_309219.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_309220.1	NP_309220.1	ecoli_Sakai	71	False	0			
+ecoli_Sakai__NP_309221.1	NP_309221.1	ecoli_Sakai	78	False	0			
+ecoli_Sakai__NP_309222.1	NP_309222.1	ecoli_Sakai	148	True	1	44.966	2.59e-32	ref|WP_000736913.1|
+ecoli_Sakai__NP_309226.1	NP_309226.1	ecoli_Sakai	244	False	0			
+ecoli_Sakai__NP_309227.1	NP_309227.1	ecoli_Sakai	240	False	0			
+ecoli_Sakai__NP_309228.1	NP_309228.1	ecoli_Sakai	201	True	1	98.01	2.5e-148	ref|WP_059257244.1|
+ecoli_Sakai__NP_309229.1	NP_309229.1	ecoli_Sakai	64	True	2	80.0	1.53e-31	ref|WP_059217943.1|
+ecoli_Sakai__NP_309232.1	NP_309232.1	ecoli_Sakai	319	False	0			
+ecoli_Sakai__NP_309233.1	NP_309233.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_309237.1	NP_309237.1	ecoli_Sakai	59	False	0			
+ecoli_Sakai__NP_309238.2	NP_309238.2	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_309241.1	NP_309241.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_309245.3	NP_309245.3	ecoli_Sakai	67	False	0			
+ecoli_Sakai__NP_309246.1	NP_309246.1	ecoli_Sakai	268	False	0			
+ecoli_Sakai__NP_309247.1	NP_309247.1	ecoli_Sakai	568	False	0			
+ecoli_Sakai__NP_309248.1	NP_309248.1	ecoli_Sakai	714	False	0			
+ecoli_Sakai__NP_309249.1	NP_309249.1	ecoli_Sakai	335	False	0			
+ecoli_Sakai__NP_309250.1	NP_309250.1	ecoli_Sakai	404	False	0			
+ecoli_Sakai__NP_309251.1	NP_309251.1	ecoli_Sakai	129	False	0			
+ecoli_Sakai__NP_309252.1	NP_309252.1	ecoli_Sakai	153	False	0			
+ecoli_Sakai__NP_309253.1	NP_309253.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_309254.1	NP_309254.1	ecoli_Sakai	216	False	0			
+ecoli_Sakai__NP_309255.1	NP_309255.1	ecoli_Sakai	645	True	1	38.52	1.4e-40	ref|WP_273774720.1|
+ecoli_Sakai__NP_309256.1	NP_309256.1	ecoli_Sakai	89	True	1	92.135	8.28e-56	ref|WP_095575662.1|
+ecoli_Sakai__NP_309257.2	NP_309257.2	ecoli_Sakai	62	False	0			
+ecoli_Sakai__NP_309259.2	NP_309259.2	ecoli_Sakai	541	False	0			
+ecoli_Sakai__NP_309260.1	NP_309260.1	ecoli_Sakai	422	False	0			
+ecoli_Sakai__NP_309261.1	NP_309261.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_309262.1	NP_309262.1	ecoli_Sakai	205	False	0			
+ecoli_Sakai__NP_309264.1	NP_309264.1	ecoli_Sakai	133	False	0			
+ecoli_Sakai__NP_309265.1	NP_309265.1	ecoli_Sakai	218	False	0			
+ecoli_Sakai__NP_309266.1	NP_309266.1	ecoli_Sakai	148	False	0			
+ecoli_Sakai__NP_309267.1	NP_309267.1	ecoli_Sakai	83	False	0			
+ecoli_Sakai__NP_309268.1	NP_309268.1	ecoli_Sakai	421	False	0			
+ecoli_Sakai__NP_309269.1	NP_309269.1	ecoli_Sakai	2793	False	0			
+ecoli_Sakai__NP_309273.1	NP_309273.1	ecoli_Sakai	131	False	0			
+ecoli_Sakai__NP_309274.1	NP_309274.1	ecoli_Sakai	219	False	0			
+ecoli_Sakai__NP_309275.1	NP_309275.1	ecoli_Sakai	72	False	0			
+ecoli_Sakai__NP_309278.1	NP_309278.1	ecoli_Sakai	209	False	0			
+ecoli_Sakai__NP_309289.1	NP_309289.1	ecoli_Sakai	447	False	0			
+ecoli_Sakai__NP_309304.1	NP_309304.1	ecoli_Sakai	444	False	0			
+ecoli_Sakai__NP_309308.1	NP_309308.1	ecoli_Sakai	207	False	0			
+ecoli_Sakai__NP_309309.2	NP_309309.2	ecoli_Sakai	1270	False	0			
+ecoli_Sakai__NP_309310.1	NP_309310.1	ecoli_Sakai	539	True	1	28.412	7.2e-45	ref|WP_231932512.1|
+ecoli_Sakai__NP_309313.1	NP_309313.1	ecoli_Sakai	182	False	0			
+ecoli_Sakai__NP_309314.3	NP_309314.3	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_309316.1	NP_309316.1	ecoli_Sakai	852	False	0			
+ecoli_Sakai__NP_309317.2	NP_309317.2	ecoli_Sakai	407	False	0			
+ecoli_Sakai__NP_309318.2	NP_309318.2	ecoli_Sakai	317	False	0			
+ecoli_Sakai__NP_309320.1	NP_309320.1	ecoli_Sakai	218	False	0			
+ecoli_Sakai__NP_309322.1	NP_309322.1	ecoli_Sakai	262	False	0			
+ecoli_Sakai__NP_309323.1	NP_309323.1	ecoli_Sakai	462	False	0			
+ecoli_Sakai__NP_309327.1	NP_309327.1	ecoli_Sakai	605	False	0			
+ecoli_Sakai__NP_309331.1	NP_309331.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_309332.1	NP_309332.1	ecoli_Sakai	786	False	0			
+ecoli_Sakai__NP_309334.1	NP_309334.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_309335.1	NP_309335.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_309336.2	NP_309336.2	ecoli_Sakai	126	True	1	37.879	1.89e-17	ref|WP_000422741.1|
+ecoli_Sakai__NP_309339.2	NP_309339.2	ecoli_Sakai	179	False	0			
+ecoli_Sakai__NP_309340.1	NP_309340.1	ecoli_Sakai	83	False	0			
+ecoli_Sakai__NP_309341.1	NP_309341.1	ecoli_Sakai	96	False	0			
+ecoli_Sakai__NP_309346.1	NP_309346.1	ecoli_Sakai	91	False	0			
+ecoli_Sakai__NP_309348.2	NP_309348.2	ecoli_Sakai	232	False	0			
+ecoli_Sakai__NP_309349.1	NP_309349.1	ecoli_Sakai	100	False	0			
+ecoli_Sakai__NP_309350.1	NP_309350.1	ecoli_Sakai	106	False	0			
+ecoli_Sakai__NP_309351.2	NP_309351.2	ecoli_Sakai	567	False	0			
+ecoli_Sakai__NP_309352.1	NP_309352.1	ecoli_Sakai	154	False	0			
+ecoli_Sakai__NP_309353.1	NP_309353.1	ecoli_Sakai	224	False	0			
+ecoli_Sakai__NP_309360.1	NP_309360.1	ecoli_Sakai	223	False	0			
+ecoli_Sakai__NP_309363.2	NP_309363.2	ecoli_Sakai	161	False	0			
+ecoli_Sakai__NP_309364.1	NP_309364.1	ecoli_Sakai	141	True	1	78.723	1.7e-80	ref|WP_000422741.1|
+ecoli_Sakai__NP_309365.1	NP_309365.1	ecoli_Sakai	116	True	2	97.414	1.37e-82	ref|WP_000624718.1|
+ecoli_Sakai__NP_309366.1	NP_309366.1	ecoli_Sakai	537	True	1	93.482	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_309367.2	NP_309367.2	ecoli_Sakai	285	False	0			
+ecoli_Sakai__NP_309368.2	NP_309368.2	ecoli_Sakai	113	True	2	38.144	4.66e-16	ref|WP_064160280.1|
+ecoli_Sakai__NP_309369.1	NP_309369.1	ecoli_Sakai	109	False	0			
+ecoli_Sakai__NP_309370.1	NP_309370.1	ecoli_Sakai	155	False	0			
+ecoli_Sakai__NP_309371.1	NP_309371.1	ecoli_Sakai	402	False	0			
+ecoli_Sakai__NP_309372.1	NP_309372.1	ecoli_Sakai	318	False	0			
+ecoli_Sakai__NP_309373.2	NP_309373.2	ecoli_Sakai	359	False	0			
+ecoli_Sakai__NP_309375.1	NP_309375.1	ecoli_Sakai	257	False	0			
+ecoli_Sakai__NP_309376.1	NP_309376.1	ecoli_Sakai	380	False	0			
+ecoli_Sakai__NP_309377.1	NP_309377.1	ecoli_Sakai	352	False	0			
+ecoli_Sakai__NP_309378.1	NP_309378.1	ecoli_Sakai	193	False	0			
+ecoli_Sakai__NP_309379.2	NP_309379.2	ecoli_Sakai	385	False	0			
+ecoli_Sakai__NP_309380.1	NP_309380.1	ecoli_Sakai	151	False	0			
+ecoli_Sakai__NP_309382.1	NP_309382.1	ecoli_Sakai	192	False	0			
+ecoli_Sakai__NP_309383.1	NP_309383.1	ecoli_Sakai	191	False	0			
+ecoli_Sakai__NP_309385.1	NP_309385.1	ecoli_Sakai	102	False	0			
+ecoli_Sakai__NP_309389.2	NP_309389.2	ecoli_Sakai	72	False	0			
+ecoli_Sakai__NP_309391.1	NP_309391.1	ecoli_Sakai	64	False	0			
+ecoli_Sakai__NP_309392.2	NP_309392.2	ecoli_Sakai	59	False	0			
+ecoli_Sakai__NP_309393.1	NP_309393.1	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_309397.1	NP_309397.1	ecoli_Sakai	374	False	0			
+ecoli_Sakai__NP_309401.1	NP_309401.1	ecoli_Sakai	152	False	0			
+ecoli_Sakai__NP_309403.1	NP_309403.1	ecoli_Sakai	169	False	0			
+ecoli_Sakai__NP_309404.1	NP_309404.1	ecoli_Sakai	207	False	0			
+ecoli_Sakai__NP_309405.1	NP_309405.1	ecoli_Sakai	77	False	0			
+ecoli_Sakai__NP_309409.2	NP_309409.2	ecoli_Sakai	348	False	0			
+ecoli_Sakai__NP_309415.1	NP_309415.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_309416.1	NP_309416.1	ecoli_Sakai	214	False	0			
+ecoli_Sakai__NP_309420.1	NP_309420.1	ecoli_Sakai	141	True	1	91.489	3.67e-95	ref|WP_000422741.1|
+ecoli_Sakai__NP_309421.1	NP_309421.1	ecoli_Sakai	60	False	0			
+ecoli_Sakai__NP_309426.1	NP_309426.1	ecoli_Sakai	356	False	0			
+ecoli_Sakai__NP_309529.1	NP_309529.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_309530.2	NP_309530.2	ecoli_Sakai	114	False	0			
+ecoli_Sakai__NP_309531.2	NP_309531.2	ecoli_Sakai	171	False	0			
+ecoli_Sakai__NP_309536.1	NP_309536.1	ecoli_Sakai	345	False	0			
+ecoli_Sakai__NP_309537.2	NP_309537.2	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_309539.1	NP_309539.1	ecoli_Sakai	105	False	0			
+ecoli_Sakai__NP_309540.1	NP_309540.1	ecoli_Sakai	100	False	0			
+ecoli_Sakai__NP_309542.1	NP_309542.1	ecoli_Sakai	105	False	0			
+ecoli_Sakai__NP_309543.1	NP_309543.1	ecoli_Sakai	145	True	1	40.441	5.7e-14	ref|WP_273774459.1|
+ecoli_Sakai__NP_309544.1	NP_309544.1	ecoli_Sakai	63	False	0			
+ecoli_Sakai__NP_309545.1	NP_309545.1	ecoli_Sakai	195	False	0			
+ecoli_Sakai__NP_309554.1	NP_309554.1	ecoli_Sakai	645	True	1	57.319	0.0	ref|WP_059225691.1|
+ecoli_Sakai__NP_309555.1	NP_309555.1	ecoli_Sakai	60	False	0			
+ecoli_Sakai__NP_309556.1	NP_309556.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_309560.1	NP_309560.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_309563.1	NP_309563.1	ecoli_Sakai	74	False	0			
+ecoli_Sakai__NP_309567.1	NP_309567.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_309568.1	NP_309568.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_309570.1	NP_309570.1	ecoli_Sakai	645	False	0			
+ecoli_Sakai__NP_309571.1	NP_309571.1	ecoli_Sakai	833	False	0			
+ecoli_Sakai__NP_309572.1	NP_309572.1	ecoli_Sakai	108	False	0			
+ecoli_Sakai__NP_309573.1	NP_309573.1	ecoli_Sakai	116	False	0			
+ecoli_Sakai__NP_309574.1	NP_309574.1	ecoli_Sakai	148	False	0			
+ecoli_Sakai__NP_309575.1	NP_309575.1	ecoli_Sakai	114	False	0			
+ecoli_Sakai__NP_309576.1	NP_309576.1	ecoli_Sakai	238	False	0			
+ecoli_Sakai__NP_309577.1	NP_309577.1	ecoli_Sakai	124	False	0			
+ecoli_Sakai__NP_309578.2	NP_309578.2	ecoli_Sakai	69	False	0			
+ecoli_Sakai__NP_309581.1	NP_309581.1	ecoli_Sakai	113	True	1	45.946	2.48e-28	ref|WP_000847354.1|
+ecoli_Sakai__NP_309582.1	NP_309582.1	ecoli_Sakai	232	True	1	77.155	1.28e-139	ref|WP_105175642.1|
+ecoli_Sakai__NP_309583.1	NP_309583.1	ecoli_Sakai	84	True	1	36.508	1.94e-06	ref|WP_000113456.1|
+ecoli_Sakai__NP_309584.1	NP_309584.1	ecoli_Sakai	292	False	0			
+ecoli_Sakai__NP_309585.1	NP_309585.1	ecoli_Sakai	245	True	1	88.333	1.5e-165	ref|WP_161537892.1|
+ecoli_Sakai__NP_309586.2	NP_309586.2	ecoli_Sakai	61	False	0			
+ecoli_Sakai__NP_309588.1	NP_309588.1	ecoli_Sakai	1133	False	0			
+ecoli_Sakai__NP_309592.1	NP_309592.1	ecoli_Sakai	53	False	0			
+ecoli_Sakai__NP_309594.1	NP_309594.1	ecoli_Sakai	91	False	0			
+ecoli_Sakai__NP_309595.1	NP_309595.1	ecoli_Sakai	453	True	1	68.653	0.0	ref|WP_256878753.1|
+ecoli_Sakai__NP_309603.1	NP_309603.1	ecoli_Sakai	247	False	0			
+ecoli_Sakai__NP_309604.1	NP_309604.1	ecoli_Sakai	65	False	0			
+ecoli_Sakai__NP_309605.1	NP_309605.1	ecoli_Sakai	61	False	0			
+ecoli_Sakai__NP_309606.1	NP_309606.1	ecoli_Sakai	63	False	0			
+ecoli_Sakai__NP_309607.1	NP_309607.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_309608.1	NP_309608.1	ecoli_Sakai	99	False	0			
+ecoli_Sakai__NP_309609.2	NP_309609.2	ecoli_Sakai	710	True	1	62.7	0.0	ref|WP_001555747.1|
+ecoli_Sakai__NP_309613.1	NP_309613.1	ecoli_Sakai	83	False	0			
+ecoli_Sakai__NP_309614.1	NP_309614.1	ecoli_Sakai	136	True	2	25.51	4.61e-06	ref|WP_000168310.1|
+ecoli_Sakai__NP_309615.1	NP_309615.1	ecoli_Sakai	90	True	2	56.18	1.07e-31	ref|WP_000617439.1|
+ecoli_Sakai__NP_309616.3	NP_309616.3	ecoli_Sakai	74	False	0			
+ecoli_Sakai__NP_309617.1	NP_309617.1	ecoli_Sakai	385	False	0			
+ecoli_Sakai__NP_309618.2	NP_309618.2	ecoli_Sakai	190	False	0			
+ecoli_Sakai__NP_309619.2	NP_309619.2	ecoli_Sakai	391	False	0			
+ecoli_Sakai__NP_309620.1	NP_309620.1	ecoli_Sakai	112	False	0			
+ecoli_Sakai__NP_309621.1	NP_309621.1	ecoli_Sakai	98	False	0			
+ecoli_Sakai__NP_309622.1	NP_309622.1	ecoli_Sakai	146	False	0			
+ecoli_Sakai__NP_309624.1	NP_309624.1	ecoli_Sakai	118	False	0			
+ecoli_Sakai__NP_309626.1	NP_309626.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_309638.1	NP_309638.1	ecoli_Sakai	274	True	1	68.702	3.22e-125	ref|WP_089584188.1|
+ecoli_Sakai__NP_309639.1	NP_309639.1	ecoli_Sakai	233	True	1	98.283	3.62e-173	ref|WP_053896188.1|
+ecoli_Sakai__NP_309647.1	NP_309647.1	ecoli_Sakai	229	False	0			
+ecoli_Sakai__NP_309648.2	NP_309648.2	ecoli_Sakai	101	False	0			
+ecoli_Sakai__NP_309649.1	NP_309649.1	ecoli_Sakai	158	True	1	55.625	2.33e-49	ref|WP_001144101.1|
+ecoli_Sakai__NP_309657.1	NP_309657.1	ecoli_Sakai	641	True	1	98.752	0.0	ref|WP_149540987.1|
+ecoli_Sakai__NP_309658.1	NP_309658.1	ecoli_Sakai	68	True	1	98.529	2.12e-45	ref|WP_000198152.1|
+ecoli_Sakai__NP_309659.1	NP_309659.1	ecoli_Sakai	533	True	1	98.687	0.0	ref|WP_059217885.1|
+ecoli_Sakai__NP_309660.1	NP_309660.1	ecoli_Sakai	439	True	1	98.405	0.0	ref|WP_151402187.1|
+ecoli_Sakai__NP_309661.1	NP_309661.1	ecoli_Sakai	110	True	1	99.091	1.92e-77	ref|WP_001299443.1|
+ecoli_Sakai__NP_309662.1	NP_309662.1	ecoli_Sakai	341	True	1	95.601	0.0	ref|WP_161538483.1|
+ecoli_Sakai__NP_309663.1	NP_309663.1	ecoli_Sakai	132	True	1	90.152	1.2e-78	ref|WP_273774735.1|
+ecoli_Sakai__NP_309664.1	NP_309664.1	ecoli_Sakai	117	True	1	97.436	2.01e-81	ref|WP_032151592.1|
+ecoli_Sakai__NP_309665.1	NP_309665.1	ecoli_Sakai	192	True	1	75.521	8.55e-95	ref|WP_273774731.1|
+ecoli_Sakai__NP_309666.1	NP_309666.1	ecoli_Sakai	131	True	1	96.183	3.93e-92	ref|WP_273774729.1|
+ecoli_Sakai__NP_309667.1	NP_309667.1	ecoli_Sakai	246	True	1	95.935	3.25e-173	ref|WP_032330267.1|
+ecoli_Sakai__NP_309668.1	NP_309668.1	ecoli_Sakai	140	True	1	98.571	3.13e-103	ref|WP_032329098.1|
+ecoli_Sakai__NP_309669.1	NP_309669.1	ecoli_Sakai	144	True	1	96.528	1.01e-99	ref|WP_059236887.1|
+ecoli_Sakai__NP_309670.1	NP_309670.1	ecoli_Sakai	849	True	1	87.224	0.0	ref|WP_060877380.1|
+ecoli_Sakai__NP_309671.1	NP_309671.1	ecoli_Sakai	109	True	1	97.248	1.35e-77	ref|WP_000847354.1|
+ecoli_Sakai__NP_309672.1	NP_309672.1	ecoli_Sakai	232	True	1	97.414	1.62e-173	ref|WP_105175642.1|
+ecoli_Sakai__NP_309673.1	NP_309673.1	ecoli_Sakai	247	True	1	97.166	0.0	ref|WP_161537892.1|
+ecoli_Sakai__NP_309674.2	NP_309674.2	ecoli_Sakai	190	True	1	76.316	1.68e-100	ref|WP_240431810.1|
+ecoli_Sakai__NP_309677.1	NP_309677.1	ecoli_Sakai	971	True	1	82.184	0.0	ref|WP_273774212.1|
+ecoli_Sakai__NP_309679.1	NP_309679.1	ecoli_Sakai	296	False	0			
+ecoli_Sakai__NP_309685.1	NP_309685.1	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_309686.1	NP_309686.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_309687.1	NP_309687.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_309689.1	NP_309689.1	ecoli_Sakai	494	False	0			
+ecoli_Sakai__NP_309691.1	NP_309691.1	ecoli_Sakai	194	True	1	22.159	6.11e-06	ref|WP_001278727.1|
+ecoli_Sakai__NP_309700.2	NP_309700.2	ecoli_Sakai	52	False	0			
+ecoli_Sakai__NP_309723.1	NP_309723.1	ecoli_Sakai	214	True	1	95.794	7.62e-158	ref|WP_000904005.1|
+ecoli_Sakai__NP_309726.1	NP_309726.1	ecoli_Sakai	340	True	1	85.588	0.0	ref|WP_059235793.1|
+ecoli_Sakai__NP_309789.1	NP_309789.1	ecoli_Sakai	77	False	0			
+ecoli_Sakai__NP_309790.1	NP_309790.1	ecoli_Sakai	135	False	0			
+ecoli_Sakai__NP_309795.1	NP_309795.1	ecoli_Sakai	346	False	0			
+ecoli_Sakai__NP_309796.2	NP_309796.2	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_309799.1	NP_309799.1	ecoli_Sakai	252	True	1	86.905	5.09e-166	ref|WP_000751603.1|
+ecoli_Sakai__NP_309805.1	NP_309805.1	ecoli_Sakai	176	False	0			
+ecoli_Sakai__NP_309806.2	NP_309806.2	ecoli_Sakai	65	False	0			
+ecoli_Sakai__NP_309807.1	NP_309807.1	ecoli_Sakai	352	False	0			
+ecoli_Sakai__NP_309812.1	NP_309812.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_309816.1	NP_309816.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_309818.1	NP_309818.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_309820.1	NP_309820.1	ecoli_Sakai	645	False	0			
+ecoli_Sakai__NP_309822.1	NP_309822.1	ecoli_Sakai	859	False	0			
+ecoli_Sakai__NP_309823.1	NP_309823.1	ecoli_Sakai	108	False	0			
+ecoli_Sakai__NP_309824.1	NP_309824.1	ecoli_Sakai	116	False	0			
+ecoli_Sakai__NP_309825.1	NP_309825.1	ecoli_Sakai	148	False	0			
+ecoli_Sakai__NP_309826.1	NP_309826.1	ecoli_Sakai	114	False	0			
+ecoli_Sakai__NP_309827.2	NP_309827.2	ecoli_Sakai	238	False	0			
+ecoli_Sakai__NP_309828.1	NP_309828.1	ecoli_Sakai	124	False	0			
+ecoli_Sakai__NP_309829.2	NP_309829.2	ecoli_Sakai	69	False	0			
+ecoli_Sakai__NP_309830.1	NP_309830.1	ecoli_Sakai	1026	False	0			
+ecoli_Sakai__NP_309831.1	NP_309831.1	ecoli_Sakai	113	True	1	46.847	1.99e-29	ref|WP_000847354.1|
+ecoli_Sakai__NP_309832.1	NP_309832.1	ecoli_Sakai	145	True	1	77.686	4.93e-69	ref|WP_105175642.1|
+ecoli_Sakai__NP_309835.1	NP_309835.1	ecoli_Sakai	437	True	1	91.304	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_309836.1	NP_309836.1	ecoli_Sakai	89	True	1	92.135	5.12e-55	ref|WP_095575662.1|
+ecoli_Sakai__NP_309839.1	NP_309839.1	ecoli_Sakai	441	False	0			
+ecoli_Sakai__NP_309841.1	NP_309841.1	ecoli_Sakai	303	True	1	72.368	9.48e-162	ref|WP_273774525.1|
+ecoli_Sakai__NP_309842.1	NP_309842.1	ecoli_Sakai	189	True	1	52.206	2.13e-46	ref|WP_059257526.1|
+ecoli_Sakai__NP_309845.1	NP_309845.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_309846.1	NP_309846.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_309847.1	NP_309847.1	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_309848.1	NP_309848.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_309851.1	NP_309851.1	ecoli_Sakai	215	True	7	62.085	1.64e-94	ref|WP_001145629.1|
+ecoli_Sakai__NP_309852.1	NP_309852.1	ecoli_Sakai	196	True	2	53.403	1.73e-71	ref|WP_256878754.1|
+ecoli_Sakai__NP_309867.1	NP_309867.1	ecoli_Sakai	527	False	0			
+ecoli_Sakai__NP_309933.3	NP_309933.3	ecoli_Sakai	212	True	1	23.958	2.44e-06	ref|WP_256878134.1|
+ecoli_Sakai__NP_309969.1	NP_309969.1	ecoli_Sakai	84	True	1	61.644	2.24e-30	ref|WP_001535911.1|
+ecoli_Sakai__NP_309971.1	NP_309971.1	ecoli_Sakai	262	False	0			
+ecoli_Sakai__NP_309976.1	NP_309976.1	ecoli_Sakai	70	False	0			
+ecoli_Sakai__NP_309977.1	NP_309977.1	ecoli_Sakai	87	False	0			
+ecoli_Sakai__NP_309978.1	NP_309978.1	ecoli_Sakai	53	False	0			
+ecoli_Sakai__NP_309981.1	NP_309981.1	ecoli_Sakai	329	False	0			
+ecoli_Sakai__NP_309982.1	NP_309982.1	ecoli_Sakai	463	False	0			
+ecoli_Sakai__NP_309983.1	NP_309983.1	ecoli_Sakai	199	False	0			
+ecoli_Sakai__NP_309985.1	NP_309985.1	ecoli_Sakai	184	True	1	25.967	1.93e-07	ref|WP_001535924.1|
+ecoli_Sakai__NP_309986.1	NP_309986.1	ecoli_Sakai	143	False	0			
+ecoli_Sakai__NP_309987.2	NP_309987.2	ecoli_Sakai	172	False	0			
+ecoli_Sakai__NP_309992.1	NP_309992.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_309995.1	NP_309995.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_309997.1	NP_309997.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_309999.1	NP_309999.1	ecoli_Sakai	645	False	0			
+ecoli_Sakai__NP_310001.1	NP_310001.1	ecoli_Sakai	454	False	0			
+ecoli_Sakai__NP_310002.1	NP_310002.1	ecoli_Sakai	407	False	0			
+ecoli_Sakai__NP_310003.1	NP_310003.1	ecoli_Sakai	108	False	0			
+ecoli_Sakai__NP_310004.1	NP_310004.1	ecoli_Sakai	116	False	0			
+ecoli_Sakai__NP_310005.1	NP_310005.1	ecoli_Sakai	148	False	0			
+ecoli_Sakai__NP_310006.1	NP_310006.1	ecoli_Sakai	114	False	0			
+ecoli_Sakai__NP_310007.1	NP_310007.1	ecoli_Sakai	238	False	0			
+ecoli_Sakai__NP_310008.1	NP_310008.1	ecoli_Sakai	124	False	0			
+ecoli_Sakai__NP_310009.2	NP_310009.2	ecoli_Sakai	69	False	0			
+ecoli_Sakai__NP_310010.1	NP_310010.1	ecoli_Sakai	1026	False	0			
+ecoli_Sakai__NP_310011.1	NP_310011.1	ecoli_Sakai	113	True	1	47.748	7.69e-30	ref|WP_000847354.1|
+ecoli_Sakai__NP_310012.1	NP_310012.1	ecoli_Sakai	232	True	1	75.431	3.35e-136	ref|WP_105175642.1|
+ecoli_Sakai__NP_310013.1	NP_310013.1	ecoli_Sakai	247	True	1	87.755	8.67e-169	ref|WP_161537892.1|
+ecoli_Sakai__NP_310014.2	NP_310014.2	ecoli_Sakai	193	True	1	61.458	9.31e-78	ref|WP_240431810.1|
+ecoli_Sakai__NP_310019.2	NP_310019.2	ecoli_Sakai	437	True	1	93.364	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_310020.2	NP_310020.2	ecoli_Sakai	89	True	1	91.011	3.63e-56	ref|WP_095575662.1|
+ecoli_Sakai__NP_310021.1	NP_310021.1	ecoli_Sakai	191	True	8	48.205	2.1e-55	ref|WP_059221821.1|
+ecoli_Sakai__NP_310022.1	NP_310022.1	ecoli_Sakai	209	True	10	79.904	1.6e-127	ref|WP_273774719.1|
+ecoli_Sakai__NP_310023.1	NP_310023.1	ecoli_Sakai	213	True	9	62.736	2.83e-99	ref|WP_161538623.1|
+ecoli_Sakai__NP_310033.1	NP_310033.1	ecoli_Sakai	1011	False	0			
+ecoli_Sakai__NP_310034.2	NP_310034.2	ecoli_Sakai	819	False	0			
+ecoli_Sakai__NP_310043.1	NP_310043.1	ecoli_Sakai	141	False	0			
+ecoli_Sakai__NP_310044.1	NP_310044.1	ecoli_Sakai	112	True	1	66.087	4.72e-48	ref|WP_256879130.1|
+ecoli_Sakai__NP_310045.1	NP_310045.1	ecoli_Sakai	143	True	1	59.859	6.41e-61	ref|WP_207610563.1|
+ecoli_Sakai__NP_310046.1	NP_310046.1	ecoli_Sakai	125	True	1	78.226	1.44e-62	ref|WP_001001239.1|
+ecoli_Sakai__NP_310170.2	NP_310170.2	ecoli_Sakai	323	False	0			
+ecoli_Sakai__NP_310181.1	NP_310181.1	ecoli_Sakai	213	True	9	61.502	1.89e-97	ref|WP_256879077.1|
+ecoli_Sakai__NP_310182.1	NP_310182.1	ecoli_Sakai	209	True	10	79.904	9.34e-127	ref|WP_273774719.1|
+ecoli_Sakai__NP_310183.1	NP_310183.1	ecoli_Sakai	191	True	8	48.205	3.94e-55	ref|WP_059221821.1|
+ecoli_Sakai__NP_310184.1	NP_310184.1	ecoli_Sakai	89	True	1	92.135	1.37e-56	ref|WP_095575662.1|
+ecoli_Sakai__NP_310186.2	NP_310186.2	ecoli_Sakai	269	True	1	82.09	1.11e-125	ref|WP_273774720.1|
+ecoli_Sakai__NP_310189.2	NP_310189.2	ecoli_Sakai	192	True	1	61.458	2.17e-77	ref|WP_240431810.1|
+ecoli_Sakai__NP_310190.2	NP_310190.2	ecoli_Sakai	247	True	1	85.714	2.31e-164	ref|WP_161537892.1|
+ecoli_Sakai__NP_310191.1	NP_310191.1	ecoli_Sakai	232	True	1	76.724	1.74e-139	ref|WP_105175642.1|
+ecoli_Sakai__NP_310192.1	NP_310192.1	ecoli_Sakai	109	True	1	78.899	1.77e-61	ref|WP_000847354.1|
+ecoli_Sakai__NP_310193.1	NP_310193.1	ecoli_Sakai	870	False	0			
+ecoli_Sakai__NP_310194.1	NP_310194.1	ecoli_Sakai	137	True	1	66.667	1.45e-55	ref|WP_059236887.1|
+ecoli_Sakai__NP_310195.1	NP_310195.1	ecoli_Sakai	140	True	1	40.714	4.97e-31	ref|WP_032329098.1|
+ecoli_Sakai__NP_310196.1	NP_310196.1	ecoli_Sakai	250	True	1	79.098	4e-143	ref|WP_032330267.1|
+ecoli_Sakai__NP_310197.1	NP_310197.1	ecoli_Sakai	131	True	1	82.443	6.41e-78	ref|WP_273774729.1|
+ecoli_Sakai__NP_310198.1	NP_310198.1	ecoli_Sakai	177	True	1	82.486	6.88e-107	ref|WP_273774731.1|
+ecoli_Sakai__NP_310199.1	NP_310199.1	ecoli_Sakai	117	True	1	91.453	2.17e-76	ref|WP_032151592.1|
+ecoli_Sakai__NP_310200.1	NP_310200.1	ecoli_Sakai	132	True	1	90.152	1.2e-78	ref|WP_273774735.1|
+ecoli_Sakai__NP_310201.1	NP_310201.1	ecoli_Sakai	341	True	1	95.601	0.0	ref|WP_161538483.1|
+ecoli_Sakai__NP_310202.1	NP_310202.1	ecoli_Sakai	110	True	1	99.091	1.92e-77	ref|WP_001299443.1|
+ecoli_Sakai__NP_310203.1	NP_310203.1	ecoli_Sakai	439	True	1	98.405	0.0	ref|WP_151402187.1|
+ecoli_Sakai__NP_310204.1	NP_310204.1	ecoli_Sakai	533	True	1	98.687	0.0	ref|WP_059217885.1|
+ecoli_Sakai__NP_310205.1	NP_310205.1	ecoli_Sakai	68	True	1	98.529	2.12e-45	ref|WP_000198152.1|
+ecoli_Sakai__NP_310206.1	NP_310206.1	ecoli_Sakai	641	True	1	98.284	0.0	ref|WP_149540987.1|
+ecoli_Sakai__NP_310209.1	NP_310209.1	ecoli_Sakai	104	True	2	94.505	2.59e-62	ref|WP_024164817.1|
+ecoli_Sakai__NP_310212.2	NP_310212.2	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_310217.1	NP_310217.1	ecoli_Sakai	143	False	0			
+ecoli_Sakai__NP_310219.1	NP_310219.1	ecoli_Sakai	65	False	0			
+ecoli_Sakai__NP_310220.1	NP_310220.1	ecoli_Sakai	184	True	1	24.852	5.17e-07	ref|WP_001535924.1|
+ecoli_Sakai__NP_310226.1	NP_310226.1	ecoli_Sakai	185	False	0			
+ecoli_Sakai__NP_310228.1	NP_310228.1	ecoli_Sakai	103	False	0			
+ecoli_Sakai__NP_310229.1	NP_310229.1	ecoli_Sakai	75	False	0			
+ecoli_Sakai__NP_310230.1	NP_310230.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_310232.2	NP_310232.2	ecoli_Sakai	153	False	0			
+ecoli_Sakai__NP_310233.1	NP_310233.1	ecoli_Sakai	347	False	0			
+ecoli_Sakai__NP_310235.1	NP_310235.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_310236.2	NP_310236.2	ecoli_Sakai	112	False	0			
+ecoli_Sakai__NP_310238.1	NP_310238.1	ecoli_Sakai	212	False	0			
+ecoli_Sakai__NP_310239.1	NP_310239.1	ecoli_Sakai	69	False	0			
+ecoli_Sakai__NP_310245.1	NP_310245.1	ecoli_Sakai	84	False	0			
+ecoli_Sakai__NP_310248.1	NP_310248.1	ecoli_Sakai	289	False	0			
+ecoli_Sakai__NP_310249.1	NP_310249.1	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_310250.1	NP_310250.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_310251.1	NP_310251.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_310257.1	NP_310257.1	ecoli_Sakai	89	True	1	92.135	1.37e-56	ref|WP_095575662.1|
+ecoli_Sakai__NP_310258.1	NP_310258.1	ecoli_Sakai	407	True	1	86.499	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_310263.2	NP_310263.2	ecoli_Sakai	193	True	1	60.417	1.92e-75	ref|WP_240431810.1|
+ecoli_Sakai__NP_310264.2	NP_310264.2	ecoli_Sakai	247	True	1	85.714	9.08e-165	ref|WP_161537892.1|
+ecoli_Sakai__NP_310265.1	NP_310265.1	ecoli_Sakai	232	True	1	76.293	5.25e-137	ref|WP_105175642.1|
+ecoli_Sakai__NP_310266.1	NP_310266.1	ecoli_Sakai	113	True	1	46.847	1.99e-29	ref|WP_000847354.1|
+ecoli_Sakai__NP_310267.1	NP_310267.1	ecoli_Sakai	1080	False	0			
+ecoli_Sakai__NP_310268.2	NP_310268.2	ecoli_Sakai	69	False	0			
+ecoli_Sakai__NP_310269.1	NP_310269.1	ecoli_Sakai	124	False	0			
+ecoli_Sakai__NP_310270.1	NP_310270.1	ecoli_Sakai	238	False	0			
+ecoli_Sakai__NP_310271.1	NP_310271.1	ecoli_Sakai	114	False	0			
+ecoli_Sakai__NP_310272.1	NP_310272.1	ecoli_Sakai	148	False	0			
+ecoli_Sakai__NP_310273.1	NP_310273.1	ecoli_Sakai	116	False	0			
+ecoli_Sakai__NP_310274.1	NP_310274.1	ecoli_Sakai	108	False	0			
+ecoli_Sakai__NP_310275.1	NP_310275.1	ecoli_Sakai	859	False	0			
+ecoli_Sakai__NP_310277.1	NP_310277.1	ecoli_Sakai	645	False	0			
+ecoli_Sakai__NP_310279.1	NP_310279.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_310281.1	NP_310281.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_310285.1	NP_310285.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_310292.1	NP_310292.1	ecoli_Sakai	142	False	0			
+ecoli_Sakai__NP_310294.1	NP_310294.1	ecoli_Sakai	229	False	0			
+ecoli_Sakai__NP_310299.1	NP_310299.1	ecoli_Sakai	194	False	0			
+ecoli_Sakai__NP_310305.1	NP_310305.1	ecoli_Sakai	100	False	0			
+ecoli_Sakai__NP_310306.2	NP_310306.2	ecoli_Sakai	123	False	0			
+ecoli_Sakai__NP_310307.2	NP_310307.2	ecoli_Sakai	63	False	0			
+ecoli_Sakai__NP_310308.1	NP_310308.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_310309.2	NP_310309.2	ecoli_Sakai	66	False	0			
+ecoli_Sakai__NP_310500.3	NP_310500.3	ecoli_Sakai	236	True	1	86.864	1.52e-145	ref|WP_025238903.1|
+ecoli_Sakai__NP_310645.1	NP_310645.1	ecoli_Sakai	115	False	0			
+ecoli_Sakai__NP_310646.1	NP_310646.1	ecoli_Sakai	216	False	0			
+ecoli_Sakai__NP_310647.1	NP_310647.1	ecoli_Sakai	134	False	0			
+ecoli_Sakai__NP_310650.1	NP_310650.1	ecoli_Sakai	116	False	0			
+ecoli_Sakai__NP_310651.1	NP_310651.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_310652.1	NP_310652.1	ecoli_Sakai	80	False	0			
+ecoli_Sakai__NP_310653.1	NP_310653.1	ecoli_Sakai	138	False	0			
+ecoli_Sakai__NP_310654.1	NP_310654.1	ecoli_Sakai	67	False	0			
+ecoli_Sakai__NP_310655.1	NP_310655.1	ecoli_Sakai	88	False	0			
+ecoli_Sakai__NP_310656.1	NP_310656.1	ecoli_Sakai	99	False	0			
+ecoli_Sakai__NP_310657.1	NP_310657.1	ecoli_Sakai	205	False	0			
+ecoli_Sakai__NP_310658.1	NP_310658.1	ecoli_Sakai	76	False	0			
+ecoli_Sakai__NP_310659.1	NP_310659.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_310661.1	NP_310661.1	ecoli_Sakai	319	True	1	50.784	3.22e-107	ref|WP_256878413.1|
+ecoli_Sakai__NP_310662.1	NP_310662.1	ecoli_Sakai	104	False	0			
+ecoli_Sakai__NP_310666.3	NP_310666.3	ecoli_Sakai	162	True	1	45.669	5.71e-40	ref|WP_000978916.1|
+ecoli_Sakai__NP_310670.1	NP_310670.1	ecoli_Sakai	121	True	2	31.765	6.68e-08	ref|WP_001031303.1|
+ecoli_Sakai__NP_310671.1	NP_310671.1	ecoli_Sakai	170	True	1	42.857	4.38e-40	ref|WP_001251408.1|
+ecoli_Sakai__NP_310673.1	NP_310673.1	ecoli_Sakai	107	False	0			
+ecoli_Sakai__NP_310689.1	NP_310689.1	ecoli_Sakai	585	False	0			
+ecoli_Sakai__NP_310741.1	NP_310741.1	ecoli_Sakai	217	False	0			
+ecoli_Sakai__NP_310742.1	NP_310742.1	ecoli_Sakai	337	False	0			
+ecoli_Sakai__NP_310743.1	NP_310743.1	ecoli_Sakai	89	True	1	94.382	7.53e-58	ref|WP_095575662.1|
+ecoli_Sakai__NP_310744.1	NP_310744.1	ecoli_Sakai	437	True	1	92.449	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_310748.2	NP_310748.2	ecoli_Sakai	192	True	1	61.458	2.17e-77	ref|WP_240431810.1|
+ecoli_Sakai__NP_310749.2	NP_310749.2	ecoli_Sakai	247	True	1	85.714	2.31e-164	ref|WP_161537892.1|
+ecoli_Sakai__NP_310750.1	NP_310750.1	ecoli_Sakai	232	True	1	76.293	2.81e-137	ref|WP_105175642.1|
+ecoli_Sakai__NP_310751.1	NP_310751.1	ecoli_Sakai	109	True	1	78.899	1.77e-61	ref|WP_000847354.1|
+ecoli_Sakai__NP_310754.2	NP_310754.2	ecoli_Sakai	137	True	1	69.697	7.2e-59	ref|WP_059236887.1|
+ecoli_Sakai__NP_310755.1	NP_310755.1	ecoli_Sakai	143	True	1	67.133	5.14e-62	ref|WP_032329098.1|
+ecoli_Sakai__NP_310756.3	NP_310756.3	ecoli_Sakai	209	True	1	78.325	2.22e-116	ref|WP_032330267.1|
+ecoli_Sakai__NP_310757.1	NP_310757.1	ecoli_Sakai	88	False	0			
+ecoli_Sakai__NP_310758.1	NP_310758.1	ecoli_Sakai	115	True	1	56.989	2.61e-32	ref|WP_001299443.1|
+ecoli_Sakai__NP_310759.1	NP_310759.1	ecoli_Sakai	501	True	1	53.995	2.21e-140	ref|WP_151402187.1|
+ecoli_Sakai__NP_310760.1	NP_310760.1	ecoli_Sakai	530	True	1	60.461	0.0	ref|WP_059217885.1|
+ecoli_Sakai__NP_310761.1	NP_310761.1	ecoli_Sakai	68	True	1	52.941	1.36e-14	ref|WP_000198152.1|
+ecoli_Sakai__NP_310762.1	NP_310762.1	ecoli_Sakai	642	True	1	65.415	0.0	ref|WP_149540987.1|
+ecoli_Sakai__NP_310764.1	NP_310764.1	ecoli_Sakai	104	True	2	93.407	9.05e-62	ref|WP_024164817.1|
+ecoli_Sakai__NP_310767.3	NP_310767.3	ecoli_Sakai	60	False	0			
+ecoli_Sakai__NP_310775.1	NP_310775.1	ecoli_Sakai	55	True	1	80.645	4.7e-14	ref|WP_064763535.1|
+ecoli_Sakai__NP_310776.1	NP_310776.1	ecoli_Sakai	142	False	0			
+ecoli_Sakai__NP_310777.1	NP_310777.1	ecoli_Sakai	229	False	0			
+ecoli_Sakai__NP_310783.1	NP_310783.1	ecoli_Sakai	187	False	0			
+ecoli_Sakai__NP_310784.1	NP_310784.1	ecoli_Sakai	103	False	0			
+ecoli_Sakai__NP_310785.2	NP_310785.2	ecoli_Sakai	50	False	0			
+ecoli_Sakai__NP_310786.1	NP_310786.1	ecoli_Sakai	118	False	0			
+ecoli_Sakai__NP_310787.1	NP_310787.1	ecoli_Sakai	74	False	0			
+ecoli_Sakai__NP_310789.2	NP_310789.2	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_310790.1	NP_310790.1	ecoli_Sakai	345	False	0			
+ecoli_Sakai__NP_310793.2	NP_310793.2	ecoli_Sakai	214	False	0			
+ecoli_Sakai__NP_310799.1	NP_310799.1	ecoli_Sakai	67	False	0			
+ecoli_Sakai__NP_310804.1	NP_310804.1	ecoli_Sakai	350	True	1	67.429	1e-178	ref|WP_000603134.1|
+ecoli_Sakai__NP_310816.2	NP_310816.2	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_310817.1	NP_310817.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_310818.1	NP_310818.1	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_310823.2	NP_310823.2	ecoli_Sakai	299	False	0			
+ecoli_Sakai__NP_310825.1	NP_310825.1	ecoli_Sakai	356	False	0			
+ecoli_Sakai__NP_310826.1	NP_310826.1	ecoli_Sakai	227	False	0			
+ecoli_Sakai__NP_310827.1	NP_310827.1	ecoli_Sakai	136	False	0			
+ecoli_Sakai__NP_310867.1	NP_310867.1	ecoli_Sakai	404	False	0			
+ecoli_Sakai__NP_310869.2	NP_310869.2	ecoli_Sakai	463	False	0			
+ecoli_Sakai__NP_310871.1	NP_310871.1	ecoli_Sakai	394	False	0			
+ecoli_Sakai__NP_310896.1	NP_310896.1	ecoli_Sakai	112	False	0			
+ecoli_Sakai__NP_310897.1	NP_310897.1	ecoli_Sakai	96	False	0			
+ecoli_Sakai__NP_310936.1	NP_310936.1	ecoli_Sakai	115	False	0			
+ecoli_Sakai__NP_310937.1	NP_310937.1	ecoli_Sakai	104	False	0			
+ecoli_Sakai__NP_310967.2	NP_310967.2	ecoli_Sakai	89	True	1	97.753	2.36e-60	ref|WP_095575662.1|
+ecoli_Sakai__NP_310968.1	NP_310968.1	ecoli_Sakai	437	True	1	93.822	0.0	ref|WP_273774720.1|
+ecoli_Sakai__NP_310972.2	NP_310972.2	ecoli_Sakai	192	True	1	61.458	2.17e-77	ref|WP_240431810.1|
+ecoli_Sakai__NP_310973.1	NP_310973.1	ecoli_Sakai	247	True	1	85.714	2.31e-164	ref|WP_161537892.1|
+ecoli_Sakai__NP_310974.1	NP_310974.1	ecoli_Sakai	232	True	1	76.293	2.81e-137	ref|WP_105175642.1|
+ecoli_Sakai__NP_310975.1	NP_310975.1	ecoli_Sakai	109	True	1	78.899	1.77e-61	ref|WP_000847354.1|
+ecoli_Sakai__NP_310976.1	NP_310976.1	ecoli_Sakai	881	False	0			
+ecoli_Sakai__NP_310977.1	NP_310977.1	ecoli_Sakai	102	True	1	69.608	1.1e-47	ref|WP_059236887.1|
+ecoli_Sakai__NP_310978.1	NP_310978.1	ecoli_Sakai	140	True	1	40.0	1.68e-30	ref|WP_032329098.1|
+ecoli_Sakai__NP_310979.1	NP_310979.1	ecoli_Sakai	250	True	1	79.098	4e-143	ref|WP_032330267.1|
+ecoli_Sakai__NP_310980.1	NP_310980.1	ecoli_Sakai	132	True	1	56.061	2.19e-47	ref|WP_273774729.1|
+ecoli_Sakai__NP_310981.1	NP_310981.1	ecoli_Sakai	207	True	1	41.262	1.47e-41	ref|WP_273774731.1|
+ecoli_Sakai__NP_310982.1	NP_310982.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_310983.1	NP_310983.1	ecoli_Sakai	108	False	0			
+ecoli_Sakai__NP_310984.2	NP_310984.2	ecoli_Sakai	346	False	0			
+ecoli_Sakai__NP_310988.1	NP_310988.1	ecoli_Sakai	500	False	0			
+ecoli_Sakai__NP_310989.2	NP_310989.2	ecoli_Sakai	70	False	0			
+ecoli_Sakai__NP_310990.1	NP_310990.1	ecoli_Sakai	707	True	1	23.704	1.25e-14	ref|WP_149540987.1|
+ecoli_Sakai__NP_310991.1	NP_310991.1	ecoli_Sakai	158	False	0			
+ecoli_Sakai__NP_310994.1	NP_310994.1	ecoli_Sakai	189	False	0			
+ecoli_Sakai__NP_310997.1	NP_310997.1	ecoli_Sakai	81	False	0			
+ecoli_Sakai__NP_310998.1	NP_310998.1	ecoli_Sakai	59	False	0			
+ecoli_Sakai__NP_311000.1	NP_311000.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__NP_311001.1	NP_311001.1	ecoli_Sakai	315	False	0			
+ecoli_Sakai__NP_311003.1	NP_311003.1	ecoli_Sakai	64	True	2	80.0	1.53e-31	ref|WP_059217943.1|
+ecoli_Sakai__NP_311004.1	NP_311004.1	ecoli_Sakai	201	True	1	94.527	1.49e-132	ref|WP_059257244.1|
+ecoli_Sakai__NP_311005.1	NP_311005.1	ecoli_Sakai	69	True	2	86.792	2.62e-30	ref|WP_059257245.1|
+ecoli_Sakai__NP_311006.1	NP_311006.1	ecoli_Sakai	133	False	0			
+ecoli_Sakai__NP_311007.1	NP_311007.1	ecoli_Sakai	58	True	2	100.0	4.52e-39	ref|WP_001254256.1|
+ecoli_Sakai__NP_311009.1	NP_311009.1	ecoli_Sakai	148	True	1	44.966	3.15e-32	ref|WP_000736913.1|
+ecoli_Sakai__NP_311010.2	NP_311010.2	ecoli_Sakai	78	False	0			
+ecoli_Sakai__NP_311011.1	NP_311011.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_311013.1	NP_311013.1	ecoli_Sakai	233	True	1	98.283	3.14e-173	ref|WP_053896188.1|
+ecoli_Sakai__NP_311014.1	NP_311014.1	ecoli_Sakai	312	True	2	95.192	0.0	ref|WP_089584188.1|
+ecoli_Sakai__NP_311015.1	NP_311015.1	ecoli_Sakai	98	True	2	89.796	3.13e-63	ref|WP_273774476.1|
+ecoli_Sakai__NP_311016.1	NP_311016.1	ecoli_Sakai	72	False	0			
+ecoli_Sakai__NP_311018.1	NP_311018.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_311019.1	NP_311019.1	ecoli_Sakai	183	False	0			
+ecoli_Sakai__NP_311021.1	NP_311021.1	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_311022.1	NP_311022.1	ecoli_Sakai	193	False	0			
+ecoli_Sakai__NP_311023.1	NP_311023.1	ecoli_Sakai	122	True	1	99.18	1.1e-87	ref|WP_000065374.1|
+ecoli_Sakai__NP_311024.1	NP_311024.1	ecoli_Sakai	54	True	1	100.0	5.91e-37	ref|WP_001198861.1|
+ecoli_Sakai__NP_311028.1	NP_311028.1	ecoli_Sakai	261	True	1	99.617	0.0	ref|WP_000100845.1|
+ecoli_Sakai__NP_311029.1	NP_311029.1	ecoli_Sakai	225	True	1	97.778	7.31e-172	ref|WP_000186837.1|
+ecoli_Sakai__NP_311030.2	NP_311030.2	ecoli_Sakai	60	True	1	96.667	2.3e-40	ref|WP_049029061.1|
+ecoli_Sakai__NP_311031.1	NP_311031.1	ecoli_Sakai	63	True	1	100.0	1.23e-42	ref|WP_000548547.1|
+ecoli_Sakai__NP_311034.1	NP_311034.1	ecoli_Sakai	315	False	0			
+ecoli_Sakai__NP_311036.1	NP_311036.1	ecoli_Sakai	118	False	0			
+ecoli_Sakai__NP_311038.1	NP_311038.1	ecoli_Sakai	80	True	1	70.0	2.41e-37	ref|WP_000457736.1|
+ecoli_Sakai__NP_311055.2	NP_311055.2	ecoli_Sakai	214	True	2	94.393	4.61e-155	ref|WP_000781179.1|
+ecoli_Sakai__NP_311057.1	NP_311057.1	ecoli_Sakai	342	True	1	95.652	0.0	ref|WP_256879032.1|
+ecoli_Sakai__NP_311150.1	NP_311150.1	ecoli_Sakai	356	False	0			
+ecoli_Sakai__NP_311259.1	NP_311259.1	ecoli_Sakai	378	True	1	46.262	2.77e-50	ref|WP_256909637.1|
+ecoli_Sakai__NP_311260.1	NP_311260.1	ecoli_Sakai	226	True	2	75.0	2.38e-73	ref|WP_047662489.1|
+ecoli_Sakai__NP_311261.1	NP_311261.1	ecoli_Sakai	155	True	1	86.0	5.2e-97	ref|WP_000420674.1|
+ecoli_Sakai__NP_311263.2	NP_311263.2	ecoli_Sakai	215	False	0			
+ecoli_Sakai__NP_311265.1	NP_311265.1	ecoli_Sakai	470	False	0			
+ecoli_Sakai__NP_311266.1	NP_311266.1	ecoli_Sakai	58	False	0			
+ecoli_Sakai__NP_311270.1	NP_311270.1	ecoli_Sakai	477	False	0			
+ecoli_Sakai__NP_311304.1	NP_311304.1	ecoli_Sakai	180	True	2	28.986	5.57e-16	ref|WP_256878986.1|
+ecoli_Sakai__NP_311408.1	NP_311408.1	ecoli_Sakai	284	False	0			
+ecoli_Sakai__NP_311512.1	NP_311512.1	ecoli_Sakai	196	True	1	52.85	9.56e-70	ref|WP_256878754.1|
+ecoli_Sakai__NP_311513.1	NP_311513.1	ecoli_Sakai	216	True	10	57.635	3.2e-84	ref|WP_001145629.1|
+ecoli_Sakai__NP_311514.1	NP_311514.1	ecoli_Sakai	352	False	0			
+ecoli_Sakai__NP_311516.2	NP_311516.2	ecoli_Sakai	89	True	1	95.506	6.8e-59	ref|WP_095575662.1|
+ecoli_Sakai__NP_311520.1	NP_311520.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_311521.1	NP_311521.1	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_311526.1	NP_311526.1	ecoli_Sakai	109	False	0			
+ecoli_Sakai__NP_311527.3	NP_311527.3	ecoli_Sakai	247	True	1	100.0	0.0	ref|WP_001302581.1|
+ecoli_Sakai__NP_311530.1	NP_311530.1	ecoli_Sakai	203	True	1	83.417	1.53e-112	ref|WP_059257244.1|
+ecoli_Sakai__NP_311531.1	NP_311531.1	ecoli_Sakai	188	True	2	39.286	3.94e-28	ref|WP_000658765.1|
+ecoli_Sakai__NP_311533.2	NP_311533.2	ecoli_Sakai	100	False	0			
+ecoli_Sakai__NP_311534.2	NP_311534.2	ecoli_Sakai	420	False	0			
+ecoli_Sakai__NP_311535.1	NP_311535.1	ecoli_Sakai	137	False	0			
+ecoli_Sakai__NP_311536.1	NP_311536.1	ecoli_Sakai	132	False	0			
+ecoli_Sakai__NP_311537.1	NP_311537.1	ecoli_Sakai	543	False	0			
+ecoli_Sakai__NP_311538.1	NP_311538.1	ecoli_Sakai	437	False	0			
+ecoli_Sakai__NP_311539.1	NP_311539.1	ecoli_Sakai	401	False	0			
+ecoli_Sakai__NP_311541.1	NP_311541.1	ecoli_Sakai	283	True	1	25.338	9.98e-19	ref|WP_032217205.1|
+ecoli_Sakai__NP_311544.1	NP_311544.1	ecoli_Sakai	449	False	0			
+ecoli_Sakai__NP_311546.1	NP_311546.1	ecoli_Sakai	335	False	0			
+ecoli_Sakai__NP_311618.1	NP_311618.1	ecoli_Sakai	78	True	1	97.436	1.43e-54	ref|WP_000562974.1|
+ecoli_Sakai__NP_311640.1	NP_311640.1	ecoli_Sakai	178	False	0			
+ecoli_Sakai__NP_311664.1	NP_311664.1	ecoli_Sakai	382	True	1	78.273	0.0	ref|WP_256878878.1|
+ecoli_Sakai__NP_311741.1	NP_311741.1	ecoli_Sakai	86	False	0			
+ecoli_Sakai__NP_311743.1	NP_311743.1	ecoli_Sakai	244	True	2	80.579	7.72e-137	ref|WP_059218065.1|
+ecoli_Sakai__NP_311744.1	NP_311744.1	ecoli_Sakai	110	True	1	67.273	5.03e-50	ref|WP_001110551.1|
+ecoli_Sakai__NP_311745.1	NP_311745.1	ecoli_Sakai	79	True	1	93.671	2.95e-52	ref|WP_000796268.1|
+ecoli_Sakai__NP_311746.1	NP_311746.1	ecoli_Sakai	244	True	1	74.074	1.98e-134	ref|WP_000429639.1|
+ecoli_Sakai__NP_311747.1	NP_311747.1	ecoli_Sakai	166	True	1	59.281	8.18e-65	ref|WP_001195876.1|
+ecoli_Sakai__NP_311751.1	NP_311751.1	ecoli_Sakai	86	True	2	94.186	9.34e-57	ref|WP_000341007.1|
+ecoli_Sakai__NP_311753.1	NP_311753.1	ecoli_Sakai	328	True	1	50.974	6.19e-116	ref|WP_256878865.1|
+ecoli_Sakai__NP_311754.2	NP_311754.2	ecoli_Sakai	189	True	1	49.686	2.1e-38	ref|WP_059277531.1|
+ecoli_Sakai__NP_311755.1	NP_311755.1	ecoli_Sakai	77	False	0			
+ecoli_Sakai__NP_311756.2	NP_311756.2	ecoli_Sakai	152	True	1	75.839	5.15e-76	ref|WP_054412927.1|
+ecoli_Sakai__NP_311759.1	NP_311759.1	ecoli_Sakai	381	True	1	79.528	0.0	ref|WP_059236713.1|
+ecoli_Sakai__NP_311760.1	NP_311760.1	ecoli_Sakai	567	True	2	85.387	0.0	ref|WP_059236711.1|
+ecoli_Sakai__NP_311761.1	NP_311761.1	ecoli_Sakai	249	True	1	87.952	1.3e-169	ref|WP_000568785.1|
+ecoli_Sakai__NP_311763.1	NP_311763.1	ecoli_Sakai	352	True	1	82.609	0.0	ref|WP_370649773.1|
+ecoli_Sakai__NP_311826.1	NP_311826.1	ecoli_Sakai	143	False	0			
+ecoli_Sakai__NP_311827.1	NP_311827.1	ecoli_Sakai	192	False	0			
+ecoli_Sakai__NP_311828.1	NP_311828.1	ecoli_Sakai	235	False	0			
+ecoli_Sakai__NP_311840.1	NP_311840.1	ecoli_Sakai	243	True	1	94.65	3.7e-175	ref|WP_256878849.1|
+ecoli_Sakai__NP_311873.1	NP_311873.1	ecoli_Sakai	224	True	1	34.965	3.25e-21	ref|WP_000422741.1|
+ecoli_Sakai__NP_311874.1	NP_311874.1	ecoli_Sakai	115	True	2	80.87	3.48e-69	ref|WP_064160280.1|
+ecoli_Sakai__NP_311884.1	NP_311884.1	ecoli_Sakai	329	True	1	89.97	0.0	ref|WP_054409997.1|
+ecoli_Sakai__NP_311885.1	NP_311885.1	ecoli_Sakai	224	True	1	86.161	1.49e-145	ref|WP_256878719.1|
+ecoli_Sakai__NP_311892.2	NP_311892.2	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_311893.2	NP_311893.2	ecoli_Sakai	512	True	1	63.789	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_311895.1	NP_311895.1	ecoli_Sakai	116	True	2	99.138	8.06e-83	ref|WP_000624718.1|
+ecoli_Sakai__NP_311896.1	NP_311896.1	ecoli_Sakai	467	True	1	97.43	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_312288.2	NP_312288.2	ecoli_Sakai	92	False	0			
+ecoli_Sakai__NP_312289.1	NP_312289.1	ecoli_Sakai	161	True	1	33.571	1.12e-22	ref|WP_000342453.1|
+ecoli_Sakai__NP_312297.2	NP_312297.2	ecoli_Sakai	200	True	1	81.771	1.32e-111	ref|WP_256879187.1|
+ecoli_Sakai__NP_312307.2	NP_312307.2	ecoli_Sakai	431	False	0			
+ecoli_Sakai__NP_312318.1	NP_312318.1	ecoli_Sakai	303	False	0			
+ecoli_Sakai__NP_312327.1	NP_312327.1	ecoli_Sakai	248	True	1	93.548	1.2e-171	ref|WP_000558826.1|
+ecoli_Sakai__NP_312334.1	NP_312334.1	ecoli_Sakai	175	True	1	98.857	2.63e-131	ref|WP_000342453.1|
+ecoli_Sakai__NP_312351.1	NP_312351.1	ecoli_Sakai	125	False	0			
+ecoli_Sakai__NP_312352.2	NP_312352.2	ecoli_Sakai	352	False	0			
+ecoli_Sakai__NP_312353.2	NP_312353.2	ecoli_Sakai	240	False	0			
+ecoli_Sakai__NP_312354.2	NP_312354.2	ecoli_Sakai	273	False	0			
+ecoli_Sakai__NP_312355.1	NP_312355.1	ecoli_Sakai	85	False	0			
+ecoli_Sakai__NP_312356.1	NP_312356.1	ecoli_Sakai	83	False	0			
+ecoli_Sakai__NP_312357.1	NP_312357.1	ecoli_Sakai	193	False	0			
+ecoli_Sakai__NP_312358.1	NP_312358.1	ecoli_Sakai	453	False	0			
+ecoli_Sakai__NP_312359.1	NP_312359.1	ecoli_Sakai	117	False	0			
+ecoli_Sakai__NP_312360.1	NP_312360.1	ecoli_Sakai	558	False	0			
+ecoli_Sakai__NP_312361.1	NP_312361.1	ecoli_Sakai	140	False	0			
+ecoli_Sakai__NP_312362.1	NP_312362.1	ecoli_Sakai	201	False	0			
+ecoli_Sakai__NP_312363.2	NP_312363.2	ecoli_Sakai	772	False	0			
+ecoli_Sakai__NP_312364.1	NP_312364.1	ecoli_Sakai	194	False	0			
+ecoli_Sakai__NP_312366.1	NP_312366.1	ecoli_Sakai	154	False	0			
+ecoli_Sakai__NP_312383.1	NP_312383.1	ecoli_Sakai	119	True	1	45.37	3.41e-33	ref|WP_001030481.1|
+ecoli_Sakai__NP_312384.1	NP_312384.1	ecoli_Sakai	91	True	1	40.23	1.12e-19	ref|WP_000598761.1|
+ecoli_Sakai__NP_312406.1	NP_312406.1	ecoli_Sakai	342	True	1	93.275	0.0	ref|WP_001110408.1|
+ecoli_Sakai__NP_312411.1	NP_312411.1	ecoli_Sakai	164	True	1	92.683	1.38e-115	ref|WP_044709444.1|
+ecoli_Sakai__NP_312412.1	NP_312412.1	ecoli_Sakai	207	True	1	92.271	1.14e-142	ref|WP_256878134.1|
+ecoli_Sakai__NP_312492.1	NP_312492.1	ecoli_Sakai	431	True	1	94.896	0.0	ref|WP_059225479.1|
+ecoli_Sakai__NP_312527.1	NP_312527.1	ecoli_Sakai	402	True	1	50.253	8.94e-150	ref|WP_256879250.1|
+ecoli_Sakai__NP_312528.1	NP_312528.1	ecoli_Sakai	380	True	2	57.784	4.94e-164	ref|WP_256879249.1|
+ecoli_Sakai__NP_312569.1	NP_312569.1	ecoli_Sakai	113	False	0			
+ecoli_Sakai__NP_312572.2	NP_312572.2	ecoli_Sakai	126	True	1	37.879	6.87e-18	ref|WP_000422741.1|
+ecoli_Sakai__NP_312573.1	NP_312573.1	ecoli_Sakai	115	True	2	75.701	4.43e-60	ref|WP_064160280.1|
+ecoli_Sakai__NP_312574.1	NP_312574.1	ecoli_Sakai	512	True	1	63.579	0.0	ref|WP_048237919.1|
+ecoli_Sakai__NP_312577.1	NP_312577.1	ecoli_Sakai	248	False	0			
+ecoli_Sakai__NP_312578.1	NP_312578.1	ecoli_Sakai	92	True	1	86.957	2.95e-55	ref|WP_000245867.1|
+ecoli_Sakai__NP_312579.1	NP_312579.1	ecoli_Sakai	73	True	1	100.0	1.36e-49	ref|WP_001053840.1|
+ecoli_Sakai__NP_312580.1	NP_312580.1	ecoli_Sakai	135	True	1	96.296	3.66e-96	ref|WP_059271722.1|
+ecoli_Sakai__NP_312581.1	NP_312581.1	ecoli_Sakai	312	True	1	71.293	1.03e-133	ref|WP_001092012.1|
+ecoli_Sakai__NP_312582.1	NP_312582.1	ecoli_Sakai	374	True	1	74.211	0.0	ref|WP_000935770.1|
+ecoli_Sakai__NP_312583.1	NP_312583.1	ecoli_Sakai	192	True	1	85.417	4.12e-119	ref|WP_000381555.1|
+ecoli_Sakai__NP_312584.1	NP_312584.1	ecoli_Sakai	351	True	1	94.017	0.0	ref|WP_001273459.1|
+ecoli_Sakai__NP_312585.1	NP_312585.1	ecoli_Sakai	406	True	1	96.798	0.0	ref|WP_256878755.1|
+ecoli_Sakai__NP_312586.1	NP_312586.1	ecoli_Sakai	934	True	3	81.54	0.0	ref|WP_256878756.1|
+ecoli_Sakai__NP_312587.1	NP_312587.1	ecoli_Sakai	156	True	1	97.436	1.22e-112	ref|WP_000098786.1|
+ecoli_Sakai__NP_312588.1	NP_312588.1	ecoli_Sakai	558	True	1	65.78	0.0	ref|WP_256878757.1|
+ecoli_Sakai__NP_312589.1	NP_312589.1	ecoli_Sakai	203	True	2	80.296	1.03e-126	ref|WP_033803157.1|
+ecoli_Sakai__NP_312590.1	NP_312590.1	ecoli_Sakai	127	True	1	80.672	4.15e-70	ref|WP_059236119.1|
+ecoli_Sakai__NP_312591.1	NP_312591.1	ecoli_Sakai	168	True	1	69.048	3.24e-83	ref|WP_001374266.1|
+ecoli_Sakai__NP_312592.1	NP_312592.1	ecoli_Sakai	305	True	1	86.885	0.0	ref|WP_001050796.1|
+ecoli_Sakai__NP_312594.2	NP_312594.2	ecoli_Sakai	106	True	1	97.17	1.35e-71	ref|WP_001062953.1|
+ecoli_Sakai__NP_312597.1	NP_312597.1	ecoli_Sakai	117	True	1	95.726	2.83e-79	ref|WP_001050414.1|
+ecoli_Sakai__NP_312598.1	NP_312598.1	ecoli_Sakai	99	True	1	65.657	1.93e-33	ref|WP_256878783.1|
+ecoli_Sakai__NP_312599.2	NP_312599.2	ecoli_Sakai	125	True	1	92.0	1.55e-79	ref|WP_001059792.1|
+ecoli_Sakai__NP_312600.1	NP_312600.1	ecoli_Sakai	190	True	2	95.263	1.76e-130	ref|WP_256878759.1|
+ecoli_Sakai__NP_312601.1	NP_312601.1	ecoli_Sakai	151	True	1	90.728	2.07e-103	ref|WP_054411713.1|
+ecoli_Sakai__NP_312603.1	NP_312603.1	ecoli_Sakai	151	True	2	96.689	1.66e-110	ref|WP_000087469.1|
+ecoli_Sakai__NP_312604.1	NP_312604.1	ecoli_Sakai	137	True	1	97.08	5.17e-97	ref|WP_256878760.1|
+ecoli_Sakai__NP_312605.1	NP_312605.1	ecoli_Sakai	123	True	1	93.162	7.4e-79	ref|WP_000605357.1|
+ecoli_Sakai__NP_312606.1	NP_312606.1	ecoli_Sakai	152	True	2	96.711	1.34e-104	ref|WP_033803165.1|
+ecoli_Sakai__NP_312608.1	NP_312608.1	ecoli_Sakai	258	True	2	97.674	0.0	ref|WP_001002808.1|
+ecoli_Sakai__NP_312609.1	NP_312609.1	ecoli_Sakai	89	True	2	96.629	1.77e-58	ref|WP_000447503.1|
+ecoli_Sakai__NP_312611.2	NP_312611.2	ecoli_Sakai	217	True	1	91.244	1.55e-139	ref|WP_059236123.1|
+ecoli_Sakai__NP_312612.1	NP_312612.1	ecoli_Sakai	199	True	1	96.985	2.22e-145	ref|WP_000154002.1|
+ecoli_Sakai__NP_312613.2	NP_312613.2	ecoli_Sakai	104	True	1	90.385	1.57e-64	ref|WP_000084152.1|
+ecoli_Sakai__NP_312614.2	NP_312614.2	ecoli_Sakai	72	True	1	95.833	7.56e-44	ref|WP_000628726.1|
+ecoli_Sakai__NP_312615.2	NP_312615.2	ecoli_Sakai	123	True	1	97.561	3.19e-87	ref|WP_059220633.1|
+ecoli_Sakai__NP_312617.2	NP_312617.2	ecoli_Sakai	381	True	1	85.263	0.0	ref|WP_000606967.1|
+ecoli_Sakai__NP_312620.2	NP_312620.2	ecoli_Sakai	68	False	0			
+ecoli_Sakai__NP_312624.1	NP_312624.1	ecoli_Sakai	117	False	0			
+ecoli_Sakai__NP_312625.1	NP_312625.1	ecoli_Sakai	107	False	0			
+ecoli_Sakai__NP_312634.2	NP_312634.2	ecoli_Sakai	367	False	0			
+ecoli_Sakai__NP_312635.1	NP_312635.1	ecoli_Sakai	104	False	0			
+ecoli_Sakai__NP_312636.1	NP_312636.1	ecoli_Sakai	160	False	0			
+ecoli_Sakai__NP_312637.1	NP_312637.1	ecoli_Sakai	217	False	0			
+ecoli_Sakai__NP_312680.1	NP_312680.1	ecoli_Sakai	802	False	0			
+ecoli_Sakai__NP_312775.1	NP_312775.1	ecoli_Sakai	99	False	0			
+ecoli_Sakai__NP_312828.1	NP_312828.1	ecoli_Sakai	291	True	1	95.876	0.0	ref|WP_059228891.1|
+ecoli_Sakai__NP_312839.1	NP_312839.1	ecoli_Sakai	297	False	0			
+ecoli_Sakai__NP_312840.1	NP_312840.1	ecoli_Sakai	304	True	1	73.267	1.25e-170	ref|WP_256879426.1|
+ecoli_Sakai__NP_312881.2	NP_312881.2	ecoli_Sakai	208	True	1	94.231	2.65e-143	ref|WP_137654355.1|
+ecoli_Sakai__NP_312882.1	NP_312882.1	ecoli_Sakai	224	True	1	30.846	6.78e-26	ref|WP_137654355.1|
+ecoli_Sakai__NP_312970.1	NP_312970.1	ecoli_Sakai	176	False	0			
+ecoli_Sakai__NP_312972.1	NP_312972.1	ecoli_Sakai	696	False	0			
+ecoli_Sakai__NP_312973.1	NP_312973.1	ecoli_Sakai	310	False	0			
+ecoli_Sakai__NP_312974.1	NP_312974.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__NP_312975.1	NP_312975.1	ecoli_Sakai	84	False	0			
+ecoli_Sakai__NP_312976.1	NP_312976.1	ecoli_Sakai	93	False	0			
+ecoli_Sakai__NP_312977.1	NP_312977.1	ecoli_Sakai	90	False	0			
+ecoli_Sakai__NP_312978.1	NP_312978.1	ecoli_Sakai	97	False	0			
+ecoli_Sakai__NP_312979.1	NP_312979.1	ecoli_Sakai	176	False	0			
+ecoli_Sakai__NP_312980.1	NP_312980.1	ecoli_Sakai	180	False	0			
+ecoli_Sakai__NP_312981.1	NP_312981.1	ecoli_Sakai	177	False	0			
+ecoli_Sakai__NP_312982.1	NP_312982.1	ecoli_Sakai	171	False	0			
+ecoli_Sakai__NP_312983.2	NP_312983.2	ecoli_Sakai	183	False	0			
+ecoli_Sakai__NP_312984.2	NP_312984.2	ecoli_Sakai	110	False	0			
+ecoli_Sakai__NP_312985.1	NP_312985.1	ecoli_Sakai	65	False	0			
+ecoli_Sakai__NP_312986.1	NP_312986.1	ecoli_Sakai	98	False	0			
+ecoli_Sakai__NP_312987.1	NP_312987.1	ecoli_Sakai	169	False	0			
+ecoli_Sakai__NP_312988.1	NP_312988.1	ecoli_Sakai	141	False	0			
+ecoli_Sakai__NP_312990.2	NP_312990.2	ecoli_Sakai	142	False	0			
+ecoli_Sakai__NP_312992.1	NP_312992.1	ecoli_Sakai	75	False	0			
+ecoli_Sakai__NP_312993.1	NP_312993.1	ecoli_Sakai	102	False	0			
+ecoli_Sakai__NP_312994.1	NP_312994.1	ecoli_Sakai	96	False	0			
+ecoli_Sakai__NP_312995.1	NP_312995.1	ecoli_Sakai	193	False	0			
+ecoli_Sakai__NP_312996.1	NP_312996.1	ecoli_Sakai	554	False	0			
+ecoli_Sakai__NP_312997.2	NP_312997.2	ecoli_Sakai	529	False	0			
+ecoli_Sakai__NP_312998.1	NP_312998.1	ecoli_Sakai	441	False	0			
+ecoli_Sakai__NP_312999.1	NP_312999.1	ecoli_Sakai	157	False	0			
+ecoli_Sakai__NP_313000.1	NP_313000.1	ecoli_Sakai	374	False	0			
+ecoli_Sakai__NP_313001.1	NP_313001.1	ecoli_Sakai	315	False	0			
+ecoli_Sakai__NP_313002.1	NP_313002.1	ecoli_Sakai	128	False	0			
+ecoli_Sakai__NP_313003.1	NP_313003.1	ecoli_Sakai	139	False	0			
+ecoli_Sakai__NP_313004.1	NP_313004.1	ecoli_Sakai	186	False	0			
+ecoli_Sakai__NP_313005.1	NP_313005.1	ecoli_Sakai	81	False	0			
+ecoli_Sakai__NP_313006.1	NP_313006.1	ecoli_Sakai	500	False	0			
+ecoli_Sakai__NP_313007.1	NP_313007.1	ecoli_Sakai	121	False	0			
+ecoli_Sakai__NP_313008.1	NP_313008.1	ecoli_Sakai	158	False	0			
+ecoli_Sakai__NP_313009.1	NP_313009.1	ecoli_Sakai	691	False	0			
+ecoli_Sakai__NP_313010.2	NP_313010.2	ecoli_Sakai	449	False	0			
+ecoli_Sakai__NP_313011.1	NP_313011.1	ecoli_Sakai	374	False	0			
+ecoli_Sakai__NP_313012.2	NP_313012.2	ecoli_Sakai	204	False	0			
+ecoli_Sakai__NP_313013.1	NP_313013.1	ecoli_Sakai	145	False	0			
+ecoli_Sakai__NP_313016.1	NP_313016.1	ecoli_Sakai	303	False	0			
+ecoli_Sakai__NP_313018.1	NP_313018.1	ecoli_Sakai	67	False	0			
+ecoli_Sakai__NP_313020.1	NP_313020.1	ecoli_Sakai	679	True	1	54.167	0.0	ref|WP_059225691.1|
+ecoli_Sakai__NP_313021.1	NP_313021.1	ecoli_Sakai	60	False	0			
+ecoli_Sakai__NP_313022.1	NP_313022.1	ecoli_Sakai	81	False	0			
+ecoli_Sakai__NP_313023.2	NP_313023.2	ecoli_Sakai	154	False	0			
+ecoli_Sakai__NP_313024.1	NP_313024.1	ecoli_Sakai	66	False	0			
+ecoli_Sakai__NP_313025.1	NP_313025.1	ecoli_Sakai	245	False	0			
+ecoli_Sakai__NP_313097.1	NP_313097.1	ecoli_Sakai	227	False	0			
+ecoli_Sakai__NP_313101.1	NP_313101.1	ecoli_Sakai	756	True	1	26.709	4.5e-20	ref|WP_256879325.1|
+ecoli_Sakai__NP_313209.1	NP_313209.1	ecoli_Sakai	143	True	2	29.565	2.11e-16	ref|WP_000526135.1|
+ecoli_Sakai__NP_313240.2	NP_313240.2	ecoli_Sakai	128	True	1	93.75	4.75e-85	ref|WP_001232259.1|
+ecoli_Sakai__NP_313269.1	NP_313269.1	ecoli_Sakai	649	False	0			
+ecoli_Sakai__NP_313272.2	NP_313272.2	ecoli_Sakai	125	False	0			
+ecoli_Sakai__NP_313273.1	NP_313273.1	ecoli_Sakai	110	False	0			
+ecoli_Sakai__NP_313275.1	NP_313275.1	ecoli_Sakai	155	False	0			
+ecoli_Sakai__NP_313277.1	NP_313277.1	ecoli_Sakai	438	False	0			
+ecoli_Sakai__NP_313278.1	NP_313278.1	ecoli_Sakai	257	False	0			
+ecoli_Sakai__NP_313279.2	NP_313279.2	ecoli_Sakai	152	False	0			
+ecoli_Sakai__NP_313281.1	NP_313281.1	ecoli_Sakai	283	False	0			
+ecoli_Sakai__NP_313282.2	NP_313282.2	ecoli_Sakai	102	False	0			
+ecoli_Sakai__NP_313283.1	NP_313283.1	ecoli_Sakai	367	False	0			
+ecoli_Sakai__NP_313284.1	NP_313284.1	ecoli_Sakai	235	False	0			
+ecoli_Sakai__NP_313285.1	NP_313285.1	ecoli_Sakai	550	False	0			
+ecoli_Sakai__NP_313286.2	NP_313286.2	ecoli_Sakai	1119	False	0			
+ecoli_Sakai__NP_313287.1	NP_313287.1	ecoli_Sakai	2104	False	0			
+ecoli_Sakai__NP_313288.2	NP_313288.2	ecoli_Sakai	952	False	0			
+ecoli_Sakai__NP_313289.1	NP_313289.1	ecoli_Sakai	1644	False	0			
+ecoli_Sakai__NP_313290.1	NP_313290.1	ecoli_Sakai	2113	False	0			
+ecoli_Sakai__NP_313291.1	NP_313291.1	ecoli_Sakai	704	True	1	23.689	1.39e-11	ref|WP_256879338.1|
+ecoli_Sakai__NP_313293.2	NP_313293.2	ecoli_Sakai	81	False	0			
+ecoli_Sakai__NP_313316.3	NP_313316.3	ecoli_Sakai	161	False	0			
+ecoli_Sakai__NP_313322.1	NP_313322.1	ecoli_Sakai	735	True	1	43.22	5.39e-157	ref|WP_256878711.1|
+ecoli_Sakai__NP_313331.1	NP_313331.1	ecoli_Sakai	293	False	0			
+ecoli_Sakai__NP_313332.1	NP_313332.1	ecoli_Sakai	387	True	1	94.33	0.0	ref|WP_256878709.1|
+ecoli_Sakai__NP_313336.1	NP_313336.1	ecoli_Sakai	94	False	0			
+ecoli_Sakai__NP_313337.1	NP_313337.1	ecoli_Sakai	452	False	0			
+ecoli_Sakai__NP_313341.1	NP_313341.1	ecoli_Sakai	180	False	0			
+ecoli_Sakai__NP_958720.1	NP_958720.1	ecoli_Sakai	64	False	0			
+ecoli_Sakai__NP_958721.1	NP_958721.1	ecoli_Sakai	76	False	0			
+ecoli_Sakai__NP_958722.1	NP_958722.1	ecoli_Sakai	66	False	0			
+ecoli_Sakai__NP_958723.1	NP_958723.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__NP_958725.1	NP_958725.1	ecoli_Sakai	70	False	0			
+ecoli_Sakai__YP_009502587.1	YP_009502587.1	ecoli_Sakai	72	False	0			
+ecoli_Sakai__YP_009502591.1	YP_009502591.1	ecoli_Sakai	136	False	0			
+ecoli_Sakai__YP_009502595.1	YP_009502595.1	ecoli_Sakai	109	False	0			
+ecoli_Sakai__YP_009502596.1	YP_009502596.1	ecoli_Sakai	128	False	0			
+ecoli_Sakai__YP_009502597.1	YP_009502597.1	ecoli_Sakai	151	False	0			
+ecoli_Sakai__YP_009502598.1	YP_009502598.1	ecoli_Sakai	68	True	1	52.941	1.36e-14	ref|WP_000198152.1|
+ecoli_Sakai__YP_009502599.1	YP_009502599.1	ecoli_Sakai	60	False	0			
+ecoli_Sakai__YP_009502600.1	YP_009502600.1	ecoli_Sakai	89	False	0			
+ecoli_Sakai__YP_009502602.1	YP_009502602.1	ecoli_Sakai	111	False	0			
+ecoli_Sakai__YP_009502603.1	YP_009502603.1	ecoli_Sakai	65	True	1	31.481	4.3e-07	ref|WP_023155944.1|
+ecoli_Sakai__YP_009502604.1	YP_009502604.1	ecoli_Sakai	63	True	1	51.064	5.55e-14	ref|WP_000476150.1|
+ecoli_Sakai__YP_009502605.1	YP_009502605.1	ecoli_Sakai	166	False	0			
+ecoli_Sakai__YP_009502608.1	YP_009502608.1	ecoli_Sakai	55	True	1	74.194	2.07e-12	ref|WP_064763535.1|
+ecoli_Sakai__YP_009502610.1	YP_009502610.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__YP_009502613.1	YP_009502613.1	ecoli_Sakai	66	False	0			
+ecoli_Sakai__YP_009502616.1	YP_009502616.1	ecoli_Sakai	99	False	0			
+ecoli_Sakai__YP_009502618.1	YP_009502618.1	ecoli_Sakai	54	False	0			
+ecoli_Sakai__YP_009502624.1	YP_009502624.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__YP_009502627.1	YP_009502627.1	ecoli_Sakai	131	False	0			
+ecoli_Sakai__YP_009502630.1	YP_009502630.1	ecoli_Sakai	55	True	1	77.419	1.81e-13	ref|WP_064763535.1|
+ecoli_Sakai__YP_009502631.1	YP_009502631.1	ecoli_Sakai	73	False	0			
+ecoli_Sakai__YP_009502633.1	YP_009502633.1	ecoli_Sakai	55	True	1	77.419	1.98e-13	ref|WP_064763535.1|
+ecoli_Sakai__YP_009502635.1	YP_009502635.1	ecoli_Sakai	54	False	0			
+ecoli_Sakai__YP_009502643.1	YP_009502643.1	ecoli_Sakai	71	False	0			
+ecoli_Sakai__YP_009502656.1	YP_009502656.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__YP_009502663.1	YP_009502663.1	ecoli_Sakai	72	False	0			
+ecoli_Sakai__YP_009502666.1	YP_009502666.1	ecoli_Sakai	78	False	0			
+ecoli_Sakai__YP_009502667.1	YP_009502667.1	ecoli_Sakai	92	False	0			
+ecoli_Sakai__YP_009502669.1	YP_009502669.1	ecoli_Sakai	61	False	0			
+ecoli_Sakai__YP_009502670.1	YP_009502670.1	ecoli_Sakai	119	False	0			
+ecoli_Sakai__YP_009502677.1	YP_009502677.1	ecoli_Sakai	55	False	0			

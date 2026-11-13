@@ -1,0 +1,1319 @@
+sample	candidate_id	side	query	method	seqid	start	end	gene	protein_hit	genome_hit	identity	coverage
+ecoli_MG1655	ecoli_MG1655__NP_416938.1	left	ecoli_MG1655__NP_416937.2	BLASTP	NZ_CP117568.1	2859436	2860599		True	True	41.558	95.77114427860697
+ecoli_MG1655	ecoli_MG1655__NP_416938.1	right	ecoli_MG1655__NP_416939.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416939.1	left	ecoli_MG1655__NP_416938.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416939.1	right	ecoli_MG1655__NP_416940.2						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416940.2	left	ecoli_MG1655__NP_416939.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416940.2	right	ecoli_MG1655__NP_416941.1	TBLASTN	NZ_CP117568.1	4518969	4519208		False	True	33.333	63.04347826086956
+ecoli_MG1655	ecoli_MG1655__NP_416942.1	left	ecoli_MG1655__NP_416941.1	TBLASTN	NZ_CP117568.1	4518969	4519208		False	True	33.333	63.04347826086956
+ecoli_MG1655	ecoli_MG1655__NP_416942.1	right	ecoli_MG1655__NP_416943.2						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416943.2	left	ecoli_MG1655__NP_416942.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416943.2	right	ecoli_MG1655__NP_416944.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416944.1	left	ecoli_MG1655__NP_416943.2						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416944.1	right	ecoli_MG1655__NP_416945.2						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416945.2	left	ecoli_MG1655__NP_416944.1						False	False		
+ecoli_MG1655	ecoli_MG1655__NP_416945.2	right	ecoli_MG1655__NP_416946.1	BLASTP	NZ_CP117568.1	1533806	1535209	eutA	True	True	97.859	100.0
+ecoli_MG1655	ecoli_MG1655__YP_001165315.1	left	ecoli_MG1655__YP_001165314.1	TBLASTN	NZ_CP117568.1	267025	267177		False	True	78.431	89.47368421052632
+ecoli_MG1655	ecoli_MG1655__YP_001165315.1	right	ecoli_MG1655__NP_415692.1	BLASTP	NZ_CP117568.1	273146	273412	minE	True	True	100.0	100.0
+ecoli_MG1655	ecoli_MG1655__YP_001165333.1	left	ecoli_MG1655__NP_418478.1	BLASTP	NZ_CP117568.1	3351882	3353075	tyrB	True	True	93.955	100.0
+ecoli_MG1655	ecoli_MG1655__YP_001165333.1	right	ecoli_MG1655__NP_418479.1	BLASTP	NZ_CP117568.1	3366931	3367644	aphA	True	True	96.203	100.0
+ecoli_MG1655	ecoli_MG1655__YP_002791241.1	left	ecoli_MG1655__NP_416071.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_002791241.1	right	ecoli_MG1655__NP_416072.1	BLASTP	NZ_CP117568.1	1121149	1121682		True	True	94.35	100.0
+ecoli_MG1655	ecoli_MG1655__YP_009518745.1	left	ecoli_MG1655__NP_414813.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_009518745.1	right	ecoli_MG1655__NP_414814.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_009518780.1	left	ecoli_MG1655__NP_415974.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_009518780.1	right	ecoli_MG1655__NP_415977.1	TBLASTN	NZ_CP117568.1	807708	808391		False	True	92.544	60.317460317460316
+ecoli_MG1655	ecoli_MG1655__YP_009518820.1	left	ecoli_MG1655__NP_417902.1	TBLASTN	NZ_CP117569.1	75121	75570		False	True	43.046	90.41916167664671
+ecoli_MG1655	ecoli_MG1655__YP_009518820.1	right	ecoli_MG1655__NP_417903.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_010051186.1	left	ecoli_MG1655__NP_416074.4	BLASTP	NZ_CP117568.1	4516384	4516599		True	True	83.099	100.0
+ecoli_MG1655	ecoli_MG1655__YP_010051186.1	right	ecoli_MG1655__NP_416075.1	BLASTP	NZ_CP117568.1	2735435	2735647	cspE	True	True	83.582	94.36619718309859
+ecoli_MG1655	ecoli_MG1655__YP_010051208.1	left	ecoli_MG1655__YP_010051209.1						False	False		
+ecoli_MG1655	ecoli_MG1655__YP_010051208.1	right	ecoli_MG1655__YP_010051210.1						False	False		
+ecoli_W3110	ecoli_W3110__BAA15281.2	left	ecoli_W3110__BAA15280.1	BLASTP	NZ_CP117568.1	869490	869681		True	False	36.207	92.06349206349206
+ecoli_W3110	ecoli_W3110__BAA15281.2	right	ecoli_W3110__BAA15283.2	TBLASTN	NZ_CP117569.1	41799	42452		False	True	94.495	100.0
+ecoli_W3110	ecoli_W3110__BAA15964.1	left	ecoli_W3110__BAA15962.2						False	False		
+ecoli_W3110	ecoli_W3110__BAA15964.1	right	ecoli_W3110__BAA15965.1	BLASTP	NZ_CP117568.1	2301114	2302394	kbaZ	True	True	52.732	100.23809523809524
+ecoli_W3110	ecoli_W3110__BAA16507.2	left	ecoli_W3110__BAA16506.2	BLASTP	NZ_CP117568.1	1570960	1571319	arsC	True	True	35.211	68.26923076923077
+ecoli_W3110	ecoli_W3110__BAA16507.2	right	ecoli_W3110__BAA16508.2						False	False		
+ecoli_W3110	ecoli_W3110__BAA16508.2	left	ecoli_W3110__BAA16507.2						False	False		
+ecoli_W3110	ecoli_W3110__BAA16508.2	right	ecoli_W3110__BAA16510.1						False	False		
+ecoli_W3110	ecoli_W3110__BAA35347.2	left	ecoli_W3110__BAA35338.2						False	False		
+ecoli_W3110	ecoli_W3110__BAA35347.2	right	ecoli_W3110__BAA35348.1	BLASTP	NZ_CP117568.1	4402801	4404120	potE	True	True	96.811	100.0
+ecoli_W3110	ecoli_W3110__BAA77931.2	left	ecoli_W3110__BAA77930.2	BLASTP	NZ_CP117568.1	246047	247183	potA	True	True	51.867	69.25287356321839
+ecoli_W3110	ecoli_W3110__BAA77931.2	right	ecoli_W3110__BAE76050.1	TBLASTN	NZ_CP117569.1	75121	75570		False	True	44.371	90.41916167664671
+ecoli_W3110	ecoli_W3110__BAE76455.1	left	ecoli_W3110__BAA15178.2	BLASTP	NZ_CP117568.1	3638212	3640848		True	True	58.115	100.0
+ecoli_W3110	ecoli_W3110__BAE76455.1	right	ecoli_W3110__BAA15179.2						False	False		
+ecoli_W3110	ecoli_W3110__BAE76553.1	left	ecoli_W3110__BAE76552.1						False	False		
+ecoli_W3110	ecoli_W3110__BAE76553.1	right	ecoli_W3110__BAA15760.1	BLASTP	NZ_CP117568.1	956943	957257	fliE	True	True	92.308	100.0
+ecoli_W3110	ecoli_W3110__BAE78301.1	left	ecoli_W3110__BAE78300.1						False	False		
+ecoli_W3110	ecoli_W3110__BAE78301.1	right	ecoli_W3110__BAE78302.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	56.289	97.54601226993866
+ecoli_REL606	ecoli_REL606__ACT37714.1	left	ecoli_REL606__ACT37713.1	BLASTP	NZ_CP117568.1	3764175	3765074	nhaR	True	True	97.993	99.33554817275747
+ecoli_REL606	ecoli_REL606__ACT37714.1	right	ecoli_REL606__ACT37715.1	BLASTP	NZ_CP117568.1	1182350	1184830		True	True	58.098	102.0997375328084
+ecoli_REL606	ecoli_REL606__ACT37716.1	left	ecoli_REL606__ACT37715.1	BLASTP	NZ_CP117568.1	1182350	1184830		True	True	58.098	102.0997375328084
+ecoli_REL606	ecoli_REL606__ACT37716.1	right	ecoli_REL606__ACT37717.1	TBLASTN	NZ_CP117569.1	75525	75746		False	True	44.595	81.31868131868131
+ecoli_REL606	ecoli_REL606__ACT37905.1	left	ecoli_REL606__ACT37904.1	TBLASTN	NZ_CP117569.1	75118	75570		False	True	42.763	91.01796407185628
+ecoli_REL606	ecoli_REL606__ACT37905.1	right	ecoli_REL606__ACT37906.1	TBLASTN	NZ_CP117568.1	807708	808391		False	True	91.667	60.317460317460316
+ecoli_REL606	ecoli_REL606__ACT37956.1	left	ecoli_REL606__ACT37955.1	BLASTP	NZ_CP117568.1	4060136	4060831		True	True	92.641	100.0
+ecoli_REL606	ecoli_REL606__ACT37956.1	right	ecoli_REL606__ACT37957.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38067.1	left	ecoli_REL606__ACT38066.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38067.1	right	ecoli_REL606__ACT38068.1	BLASTP	NZ_CP117568.1	2602264	2602530	ataR	True	True	32.099	64.8
+ecoli_REL606	ecoli_REL606__ACT38177.1	left	ecoli_REL606__ACT38176.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38177.1	right	ecoli_REL606__ACT38178.1	BLASTP	NZ_CP117568.1	1141241	1141462		True	True	88.732	98.61111111111111
+ecoli_REL606	ecoli_REL606__ACT38201.1	left	ecoli_REL606__ACT38200.1	BLASTP	NZ_CP117568.1	1099291	1102704	gpJ	True	True	77.637	101.06609808102345
+ecoli_REL606	ecoli_REL606__ACT38201.1	right	ecoli_REL606__ACT38202.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38202.1	left	ecoli_REL606__ACT38201.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38202.1	right	ecoli_REL606__ACT38203.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38203.1	left	ecoli_REL606__ACT38202.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38203.1	right	ecoli_REL606__ACT38204.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38204.1	left	ecoli_REL606__ACT38203.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38204.1	right	ecoli_REL606__ACT38205.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38205.1	left	ecoli_REL606__ACT38204.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38205.1	right	ecoli_REL606__ACT38206.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	True	36.777	97.18875502008032
+ecoli_REL606	ecoli_REL606__ACT38211.1	left	ecoli_REL606__ACT38210.1	BLASTP	NZ_CP117568.1	4261863	4264835		True	True	91.919	100.0
+ecoli_REL606	ecoli_REL606__ACT38211.1	right	ecoli_REL606__ACT38212.1	TBLASTN	NZ_CP117568.1	807708	808391		False	True	90.789	60.317460317460316
+ecoli_REL606	ecoli_REL606__ACT38213.1	left	ecoli_REL606__ACT38212.1	TBLASTN	NZ_CP117568.1	807708	808391		False	True	90.789	60.317460317460316
+ecoli_REL606	ecoli_REL606__ACT38213.1	right	ecoli_REL606__ACT38214.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38214.1	left	ecoli_REL606__ACT38213.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38214.1	right	ecoli_REL606__ACT38215.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38215.1	left	ecoli_REL606__ACT38214.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38215.1	right	ecoli_REL606__ACT38216.1	BLASTP	NZ_CP117568.1	989446	993735		True	True	36.747	89.72972972972973
+ecoli_REL606	ecoli_REL606__ACT38346.1	left	ecoli_REL606__ACT38345.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38346.1	right	ecoli_REL606__ACT38347.1	BLASTP	NZ_CP117568.1	993748	994122		True	True	31.646	98.75
+ecoli_REL606	ecoli_REL606__ACT38412.1	left	ecoli_REL606__ACT38411.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38412.1	right	ecoli_REL606__ACT38413.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38413.1	left	ecoli_REL606__ACT38412.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38413.1	right	ecoli_REL606__ACT38414.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38414.1	left	ecoli_REL606__ACT38413.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38414.1	right	ecoli_REL606__ACT38415.1	BLASTP	NZ_CP117568.1	4519403	4520815		True	True	31.633	54.44444444444444
+ecoli_REL606	ecoli_REL606__ACT38416.1	left	ecoli_REL606__ACT38415.1	BLASTP	NZ_CP117568.1	4519403	4520815		True	True	31.633	54.44444444444444
+ecoli_REL606	ecoli_REL606__ACT38416.1	right	ecoli_REL606__ACT38417.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38417.1	left	ecoli_REL606__ACT38416.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38417.1	right	ecoli_REL606__ACT38418.1	BLASTP	NZ_CP117568.1	3163239	3163817		True	False	33.803	53.78787878787879
+ecoli_REL606	ecoli_REL606__ACT38419.1	left	ecoli_REL606__ACT38418.1	BLASTP	NZ_CP117568.1	3163239	3163817		True	False	33.803	53.78787878787879
+ecoli_REL606	ecoli_REL606__ACT38419.1	right	ecoli_REL606__ACT38420.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38420.1	left	ecoli_REL606__ACT38419.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38420.1	right	ecoli_REL606__ACT38421.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38421.1	left	ecoli_REL606__ACT38420.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38421.1	right	ecoli_REL606__ACT38422.1	BLASTP	NZ_CP117568.1	4542286	4542762		True	True	98.734	100.0
+ecoli_REL606	ecoli_REL606__ACT38496.1	left	ecoli_REL606__ACT38495.1	BLASTP	NZ_CP117568.1	4614900	4615475		True	True	91.011	100.0
+ecoli_REL606	ecoli_REL606__ACT38496.1	right	ecoli_REL606__ACT38497.1	BLASTP	NZ_CP117568.1	3140809	3141789		True	True	39.159	98.40764331210191
+ecoli_REL606	ecoli_REL606__ACT38498.1	left	ecoli_REL606__ACT38497.1	BLASTP	NZ_CP117568.1	3140809	3141789		True	True	39.159	98.40764331210191
+ecoli_REL606	ecoli_REL606__ACT38498.1	right	ecoli_REL606__ACT38499.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38499.1	left	ecoli_REL606__ACT38498.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38499.1	right	ecoli_REL606__ACT38500.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38501.1	left	ecoli_REL606__ACT38500.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38501.1	right	ecoli_REL606__ACT38502.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38502.1	left	ecoli_REL606__ACT38501.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38502.1	right	ecoli_REL606__ACT38503.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38503.1	left	ecoli_REL606__ACT38502.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38503.1	right	ecoli_REL606__ACT38504.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38504.1	left	ecoli_REL606__ACT38503.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38504.1	right	ecoli_REL606__ACT38505.1	BLASTP	NZ_CP117568.1	4572875	4573141	ybiI	True	True	45.588	90.66666666666667
+ecoli_REL606	ecoli_REL606__ACT38508.1	left	ecoli_REL606__ACT38507.1	BLASTP	NZ_CP117568.1	1	2307		True	True	29.2	93.28358208955224
+ecoli_REL606	ecoli_REL606__ACT38508.1	right	ecoli_REL606__ACT38509.1	BLASTP	NZ_CP117569.1	43850	44098		True	True	32.911	78.21782178217822
+ecoli_REL606	ecoli_REL606__ACT38510.1	left	ecoli_REL606__ACT38509.1	BLASTP	NZ_CP117569.1	43850	44098		True	True	32.911	78.21782178217822
+ecoli_REL606	ecoli_REL606__ACT38510.1	right	ecoli_REL606__ACT38511.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38511.1	left	ecoli_REL606__ACT38510.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38511.1	right	ecoli_REL606__ACT38512.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38512.1	left	ecoli_REL606__ACT38511.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38512.1	right	ecoli_REL606__ACT38513.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38513.1	left	ecoli_REL606__ACT38512.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT38513.1	right	ecoli_REL606__ACT38514.1	BLASTP	NZ_CP117568.1	3149560	3150594		True	True	60.704	99.70760233918129
+ecoli_REL606	ecoli_REL606__ACT38522.1	left	ecoli_REL606__ACT38521.1	BLASTP	NZ_CP117568.1	3158288	3158740		True	True	39.583	97.29729729729729
+ecoli_REL606	ecoli_REL606__ACT38522.1	right	ecoli_REL606__ACT38523.1	BLASTP	NZ_CP117568.1	3158807	3159442		True	True	40.67	76.55677655677655
+ecoli_REL606	ecoli_REL606__ACT38527.1	left	ecoli_REL606__ACT38526.1	BLASTP	NZ_CP117568.1	3160692	3161222		True	True	56.977	85.57213930348259
+ecoli_REL606	ecoli_REL606__ACT38527.1	right	ecoli_REL606__ACT38528.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39015.1	left	ecoli_REL606__ACT39014.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39015.1	right	ecoli_REL606__ACT39016.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39016.1	left	ecoli_REL606__ACT39015.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39016.1	right	ecoli_REL606__ACT39017.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39017.1	left	ecoli_REL606__ACT39016.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39017.1	right	ecoli_REL606__ACT39018.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39018.1	left	ecoli_REL606__ACT39017.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39018.1	right	ecoli_REL606__ACT39019.1	BLASTP	NZ_CP117568.1	584862	585422		True	True	36.943	80.10204081632654
+ecoli_REL606	ecoli_REL606__ACT39154.1	left	ecoli_REL606__ACT39153.1	BLASTP	NZ_CP117568.1	599729	600394	marC	True	True	98.643	100.0
+ecoli_REL606	ecoli_REL606__ACT39154.1	right	ecoli_REL606__ACT39155.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39155.1	left	ecoli_REL606__ACT39154.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39155.1	right	ecoli_REL606__ACT39156.1	BLASTP	NZ_CP117568.1	600606	601040	marR	True	True	94.444	100.0
+ecoli_REL606	ecoli_REL606__ACT39172.1	left	ecoli_REL606__ACT39171.1	BLASTP	NZ_CP117568.1	584862	585422		True	True	36.943	80.10204081632654
+ecoli_REL606	ecoli_REL606__ACT39172.1	right	ecoli_REL606__ACT39173.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39173.1	left	ecoli_REL606__ACT39172.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39173.1	right	ecoli_REL606__ACT39174.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39174.1	left	ecoli_REL606__ACT39173.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39174.1	right	ecoli_REL606__ACT39175.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39175.1	left	ecoli_REL606__ACT39174.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39175.1	right	ecoli_REL606__ACT39176.1	BLASTP	NZ_CP117568.1	1098621	1099220		True	True	84.422	100.0
+ecoli_REL606	ecoli_REL606__ACT39208.1	left	ecoli_REL606__ACT39207.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39208.1	right	ecoli_REL606__ACT39209.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39564.1	left	ecoli_REL606__ACT39563.1	TBLASTN	NZ_CP117569.1	41550	42452		False	True	95.017	100.0
+ecoli_REL606	ecoli_REL606__ACT39564.1	right	ecoli_REL606__ACT39565.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39565.1	left	ecoli_REL606__ACT39564.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39565.1	right	ecoli_REL606__ACT39566.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39566.1	left	ecoli_REL606__ACT39565.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39566.1	right	ecoli_REL606__ACT39567.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	86.275	98.07692307692308
+ecoli_REL606	ecoli_REL606__ACT39594.1	left	ecoli_REL606__ACT39593.1	TBLASTN	NZ_CP117569.1	75525	75746		False	True	44.595	81.31868131868131
+ecoli_REL606	ecoli_REL606__ACT39594.1	right	ecoli_REL606__ACT39595.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39595.1	left	ecoli_REL606__ACT39594.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39595.1	right	ecoli_REL606__ACT39596.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39596.1	left	ecoli_REL606__ACT39595.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39596.1	right	ecoli_REL606__ACT39597.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39597.1	left	ecoli_REL606__ACT39596.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39597.1	right	ecoli_REL606__ACT39598.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39598.1	left	ecoli_REL606__ACT39597.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39598.1	right	ecoli_REL606__ACT39599.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39648.1	left	ecoli_REL606__ACT39647.1	BLASTP	NZ_CP117568.1	3163946	3165136		True	True	95.202	100.0
+ecoli_REL606	ecoli_REL606__ACT39648.1	right	ecoli_REL606__ACT39649.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39650.1	left	ecoli_REL606__ACT39649.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39650.1	right	ecoli_REL606__ACT39651.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39652.1	left	ecoli_REL606__ACT39651.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39652.1	right	ecoli_REL606__ACT39653.1	BLASTP	NZ_CP117568.1	3160692	3161222		True	True	94.318	100.0
+ecoli_REL606	ecoli_REL606__ACT39657.1	left	ecoli_REL606__ACT39656.1	BLASTP	NZ_CP117568.1	3158807	3159442		True	True	100.0	97.23502304147465
+ecoli_REL606	ecoli_REL606__ACT39657.1	right	ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560	3150594		True	True	96.032	79.74683544303798
+ecoli_REL606	ecoli_REL606__ACT39659.1	left	ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560	3150594		True	True	96.032	79.74683544303798
+ecoli_REL606	ecoli_REL606__ACT39659.1	right	ecoli_REL606__ACT39660.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39660.1	left	ecoli_REL606__ACT39659.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39660.1	right	ecoli_REL606__ACT39661.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39661.1	left	ecoli_REL606__ACT39660.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39661.1	right	ecoli_REL606__ACT39662.1	BLASTP	NZ_CP117568.1	3145094	3147391		True	True	91.432	97.90301441677589
+ecoli_REL606	ecoli_REL606__ACT39671.1	left	ecoli_REL606__ACT39670.1	BLASTP	NZ_CP117568.1	4677560	4678555		True	True	52.761	96.73590504451039
+ecoli_REL606	ecoli_REL606__ACT39671.1	right	ecoli_REL606__ACT39672.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39691.1	left	ecoli_REL606__ACT39690.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39691.1	right	ecoli_REL606__ACT39692.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39692.1	left	ecoli_REL606__ACT39691.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39692.1	right	ecoli_REL606__ACT39693.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39693.1	left	ecoli_REL606__ACT39692.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39693.1	right	ecoli_REL606__ACT39694.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39694.1	left	ecoli_REL606__ACT39693.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39694.1	right	ecoli_REL606__ACT39695.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39695.1	left	ecoli_REL606__ACT39694.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39695.1	right	ecoli_REL606__ACT39696.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39696.1	left	ecoli_REL606__ACT39695.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT39696.1	right	ecoli_REL606__ACT39697.1	TBLASTN	NZ_CP117569.1	75121	75570		False	True	43.046	90.41916167664671
+ecoli_REL606	ecoli_REL606__ACT39985.1	left	ecoli_REL606__ACT39984.1	BLASTP	NZ_CP117568.1	1520810	1522234	murP	True	True	97.679	100.0
+ecoli_REL606	ecoli_REL606__ACT39985.1	right	ecoli_REL606__ACT39986.1	BLASTP	NZ_CP117568.1	1522811	1523710	yfeX	True	True	98.328	100.0
+ecoli_REL606	ecoli_REL606__ACT40163.1	left	ecoli_REL606__ACT40162.1	BLASTP	NZ_CP117568.1	1724780	1726021		True	True	48.01	98.2885085574572
+ecoli_REL606	ecoli_REL606__ACT40163.1	right	ecoli_REL606__ACT40164.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40164.1	left	ecoli_REL606__ACT40163.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40164.1	right	ecoli_REL606__ACT40165.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40165.1	left	ecoli_REL606__ACT40164.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40165.1	right	ecoli_REL606__ACT40166.1	TBLASTN	NZ_CP117569.1	75525	75746		False	True	44.595	81.31868131868131
+ecoli_REL606	ecoli_REL606__ACT40274.1	left	ecoli_REL606__ACT40273.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40274.1	right	ecoli_REL606__ACT40275.1	BLASTP	NZ_CP117568.1	1862638	1863309	queE	True	True	100.0	100.0
+ecoli_REL606	ecoli_REL606__ACT40450.1	left	ecoli_REL606__ACT40449.1	BLASTP	NZ_CP117568.1	3606804	3608060		True	True	57.732	98.9795918367347
+ecoli_REL606	ecoli_REL606__ACT40450.1	right	ecoli_REL606__ACT40451.1	BLASTP	NZ_CP117568.1	267621	272048		True	True	29.139	63.71308016877637
+ecoli_REL606	ecoli_REL606__ACT40453.1	left	ecoli_REL606__ACT40452.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40453.1	right	ecoli_REL606__ACT40454.1	BLASTP	NZ_CP117568.1	1754841	1755659		True	True	71.747	98.8970588235294
+ecoli_REL606	ecoli_REL606__ACT40455.1	left	ecoli_REL606__ACT40454.1	BLASTP	NZ_CP117568.1	1754841	1755659		True	True	71.747	98.8970588235294
+ecoli_REL606	ecoli_REL606__ACT40455.1	right	ecoli_REL606__ACT40456.1	BLASTP	NZ_CP117568.1	3616011	3616484	radC	True	True	57.931	97.97297297297297
+ecoli_REL606	ecoli_REL606__ACT40458.1	left	ecoli_REL606__ACT40457.1	BLASTP	NZ_CP117568.1	1756173	1756394		True	True	56.164	100.0
+ecoli_REL606	ecoli_REL606__ACT40458.1	right	ecoli_REL606__ACT40459.1	BLASTP	NZ_CP117568.1	3616850	3617191		True	True	57.547	85.48387096774194
+ecoli_REL606	ecoli_REL606__ACT40463.1	left	ecoli_REL606__ACT40462.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40463.1	right	ecoli_REL606__ACT40464.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40464.1	left	ecoli_REL606__ACT40463.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40464.1	right	ecoli_REL606__ACT40465.1	BLASTP	NZ_CP117568.1	2359678	2360664	kdsD	True	True	41.042	90.56047197640117
+ecoli_REL606	ecoli_REL606__ACT40466.1	left	ecoli_REL606__ACT40465.1	BLASTP	NZ_CP117568.1	2359678	2360664	kdsD	True	True	41.042	90.56047197640117
+ecoli_REL606	ecoli_REL606__ACT40466.1	right	ecoli_REL606__ACT40467.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40467.1	left	ecoli_REL606__ACT40466.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40467.1	right	ecoli_REL606__ACT40468.1	BLASTP	NZ_CP117568.1	45723	46469	kdsB	True	True	44.98	101.21951219512195
+ecoli_REL606	ecoli_REL606__ACT40469.1	left	ecoli_REL606__ACT40468.1	BLASTP	NZ_CP117568.1	45723	46469	kdsB	True	True	44.98	101.21951219512195
+ecoli_REL606	ecoli_REL606__ACT40469.1	right	ecoli_REL606__ACT40470.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40470.1	left	ecoli_REL606__ACT40469.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40470.1	right	ecoli_REL606__ACT40471.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40471.1	left	ecoli_REL606__ACT40470.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40471.1	right	ecoli_REL606__ACT40472.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40472.1	left	ecoli_REL606__ACT40471.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40472.1	right	ecoli_REL606__ACT40473.1	BLASTP	NZ_CP117568.1	388641	389399		True	False	31.646	102.59740259740259
+ecoli_REL606	ecoli_REL606__ACT40477.1	left	ecoli_REL606__ACT40476.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT40477.1	right	ecoli_REL606__ACT40478.1	BLASTP	NZ_CP117568.1	3327702	3328817	malK	True	True	29.064	92.69406392694064
+ecoli_REL606	ecoli_REL606__ACT40479.1	left	ecoli_REL606__ACT40478.1	BLASTP	NZ_CP117568.1	3327702	3328817	malK	True	True	29.064	92.69406392694064
+ecoli_REL606	ecoli_REL606__ACT40479.1	right	ecoli_REL606__ACT40480.1	BLASTP	NZ_CP117568.1	2096153	2096689	yghD	True	True	91.011	100.0
+ecoli_REL606	ecoli_REL606__ACT40729.1	left	ecoli_REL606__ACT40728.1	TBLASTN	NZ_CP117568.1	2379211	2379576		False	True	74.815	84.90566037735849
+ecoli_REL606	ecoli_REL606__ACT40729.1	right	ecoli_REL606__ACT40730.1	BLASTP	NZ_CP117568.1	2379597	2380061	nanQ	True	True	91.558	100.0
+ecoli_REL606	ecoli_REL606__ACT41160.1	left	ecoli_REL606__ACT41159.1	BLASTP	NZ_CP117568.1	2859436	2860599		True	True	70.207	97.96954314720813
+ecoli_REL606	ecoli_REL606__ACT41160.1	right	ecoli_REL606__ACT41161.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41161.1	left	ecoli_REL606__ACT41160.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41161.1	right	ecoli_REL606__ACT41162.1	BLASTP	NZ_CP117568.1	3196228	3197253	cytR	True	True	27.507	95.87912087912088
+ecoli_REL606	ecoli_REL606__ACT41166.1	left	ecoli_REL606__ACT41165.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	True	True	83.898	73.2919254658385
+ecoli_REL606	ecoli_REL606__ACT41166.1	right	ecoli_REL606__ACT41167.1	TBLASTN	NZ_CP117569.1	26652	26981		False	True	53.913	100.0
+ecoli_REL606	ecoli_REL606__ACT41168.1	left	ecoli_REL606__ACT41167.1	TBLASTN	NZ_CP117569.1	26652	26981		False	True	53.913	100.0
+ecoli_REL606	ecoli_REL606__ACT41168.1	right	ecoli_REL606__ACT41169.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41169.1	left	ecoli_REL606__ACT41168.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41169.1	right	ecoli_REL606__ACT41170.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41170.1	left	ecoli_REL606__ACT41169.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41170.1	right	ecoli_REL606__ACT41171.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41171.1	left	ecoli_REL606__ACT41170.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41171.1	right	ecoli_REL606__ACT41172.1	BLASTP	NZ_CP117568.1	4063783	4067760		True	True	43.161	64.63519313304721
+ecoli_REL606	ecoli_REL606__ACT41173.1	left	ecoli_REL606__ACT41172.1	BLASTP	NZ_CP117568.1	4063783	4067760		True	True	43.161	64.63519313304721
+ecoli_REL606	ecoli_REL606__ACT41173.1	right	ecoli_REL606__ACT41174.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41174.1	left	ecoli_REL606__ACT41173.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41174.1	right	ecoli_REL606__ACT41175.1	TBLASTN	NZ_CP117568.1	3576758	3576859		False	True	55.882	70.83333333333333
+ecoli_REL606	ecoli_REL606__ACT41349.1	left	ecoli_REL606__ACT41348.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41349.1	right	ecoli_REL606__ACT41350.1	BLASTP	NZ_CP117568.1	1981204	1982136	arcC	True	True	49.045	90.7514450867052
+ecoli_REL606	ecoli_REL606__ACT41459.1	left	ecoli_REL606__ACT41458.1	BLASTP	NZ_CP117568.1	3199810	3200022	rpmE	True	True	98.571	100.0
+ecoli_REL606	ecoli_REL606__ACT41459.1	right	ecoli_REL606__ACT41460.1	BLASTP	NZ_CP117568.1	3200083	3200691		True	True	94.059	100.0
+ecoli_REL606	ecoli_REL606__ACT41777.1	left	ecoli_REL606__ACT41776.1	TBLASTN	NZ_CP117569.1	4400	4930		False	True	38.983	63.44086021505376
+ecoli_REL606	ecoli_REL606__ACT41777.1	right	ecoli_REL606__ACT41778.1	BLASTP	NZ_CP117568.1	830341	831951	yeaV	True	True	29.88	75.2623688155922
+ecoli_REL606	ecoli_REL606__ACT41790.1	left	ecoli_REL606__ACT41789.1	TBLASTN	NZ_CP117569.1	75525	75746		False	True	44.595	81.31868131868131
+ecoli_REL606	ecoli_REL606__ACT41790.1	right	ecoli_REL606__ACT41791.1	TBLASTN	NZ_CP117569.1	75121	75570		False	True	43.046	90.41916167664671
+ecoli_REL606	ecoli_REL606__ACT41847.1	left	ecoli_REL606__ACT41846.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41847.1	right	ecoli_REL606__ACT41848.1	BLASTP	NZ_CP117568.1	1675463	1676377		True	True	27.734	86.48648648648648
+ecoli_REL606	ecoli_REL606__ACT41852.1	left	ecoli_REL606__ACT41851.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41852.1	right	ecoli_REL606__ACT41853.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41853.1	left	ecoli_REL606__ACT41852.1						False	False		
+ecoli_REL606	ecoli_REL606__ACT41853.1	right	ecoli_REL606__ACT41854.1	BLASTP	NZ_CP117568.1	436692	438179	puuC	True	True	40.0	98.36065573770492
+ecoli_Sakai	ecoli_Sakai__NP_052604.1	right	ecoli_Sakai__NP_052605.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052605.1	left	ecoli_Sakai__NP_052604.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052605.1	right	ecoli_Sakai__NP_052606.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052607.1	left	ecoli_Sakai__NP_052689.1	BLASTP	NZ_CP117568.1	893624	894598	lpxM	True	True	67.197	94.57831325301204
+ecoli_Sakai	ecoli_Sakai__NP_052620.1	left	ecoli_Sakai__NP_052619.1	BLASTP	NZ_CP117568.1	2107109	2107918		True	True	37.931	97.47899159663865
+ecoli_Sakai	ecoli_Sakai__NP_052620.1	right	ecoli_Sakai__NP_052621.1	TBLASTN	NZ_CP117569.1	26652	26981		False	True	86.726	100.0
+ecoli_Sakai	ecoli_Sakai__NP_052624.1	left	ecoli_Sakai__NP_052623.1	BLASTP	NZ_CP117568.1	147278	147805		True	True	29.87	94.47852760736197
+ecoli_Sakai	ecoli_Sakai__NP_052624.1	right	ecoli_Sakai__NP_052625.1	BLASTP	NZ_CP117568.1	41492	43240	msbA	True	True	34.483	78.04532577903683
+ecoli_Sakai	ecoli_Sakai__NP_052632.1	left	ecoli_Sakai__NP_958722.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052632.1	right	ecoli_Sakai__NP_052633.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052633.1	left	ecoli_Sakai__NP_052632.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052633.1	right	ecoli_Sakai__NP_052634.1	BLASTP	NZ_CP117569.1	5415	5633	ccdA	True	True	98.611	100.0
+ecoli_Sakai	ecoli_Sakai__NP_052640.1	left	ecoli_Sakai__NP_052638.1	TBLASTN	NZ_CP117569.1	58377	58661		False	True	74.51	94.44444444444444
+ecoli_Sakai	ecoli_Sakai__NP_052640.1	right	ecoli_Sakai__NP_052641.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052641.1	left	ecoli_Sakai__NP_052640.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052641.1	right	ecoli_Sakai__NP_052642.1	BLASTP	NZ_CP117569.1	47622	49322	ltrA	True	True	59.672	95.47038327526133
+ecoli_Sakai	ecoli_Sakai__NP_052644.1	left	ecoli_Sakai__NP_052643.1	BLASTP	NZ_CP117569.1	44492	45418		True	True	92.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_052644.1	right	ecoli_Sakai__NP_052645.1	BLASTP	NZ_CP117568.1	2435527	2436411	yhdJ	True	True	29.63	107.04845814977973
+ecoli_Sakai	ecoli_Sakai__NP_052646.1	left	ecoli_Sakai__NP_958723.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052646.1	right	ecoli_Sakai__NP_052647.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052647.1	left	ecoli_Sakai__NP_052646.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052647.1	right	ecoli_Sakai__NP_052648.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052648.1	left	ecoli_Sakai__NP_052647.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052648.1	right	ecoli_Sakai__NP_052649.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052650.1	left	ecoli_Sakai__NP_052649.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052650.1	right	ecoli_Sakai__NP_052651.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052651.1	left	ecoli_Sakai__NP_052650.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052651.1	right	ecoli_Sakai__NP_052652.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052652.1	left	ecoli_Sakai__NP_052651.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052652.1	right	ecoli_Sakai__NP_052653.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052653.1	left	ecoli_Sakai__NP_052652.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052653.1	right	ecoli_Sakai__NP_052654.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052654.1	left	ecoli_Sakai__NP_052653.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052654.1	right	ecoli_Sakai__NP_052655.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052655.1	left	ecoli_Sakai__NP_052654.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052655.1	right	ecoli_Sakai__NP_052656.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	True	True	55.978	122.66666666666667
+ecoli_Sakai	ecoli_Sakai__NP_052657.1	left	ecoli_Sakai__NP_958724.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052657.1	right	ecoli_Sakai__NP_052658.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052658.1	left	ecoli_Sakai__NP_052657.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052658.1	right	ecoli_Sakai__NP_052659.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052659.1	left	ecoli_Sakai__NP_052658.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052659.1	right	ecoli_Sakai__NP_052660.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	True	True	38.298	90.38461538461539
+ecoli_Sakai	ecoli_Sakai__NP_052661.1	left	ecoli_Sakai__NP_052660.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	True	True	38.298	90.38461538461539
+ecoli_Sakai	ecoli_Sakai__NP_052661.1	right	ecoli_Sakai__NP_052662.1	BLASTP	NZ_CP117568.1	4460098	4461393	tolA	True	True	30.189	74.12587412587412
+ecoli_Sakai	ecoli_Sakai__NP_052664.1	left	ecoli_Sakai__NP_052663.1	TBLASTN	NZ_CP117569.1	4286	4528		False	True	85.185	68.0672268907563
+ecoli_Sakai	ecoli_Sakai__NP_052664.1	right	ecoli_Sakai__NP_052665.1	BLASTP	NZ_CP117568.1	2083179	2089883		True	True	29.279	59.92426633007258
+ecoli_Sakai	ecoli_Sakai__NP_052667.1	left	ecoli_Sakai__NP_052666.1	TBLASTN	NZ_CP117569.1	4286	4489		False	True	83.824	75.55555555555556
+ecoli_Sakai	ecoli_Sakai__NP_052667.1	right	ecoli_Sakai__NP_052669.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052669.1	left	ecoli_Sakai__NP_052667.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052669.1	right	ecoli_Sakai__NP_052670.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052671.1	left	ecoli_Sakai__NP_052670.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052671.1	right	ecoli_Sakai__NP_958725.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052672.1	left	ecoli_Sakai__NP_958725.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052672.1	right	ecoli_Sakai__NP_958726.1	BLASTP	NZ_CP117568.1	4193761	4193979		True	True	54.545	95.65217391304348
+ecoli_Sakai	ecoli_Sakai__NP_052673.1	left	ecoli_Sakai__NP_958726.1	BLASTP	NZ_CP117568.1	4193761	4193979		True	True	54.545	95.65217391304348
+ecoli_Sakai	ecoli_Sakai__NP_052673.1	right	ecoli_Sakai__NP_052674.1	BLASTP	NZ_CP117569.1	76389	76646		True	True	59.756	97.61904761904762
+ecoli_Sakai	ecoli_Sakai__NP_052675.1	left	ecoli_Sakai__NP_052674.1	BLASTP	NZ_CP117569.1	76389	76646		True	True	59.756	97.61904761904762
+ecoli_Sakai	ecoli_Sakai__NP_052675.1	right	ecoli_Sakai__NP_052676.1	BLASTP	NZ_CP117568.1	3618216	3618464		True	False	35.616	77.65957446808511
+ecoli_Sakai	ecoli_Sakai__NP_052678.1	left	ecoli_Sakai__NP_052677.1	BLASTP	NZ_CP117568.1	3618468	3618743		True	True	41.758	100.0
+ecoli_Sakai	ecoli_Sakai__NP_052678.1	right	ecoli_Sakai__NP_052681.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052681.1	left	ecoli_Sakai__NP_052678.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_052681.1	right	ecoli_Sakai__NP_052684.1	TBLASTN	NZ_CP117569.1	4319	4927		False	True	32.512	68.8135593220339
+ecoli_Sakai	ecoli_Sakai__NP_052686.1	left	ecoli_Sakai__NP_958727.1	TBLASTN	NZ_CP117569.1	75522	75755		False	True	80.769	86.66666666666667
+ecoli_Sakai	ecoli_Sakai__NP_052686.1	right	ecoli_Sakai__NP_052687.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_302948.1	left	ecoli_Sakai__NP_308241.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_302948.1	right	ecoli_Sakai__NP_308243.1	BLASTP	NZ_CP117568.1	3986077	3986559		True	True	55.975	100.0
+ecoli_Sakai	ecoli_Sakai__NP_303550.1	left	ecoli_Sakai__NP_308843.3	BLASTP	NZ_CP117568.1	1127887	1128630		True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_303550.1	right	ecoli_Sakai__NP_308845.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	96.774	87.32394366197182
+ecoli_Sakai	ecoli_Sakai__NP_303789.1	left	ecoli_Sakai__NP_309082.1	BLASTP	NZ_CP117568.1	1143493	1144566		True	True	27.324	104.71976401179941
+ecoli_Sakai	ecoli_Sakai__NP_303789.1	right	ecoli_Sakai__NP_309084.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_304285.1	left	ecoli_Sakai__NP_309578.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_304285.1	right	ecoli_Sakai__NP_309581.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	45.946	98.23008849557522
+ecoli_Sakai	ecoli_Sakai__NP_304527.1	left	ecoli_Sakai__NP_309820.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_304527.1	right	ecoli_Sakai__NP_309822.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_304549.1	left	ecoli_Sakai__NP_309842.1	BLASTP	NZ_CP117568.1	870432	870866		True	True	52.206	71.95767195767196
+ecoli_Sakai	ecoli_Sakai__NP_304549.1	right	ecoli_Sakai__NP_309845.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	63.789	92.7734375
+ecoli_Sakai	ecoli_Sakai__NP_304958.1	left	ecoli_Sakai__NP_310251.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	63.789	92.7734375
+ecoli_Sakai	ecoli_Sakai__NP_304958.1	right	ecoli_Sakai__NP_310257.1	BLASTP	NZ_CP117568.1	1096977	1097246		True	True	92.135	100.0
+ecoli_Sakai	ecoli_Sakai__NP_305381.1	left	ecoli_Sakai__NP_305380.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305381.1	right	ecoli_Sakai__NP_305382.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305382.1	left	ecoli_Sakai__NP_305381.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305382.1	right	ecoli_Sakai__NP_310677.1	BLASTP	NZ_CP117568.1	937461	938009	pgsA	True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_305405.1	left	ecoli_Sakai__NP_305404.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305405.1	right	ecoli_Sakai__NP_305407.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305407.1	left	ecoli_Sakai__NP_305405.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305407.1	right	ecoli_Sakai__NP_310703.1	BLASTP	NZ_CP117568.1	956943	957257	fliE	True	True	92.308	100.0
+ecoli_Sakai	ecoli_Sakai__NP_305741.1	left	ecoli_Sakai__NP_311034.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_305741.1	right	ecoli_Sakai__NP_311036.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308052.1	left	ecoli_Sakai__NP_308051.1	BLASTP	NZ_CP117568.1	2210537	2211100		True	True	31.746	71.1864406779661
+ecoli_Sakai	ecoli_Sakai__NP_308052.1	right	ecoli_Sakai__NP_308053.1	BLASTP	NZ_CP117568.1	3766303	3766566	rpsT	True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308239.1	left	ecoli_Sakai__YP_009502589.1	BLASTP	NZ_CP117568.1	3983715	3984491		True	True	76.316	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308239.1	right	ecoli_Sakai__NP_308240.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308240.1	left	ecoli_Sakai__NP_308239.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308240.1	right	ecoli_Sakai__NP_308241.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308241.2	left	ecoli_Sakai__NP_308240.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308241.2	right	ecoli_Sakai__NP_302948.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308259.1	left	ecoli_Sakai__NP_308258.1	BLASTP	NZ_CP117568.1	4006176	4007642	tssC	True	True	96.328	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308259.1	right	ecoli_Sakai__NP_308260.1	BLASTP	NZ_CP117568.1	4007937	4008437	tssB	True	True	91.566	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308270.1	left	ecoli_Sakai__NP_308269.1	BLASTP	NZ_CP117568.1	4012027	4016442		True	True	81.839	76.10921501706484
+ecoli_Sakai	ecoli_Sakai__NP_308270.1	right	ecoli_Sakai__NP_308271.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308299.1	left	ecoli_Sakai__NP_308297.1	BLASTP	NZ_CP117568.1	4044306	4045559	proA	True	True	96.882	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308299.1	right	ecoli_Sakai__NP_308300.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308300.1	left	ecoli_Sakai__NP_308299.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308300.1	right	ecoli_Sakai__NP_308301.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308302.1	left	ecoli_Sakai__NP_308301.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308302.1	right	ecoli_Sakai__NP_308303.1	BLASTP	NZ_CP117568.1	4508071	4508367		True	True	43.182	90.72164948453609
+ecoli_Sakai	ecoli_Sakai__NP_308310.1	left	ecoli_Sakai__NP_308309.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308310.1	right	ecoli_Sakai__NP_308311.1	BLASTP	NZ_CP117568.1	584862	585422		True	True	53.514	100.54347826086956
+ecoli_Sakai	ecoli_Sakai__NP_308312.1	left	ecoli_Sakai__NP_308311.1	BLASTP	NZ_CP117568.1	584862	585422		True	True	53.514	100.54347826086956
+ecoli_Sakai	ecoli_Sakai__NP_308312.1	right	ecoli_Sakai__NP_308314.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	True	34.4	101.21457489878543
+ecoli_Sakai	ecoli_Sakai__NP_308317.1	left	ecoli_Sakai__NP_308316.1	BLASTP	NZ_CP117568.1	2859436	2860599		True	True	60.982	98.47328244274809
+ecoli_Sakai	ecoli_Sakai__NP_308317.1	right	ecoli_Sakai__NP_308318.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308318.1	left	ecoli_Sakai__NP_308317.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308318.1	right	ecoli_Sakai__NP_308319.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308319.1	left	ecoli_Sakai__NP_308318.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308319.1	right	ecoli_Sakai__NP_308323.1	BLASTP	NZ_CP117568.1	3170330	3170548	ogrK	True	True	49.02	56.666666666666664
+ecoli_Sakai	ecoli_Sakai__NP_308328.1	left	ecoli_Sakai__NP_308327.1	BLASTP	NZ_CP117568.1	2865903	2866493		True	True	55.67	104.86486486486487
+ecoli_Sakai	ecoli_Sakai__NP_308328.1	right	ecoli_Sakai__NP_308329.1	BLASTP	NZ_CP117568.1	2867357	2867677		True	True	71.429	91.58878504672897
+ecoli_Sakai	ecoli_Sakai__NP_308331.1	left	ecoli_Sakai__NP_308330.1	BLASTP	NZ_CP117568.1	2867692	2870025		True	True	72.704	99.48519948519949
+ecoli_Sakai	ecoli_Sakai__NP_308331.1	right	ecoli_Sakai__NP_308332.2	BLASTP	NZ_CP117568.1	4060965	4061858		True	True	36.364	99.33110367892976
+ecoli_Sakai	ecoli_Sakai__NP_308334.1	left	ecoli_Sakai__NP_308333.1	BLASTP	NZ_CP117568.1	614154	614900	ydfG	True	True	32.911	98.75
+ecoli_Sakai	ecoli_Sakai__NP_308334.1	right	ecoli_Sakai__NP_308336.1	BLASTP	NZ_CP117568.1	4060965	4061858		True	True	41.438	97.33333333333333
+ecoli_Sakai	ecoli_Sakai__NP_308361.1	left	ecoli_Sakai__NP_308360.1	BLASTP	NZ_CP117568.1	427522	428451		True	True	88.599	99.67532467532467
+ecoli_Sakai	ecoli_Sakai__NP_308361.1	right	ecoli_Sakai__NP_308362.1	BLASTP	NZ_CP117568.1	2168577	2169404	dkgA	True	True	43.455	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308377.1	left	ecoli_Sakai__NP_308376.2	BLASTP	NZ_CP117568.1	4100179	4103049		True	True	37.037	77.14285714285714
+ecoli_Sakai	ecoli_Sakai__NP_308377.1	right	ecoli_Sakai__NP_308378.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308378.1	left	ecoli_Sakai__NP_308377.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308378.1	right	ecoli_Sakai__NP_308379.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308379.2	left	ecoli_Sakai__NP_308378.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308379.2	right	ecoli_Sakai__NP_303089.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308426.1	left	ecoli_Sakai__NP_308425.4	BLASTP	NZ_CP117568.1	2973010	2974002	rbsR	True	True	33.548	85.39944903581267
+ecoli_Sakai	ecoli_Sakai__NP_308426.1	right	ecoli_Sakai__NP_308427.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308427.2	left	ecoli_Sakai__NP_308426.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308427.2	right	ecoli_Sakai__NP_308428.3	BLASTP	NZ_CP117568.1	2745707	2746522	yiaJ	True	True	28.879	73.65079365079364
+ecoli_Sakai	ecoli_Sakai__NP_308481.1	left	ecoli_Sakai__NP_308480.3	BLASTP	NZ_CP117568.1	4129913	4131730	malZ	True	True	94.05	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308481.1	right	ecoli_Sakai__NP_308482.1	BLASTP	NZ_CP117568.1	4131735	4132316	acpH	True	True	96.891	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308488.1	left	ecoli_Sakai__NP_308487.1	BLASTP	NZ_CP117568.1	4137028	4137999	secF	True	True	99.071	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308488.1	right	ecoli_Sakai__NP_308489.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308489.1	left	ecoli_Sakai__NP_308488.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308489.1	right	ecoli_Sakai__NP_308490.1	BLASTP	NZ_CP117568.1	4138127	4138474	yajD	True	True	99.13	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308568.1	left	ecoli_Sakai__NP_308567.1	BLASTP	NZ_CP117568.1	2200867	2202348	tolC	True	False	25.238	93.12638580931264
+ecoli_Sakai	ecoli_Sakai__NP_308568.1	right	ecoli_Sakai__NP_308569.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308569.1	left	ecoli_Sakai__NP_308568.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308569.1	right	ecoli_Sakai__NP_308570.2	BLASTP	NZ_CP117568.1	4655355	4657076	cydC	True	True	28.638	59.166666666666664
+ecoli_Sakai	ecoli_Sakai__NP_308571.1	left	ecoli_Sakai__NP_308570.2	BLASTP	NZ_CP117568.1	4655355	4657076	cydC	True	True	28.638	59.166666666666664
+ecoli_Sakai	ecoli_Sakai__NP_308571.1	right	ecoli_Sakai__NP_308572.1	BLASTP	NZ_CP117568.1	4227099	4227506	cueR	True	True	94.074	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308573.1	left	ecoli_Sakai__NP_308572.1	BLASTP	NZ_CP117568.1	4227099	4227506	cueR	True	True	94.074	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308573.1	right	ecoli_Sakai__NP_308575.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308575.1	left	ecoli_Sakai__NP_308573.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308575.1	right	ecoli_Sakai__NP_308576.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308576.1	left	ecoli_Sakai__NP_308575.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308576.1	right	ecoli_Sakai__NP_308578.2	BLASTP	NZ_CP117568.1	4228833	4229291		True	True	96.053	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308630.1	left	ecoli_Sakai__NP_308629.1	TBLASTN	NZ_CP117568.1	807708	808391		False	True	92.544	60.317460317460316
+ecoli_Sakai	ecoli_Sakai__NP_308630.1	right	ecoli_Sakai__NP_308631.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308631.1	left	ecoli_Sakai__NP_308630.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308631.1	right	ecoli_Sakai__NP_308632.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308633.1	left	ecoli_Sakai__NP_308632.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308633.1	right	ecoli_Sakai__NP_308634.1	BLASTP	NZ_CP117568.1	4009810	4011951		True	True	88.469	83.57030015797788
+ecoli_Sakai	ecoli_Sakai__NP_308786.1	left	ecoli_Sakai__NP_308785.3	BLASTP	NZ_CP117568.1	3391170	3392483	gltP	True	True	38.929	96.47887323943662
+ecoli_Sakai	ecoli_Sakai__NP_308786.1	right	ecoli_Sakai__NP_308787.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308787.1	left	ecoli_Sakai__NP_308786.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308787.1	right	ecoli_Sakai__NP_308788.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308788.1	left	ecoli_Sakai__NP_308787.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308788.1	right	ecoli_Sakai__NP_308789.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308789.1	left	ecoli_Sakai__NP_308788.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308789.1	right	ecoli_Sakai__NP_308790.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308790.1	left	ecoli_Sakai__NP_308789.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308790.1	right	ecoli_Sakai__NP_308791.1	BLASTP	NZ_CP117568.1	3303296	3306979	metH	True	False	25.243	69.12751677852349
+ecoli_Sakai	ecoli_Sakai__NP_308791.1	left	ecoli_Sakai__NP_308790.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308791.1	right	ecoli_Sakai__NP_308793.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308793.1	left	ecoli_Sakai__NP_308791.1	BLASTP	NZ_CP117568.1	3303296	3306979	metH	True	False	25.243	69.12751677852349
+ecoli_Sakai	ecoli_Sakai__NP_308793.1	right	ecoli_Sakai__NP_308794.1	BLASTP	NZ_CP117568.1	4453465	4454409		True	True	63.694	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308829.1	left	ecoli_Sakai__NP_308827.1	BLASTP	NZ_CP117568.1	4496271	4497554		True	True	97.892	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308829.1	right	ecoli_Sakai__NP_308831.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308831.2	left	ecoli_Sakai__NP_308829.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308831.2	right	ecoli_Sakai__NP_308832.1	BLASTP	NZ_CP117568.1	1141241	1141462		True	True	97.26	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308841.1	left	ecoli_Sakai__NP_308840.1	BLASTP	NZ_CP117568.1	1129503	1130168		True	True	95.928	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308841.1	right	ecoli_Sakai__NP_308842.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308842.1	left	ecoli_Sakai__NP_308841.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308842.1	right	ecoli_Sakai__NP_308843.3	BLASTP	NZ_CP117568.1	1127887	1128630		True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308849.1	left	ecoli_Sakai__NP_308848.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308849.1	right	ecoli_Sakai__NP_308851.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308851.1	left	ecoli_Sakai__NP_308849.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308851.1	right	ecoli_Sakai__NP_308852.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308853.2	left	ecoli_Sakai__NP_308852.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308853.2	right	ecoli_Sakai__NP_308856.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308856.2	left	ecoli_Sakai__NP_308853.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308856.2	right	ecoli_Sakai__NP_308857.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308857.2	left	ecoli_Sakai__NP_308856.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308857.2	right	ecoli_Sakai__NP_308858.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308858.1	left	ecoli_Sakai__NP_308857.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308858.1	right	ecoli_Sakai__NP_308859.1	BLASTP	NZ_CP117568.1	1110271	1110804		True	True	46.875	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308874.2	left	ecoli_Sakai__NP_308873.1	BLASTP	NZ_CP117568.1	3622429	3623418		True	True	60.182	100.920245398773
+ecoli_Sakai	ecoli_Sakai__NP_308874.2	right	ecoli_Sakai__NP_308875.1	BLASTP	NZ_CP117568.1	4539934	4540821	nleH	True	True	75.85	100.34129692832765
+ecoli_Sakai	ecoli_Sakai__NP_308877.1	left	ecoli_Sakai__NP_308876.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308877.1	right	ecoli_Sakai__NP_308878.1	BLASTP	NZ_CP117568.1	4542286	4542762		True	True	99.367	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308903.1	left	ecoli_Sakai__NP_308902.1	BLASTP	NZ_CP117568.1	4565838	4567199	rhlE	True	True	98.462	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308903.1	right	ecoli_Sakai__NP_308904.1	BLASTP	NZ_CP117568.1	4567737	4569887	dinG	True	True	99.302	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308976.1	left	ecoli_Sakai__NP_308975.1	BLASTP	NZ_CP117568.1	4631417	4631932		True	True	91.813	100.0
+ecoli_Sakai	ecoli_Sakai__NP_308976.1	right	ecoli_Sakai__NP_308977.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308977.2	left	ecoli_Sakai__NP_308976.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_308977.2	right	ecoli_Sakai__NP_308979.1	BLASTP	NZ_CP117568.1	4632058	4632381		True	True	99.065	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309088.1	left	ecoli_Sakai__NP_309086.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309088.1	right	ecoli_Sakai__NP_309090.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309094.1	left	ecoli_Sakai__NP_309092.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309094.1	right	ecoli_Sakai__NP_309095.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309095.1	left	ecoli_Sakai__NP_309094.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309095.1	right	ecoli_Sakai__NP_309096.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309097.1	left	ecoli_Sakai__NP_309096.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309097.1	right	ecoli_Sakai__NP_309098.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309100.1	left	ecoli_Sakai__YP_009502597.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309100.1	right	ecoli_Sakai__NP_309101.1	BLASTP	NZ_CP117568.1	3703077	3703814	dnaC	True	True	47.325	97.98387096774194
+ecoli_Sakai	ecoli_Sakai__NP_309104.1	left	ecoli_Sakai__NP_309103.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309104.1	right	ecoli_Sakai__NP_303812.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309112.1	left	ecoli_Sakai__NP_309111.1	BLASTP	NZ_CP117568.1	4514831	4515349		True	True	29.412	69.10569105691057
+ecoli_Sakai	ecoli_Sakai__NP_309112.1	right	ecoli_Sakai__NP_309113.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309113.1	left	ecoli_Sakai__NP_309112.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309113.1	right	ecoli_Sakai__NP_309114.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	True	36.0	102.56410256410257
+ecoli_Sakai	ecoli_Sakai__NP_309125.2	left	ecoli_Sakai__NP_309123.1	BLASTP	NZ_CP117568.1	1121149	1121682		True	True	90.395	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309125.2	right	ecoli_Sakai__NP_309127.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	93.22	86.76470588235294
+ecoli_Sakai	ecoli_Sakai__NP_309128.1	left	ecoli_Sakai__NP_309127.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	93.22	86.76470588235294
+ecoli_Sakai	ecoli_Sakai__NP_309128.1	right	ecoli_Sakai__NP_309129.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	True	True	37.879	104.76190476190476
+ecoli_Sakai	ecoli_Sakai__NP_309189.2	left	ecoli_Sakai__NP_309188.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309189.2	right	ecoli_Sakai__NP_309190.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309191.1	left	ecoli_Sakai__NP_309190.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309191.1	right	ecoli_Sakai__NP_309192.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309192.1	left	ecoli_Sakai__NP_309191.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309192.1	right	ecoli_Sakai__NP_309193.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309193.1	left	ecoli_Sakai__NP_309192.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309193.1	right	ecoli_Sakai__NP_309194.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309194.2	left	ecoli_Sakai__NP_309193.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309194.2	right	ecoli_Sakai__NP_309195.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309195.2	left	ecoli_Sakai__NP_309194.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309195.2	right	ecoli_Sakai__NP_309196.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309196.1	left	ecoli_Sakai__NP_309195.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309196.1	right	ecoli_Sakai__NP_309197.1	BLASTP	NZ_CP117568.1	1141241	1141462		True	True	95.89	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309207.1	left	ecoli_Sakai__NP_309206.1	BLASTP	NZ_CP117568.1	1137951	1138319		True	True	99.18	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309207.1	right	ecoli_Sakai__NP_309208.1	BLASTP	NZ_CP117568.1	1136975	1137247		True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309211.1	left	ecoli_Sakai__YP_009502599.1	TBLASTN	NZ_CP117568.1	1136854	1136994		False	True	97.872	78.33333333333333
+ecoli_Sakai	ecoli_Sakai__NP_309211.1	right	ecoli_Sakai__NP_309212.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309213.1	left	ecoli_Sakai__NP_309212.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309213.1	right	ecoli_Sakai__NP_309214.1	BLASTP	NZ_CP117568.1	4508071	4508367		True	True	87.755	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309216.1	left	ecoli_Sakai__NP_309215.1	BLASTP	NZ_CP117568.1	4508400	4508546		True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309216.1	right	ecoli_Sakai__NP_309217.2	BLASTP	NZ_CP117568.1	3349081	3350496	dnaB	True	True	39.408	91.84100418410041
+ecoli_Sakai	ecoli_Sakai__NP_309218.1	left	ecoli_Sakai__NP_309217.2	BLASTP	NZ_CP117568.1	3349081	3350496	dnaB	True	True	39.408	91.84100418410041
+ecoli_Sakai	ecoli_Sakai__NP_309218.1	right	ecoli_Sakai__NP_309219.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309219.1	left	ecoli_Sakai__NP_309218.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309219.1	right	ecoli_Sakai__NP_309220.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309220.1	left	ecoli_Sakai__NP_309219.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309220.1	right	ecoli_Sakai__NP_309221.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309221.1	left	ecoli_Sakai__NP_309220.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309221.1	right	ecoli_Sakai__NP_309222.1	BLASTP	NZ_CP117568.1	4512491	4512931		True	True	44.966	100.67567567567568
+ecoli_Sakai	ecoli_Sakai__NP_309226.1	left	ecoli_Sakai__NP_309223.1	BLASTP	NZ_CP117568.1	1131293	1131820		True	True	98.857	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309226.1	right	ecoli_Sakai__NP_309227.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309227.1	left	ecoli_Sakai__NP_309226.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309227.1	right	ecoli_Sakai__NP_309228.1	BLASTP	NZ_CP117568.1	1130349	1130954		True	True	98.01	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309232.1	left	ecoli_Sakai__NP_309230.1	BLASTP	NZ_CP117568.1	4514831	4515349		True	False	31.646	54.861111111111114
+ecoli_Sakai	ecoli_Sakai__NP_309232.1	right	ecoli_Sakai__NP_309233.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309233.1	left	ecoli_Sakai__NP_309232.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309233.1	right	ecoli_Sakai__NP_309234.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	55.575	89.1167192429022
+ecoli_Sakai	ecoli_Sakai__NP_309237.1	left	ecoli_Sakai__YP_009502600.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	36.25	89.88764044943821
+ecoli_Sakai	ecoli_Sakai__NP_309237.1	right	ecoli_Sakai__NP_309238.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309238.2	left	ecoli_Sakai__NP_309237.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309238.2	right	ecoli_Sakai__NP_309239.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	90.323	87.32394366197182
+ecoli_Sakai	ecoli_Sakai__NP_309245.3	left	ecoli_Sakai__NP_309244.1	BLASTP	NZ_CP117568.1	279800	280093	iss	True	True	87.629	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309245.3	right	ecoli_Sakai__NP_309246.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309246.1	left	ecoli_Sakai__NP_309245.3						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309246.1	right	ecoli_Sakai__NP_309247.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309247.1	left	ecoli_Sakai__NP_309246.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309247.1	right	ecoli_Sakai__NP_309248.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309248.1	left	ecoli_Sakai__NP_309247.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309248.1	right	ecoli_Sakai__NP_309249.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309249.1	left	ecoli_Sakai__NP_309248.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309249.1	right	ecoli_Sakai__NP_309250.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309250.1	left	ecoli_Sakai__NP_309249.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309250.1	right	ecoli_Sakai__NP_309251.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309251.1	left	ecoli_Sakai__NP_309250.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309251.1	right	ecoli_Sakai__NP_309252.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309252.1	left	ecoli_Sakai__NP_309251.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309252.1	right	ecoli_Sakai__NP_309253.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309253.1	left	ecoli_Sakai__NP_309252.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309253.1	right	ecoli_Sakai__NP_309254.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309254.1	left	ecoli_Sakai__NP_309253.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309254.1	right	ecoli_Sakai__NP_309255.1	BLASTP	NZ_CP117568.1	1097248	1098561		True	False	38.52	60.775193798449614
+ecoli_Sakai	ecoli_Sakai__NP_309257.2	left	ecoli_Sakai__NP_309256.1	BLASTP	NZ_CP117568.1	1096977	1097246		True	True	92.135	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309257.2	right	ecoli_Sakai__NP_309259.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309259.2	left	ecoli_Sakai__NP_309257.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309259.2	right	ecoli_Sakai__NP_309260.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309260.1	left	ecoli_Sakai__NP_309259.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309260.1	right	ecoli_Sakai__NP_309261.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309261.1	left	ecoli_Sakai__NP_309260.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309261.1	right	ecoli_Sakai__NP_309262.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309262.1	left	ecoli_Sakai__NP_309261.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309262.1	right	ecoli_Sakai__NP_309263.1	BLASTP	NZ_CP117568.1	1098621	1099220		True	True	31.765	104.50819672131148
+ecoli_Sakai	ecoli_Sakai__NP_309264.1	left	ecoli_Sakai__NP_309263.1	BLASTP	NZ_CP117568.1	1098621	1099220		True	True	31.765	104.50819672131148
+ecoli_Sakai	ecoli_Sakai__NP_309264.1	right	ecoli_Sakai__NP_309265.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309265.1	left	ecoli_Sakai__NP_309264.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309265.1	right	ecoli_Sakai__NP_309266.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309266.1	left	ecoli_Sakai__NP_309265.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309266.1	right	ecoli_Sakai__NP_309267.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309267.1	left	ecoli_Sakai__NP_309266.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309267.1	right	ecoli_Sakai__NP_309268.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309268.1	left	ecoli_Sakai__NP_309267.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309268.1	right	ecoli_Sakai__NP_309269.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309269.1	left	ecoli_Sakai__NP_309268.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309269.1	right	ecoli_Sakai__NP_309271.1	BLASTP	NZ_CP117568.1	2192622	2193014	ygiW	True	True	46.491	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309273.1	left	ecoli_Sakai__NP_309272.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	True	True	80.0	71.42857142857143
+ecoli_Sakai	ecoli_Sakai__NP_309273.1	right	ecoli_Sakai__NP_309274.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309274.1	left	ecoli_Sakai__NP_309273.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309274.1	right	ecoli_Sakai__NP_309275.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309275.1	left	ecoli_Sakai__NP_309274.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309275.1	right	ecoli_Sakai__NP_309276.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309289.1	left	ecoli_Sakai__NP_309288.1	BLASTP	NZ_CP117568.1	137343	138851	putP	True	True	98.004	99.800796812749
+ecoli_Sakai	ecoli_Sakai__NP_309289.1	right	ecoli_Sakai__NP_309290.1	BLASTP	NZ_CP117568.1	139071	139901	efeU	True	True	99.275	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309304.1	left	ecoli_Sakai__NP_309303.2	BLASTP	NZ_CP117568.1	3900008	3900733		True	True	33.478	100.43668122270742
+ecoli_Sakai	ecoli_Sakai__NP_309304.1	right	ecoli_Sakai__NP_309305.1	BLASTP	NZ_CP117568.1	3638212	3640848		True	True	30.43	99.76190476190476
+ecoli_Sakai	ecoli_Sakai__NP_309308.1	left	ecoli_Sakai__NP_309307.1	BLASTP	NZ_CP117568.1	3636227	3636781	fimA	True	False	26.943	103.76344086021506
+ecoli_Sakai	ecoli_Sakai__NP_309308.1	right	ecoli_Sakai__NP_309309.2	TBLASTN	NZ_CP117568.1	147962	151087		False	True	26.473	92.20472440944881
+ecoli_Sakai	ecoli_Sakai__NP_309313.1	left	ecoli_Sakai__NP_309312.2	BLASTP	NZ_CP117568.1	214859	215593	fabG	True	True	35.27	95.25691699604744
+ecoli_Sakai	ecoli_Sakai__NP_309313.1	right	ecoli_Sakai__NP_309314.3						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309314.3	left	ecoli_Sakai__NP_309313.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309314.3	right	ecoli_Sakai__NP_309315.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309316.1	left	ecoli_Sakai__NP_309315.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309316.1	right	ecoli_Sakai__NP_309317.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309317.2	left	ecoli_Sakai__NP_309316.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309317.2	right	ecoli_Sakai__NP_309318.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309318.2	left	ecoli_Sakai__NP_309317.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309318.2	right	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209	238910	lolD	True	True	42.466	93.19148936170212
+ecoli_Sakai	ecoli_Sakai__NP_309320.1	left	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209	238910	lolD	True	True	42.466	93.19148936170212
+ecoli_Sakai	ecoli_Sakai__NP_309320.1	right	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910	240154	lolE	True	False	25.0	63.30275229357798
+ecoli_Sakai	ecoli_Sakai__NP_309322.1	left	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910	240154	lolE	True	False	25.0	63.30275229357798
+ecoli_Sakai	ecoli_Sakai__NP_309322.1	right	ecoli_Sakai__NP_309323.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309323.1	left	ecoli_Sakai__NP_309322.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309323.1	right	ecoli_Sakai__NP_309324.2	BLASTP	NZ_CP117568.1	213917	214846	fabD	True	True	28.295	82.42811501597444
+ecoli_Sakai	ecoli_Sakai__NP_309327.1	left	ecoli_Sakai__NP_309326.1	BLASTP	NZ_CP117568.1	1724780	1726021		True	True	34.223	103.0
+ecoli_Sakai	ecoli_Sakai__NP_309327.1	right	ecoli_Sakai__NP_309329.1	BLASTP	NZ_CP117568.1	1746482	1746721		True	True	51.786	57.142857142857146
+ecoli_Sakai	ecoli_Sakai__NP_309331.1	left	ecoli_Sakai__NP_309330.1	TBLASTN	NZ_CP117568.1	1752433	1753374		False	True	27.523	70.93275488069415
+ecoli_Sakai	ecoli_Sakai__NP_309331.1	right	ecoli_Sakai__NP_309332.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309332.1	left	ecoli_Sakai__NP_309331.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309332.1	right	ecoli_Sakai__NP_309334.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	63.789	92.7734375
+ecoli_Sakai	ecoli_Sakai__NP_309339.2	left	ecoli_Sakai__NP_309338.1	TBLASTN	NZ_CP117569.1	4256	4921		False	True	43.694	81.61764705882354
+ecoli_Sakai	ecoli_Sakai__NP_309339.2	right	ecoli_Sakai__NP_309340.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309340.1	left	ecoli_Sakai__NP_309339.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309340.1	right	ecoli_Sakai__NP_309341.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309341.1	left	ecoli_Sakai__NP_309340.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309341.1	right	ecoli_Sakai__NP_309343.1	BLASTP	NZ_CP117568.1	3335697	3336065	dgkA	True	True	76.471	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309346.1	left	ecoli_Sakai__NP_309344.2	BLASTP	NZ_CP117568.1	3414630	3416273	eptA	True	True	39.299	100.55658627087199
+ecoli_Sakai	ecoli_Sakai__NP_309346.1	right	ecoli_Sakai__NP_309348.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309348.2	left	ecoli_Sakai__NP_309346.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309348.2	right	ecoli_Sakai__NP_309349.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309349.1	left	ecoli_Sakai__NP_309348.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309349.1	right	ecoli_Sakai__NP_309350.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309350.1	left	ecoli_Sakai__NP_309349.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309350.1	right	ecoli_Sakai__NP_309351.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309351.2	left	ecoli_Sakai__NP_309350.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309351.2	right	ecoli_Sakai__NP_309352.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309352.1	left	ecoli_Sakai__NP_309351.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309352.1	right	ecoli_Sakai__NP_309353.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309353.1	left	ecoli_Sakai__NP_309352.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309353.1	right	ecoli_Sakai__NP_309354.1	BLASTP	NZ_CP117568.1	1826337	1827209	hypB	True	True	26.733	98.53658536585365
+ecoli_Sakai	ecoli_Sakai__NP_309360.1	left	ecoli_Sakai__NP_309357.1	BLASTP	NZ_CP117568.1	1758650	1758916		True	True	93.103	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309360.1	right	ecoli_Sakai__NP_309363.2	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	38.816	94.40993788819875
+ecoli_Sakai	ecoli_Sakai__NP_309369.1	left	ecoli_Sakai__NP_309368.2	BLASTP	NZ_CP117569.1	60462	60809	tnpB	True	True	38.144	85.84070796460178
+ecoli_Sakai	ecoli_Sakai__NP_309369.1	right	ecoli_Sakai__NP_309370.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309370.1	left	ecoli_Sakai__NP_309369.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309370.1	right	ecoli_Sakai__NP_309371.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309371.1	left	ecoli_Sakai__NP_309370.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309371.1	right	ecoli_Sakai__NP_309372.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309372.1	left	ecoli_Sakai__NP_309371.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309372.1	right	ecoli_Sakai__NP_309373.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309373.2	left	ecoli_Sakai__NP_309372.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309373.2	right	ecoli_Sakai__NP_309375.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309375.1	left	ecoli_Sakai__NP_309373.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309375.1	right	ecoli_Sakai__NP_309376.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309376.1	left	ecoli_Sakai__NP_309375.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309376.1	right	ecoli_Sakai__NP_309377.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309377.1	left	ecoli_Sakai__NP_309376.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309377.1	right	ecoli_Sakai__NP_309378.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309378.1	left	ecoli_Sakai__NP_309377.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309378.1	right	ecoli_Sakai__NP_309379.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309379.2	left	ecoli_Sakai__NP_309378.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309379.2	right	ecoli_Sakai__NP_309380.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309380.1	left	ecoli_Sakai__NP_309379.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309380.1	right	ecoli_Sakai__NP_309381.1	BLASTP	NZ_CP117568.1	2262776	2263741	alx	True	True	35.256	90.17341040462428
+ecoli_Sakai	ecoli_Sakai__NP_309382.1	left	ecoli_Sakai__NP_309381.1	BLASTP	NZ_CP117568.1	2262776	2263741	alx	True	True	35.256	90.17341040462428
+ecoli_Sakai	ecoli_Sakai__NP_309382.1	right	ecoli_Sakai__NP_309383.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309383.1	left	ecoli_Sakai__NP_309382.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309383.1	right	ecoli_Sakai__NP_309385.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309385.1	left	ecoli_Sakai__NP_309383.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309385.1	right	ecoli_Sakai__NP_309387.1	BLASTP	NZ_CP117568.1	1247944	1249923	cirA	True	True	32.336	100.86206896551724
+ecoli_Sakai	ecoli_Sakai__NP_309389.2	left	ecoli_Sakai__NP_309387.1	BLASTP	NZ_CP117568.1	1247944	1249923	cirA	True	True	32.336	100.86206896551724
+ecoli_Sakai	ecoli_Sakai__NP_309389.2	right	ecoli_Sakai__YP_009502602.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309391.1	left	ecoli_Sakai__YP_009502602.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309391.1	right	ecoli_Sakai__NP_309392.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309392.2	left	ecoli_Sakai__NP_309391.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309392.2	right	ecoli_Sakai__NP_309393.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309393.1	left	ecoli_Sakai__NP_309392.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309393.1	right	ecoli_Sakai__YP_009502603.1	BLASTP	NZ_CP117568.1	1021425	1021643		True	True	31.481	83.07692307692308
+ecoli_Sakai	ecoli_Sakai__NP_309397.1	left	ecoli_Sakai__YP_009502603.1	BLASTP	NZ_CP117568.1	1021425	1021643		True	True	31.481	83.07692307692308
+ecoli_Sakai	ecoli_Sakai__NP_309397.1	right	ecoli_Sakai__NP_309399.2	TBLASTN	NZ_CP117569.1	75121	75390		False	True	41.758	93.81443298969072
+ecoli_Sakai	ecoli_Sakai__NP_309401.1	left	ecoli_Sakai__NP_309400.1	TBLASTN	NZ_CP117569.1	75525	75746		False	True	44.595	81.31868131868131
+ecoli_Sakai	ecoli_Sakai__NP_309401.1	right	ecoli_Sakai__NP_309403.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309403.1	left	ecoli_Sakai__NP_309401.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309403.1	right	ecoli_Sakai__NP_309404.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309404.1	left	ecoli_Sakai__NP_309403.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309404.1	right	ecoli_Sakai__NP_309405.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309405.1	left	ecoli_Sakai__NP_309404.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309405.1	right	ecoli_Sakai__YP_009502604.1	BLASTP	NZ_CP117568.1	2820889	2821071		True	True	51.064	74.60317460317461
+ecoli_Sakai	ecoli_Sakai__NP_309415.1	left	ecoli_Sakai__NP_309414.1	BLASTP	NZ_CP117568.1	4311812	4312441		True	True	56.132	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309415.1	right	ecoli_Sakai__NP_309416.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309416.1	left	ecoli_Sakai__NP_309415.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309416.1	right	ecoli_Sakai__YP_009502605.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309421.1	left	ecoli_Sakai__NP_309420.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	True	True	91.489	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309421.1	right	ecoli_Sakai__NP_309422.1	BLASTP	NZ_CP117568.1	1748237	1749121		True	True	40.767	98.96551724137932
+ecoli_Sakai	ecoli_Sakai__NP_309426.1	left	ecoli_Sakai__NP_309425.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309426.1	right	ecoli_Sakai__NP_309428.1	BLASTP	NZ_CP117568.1	1754841	1755659		True	True	71.747	98.8970588235294
+ecoli_Sakai	ecoli_Sakai__NP_309529.1	left	ecoli_Sakai__NP_309528.1	BLASTP	NZ_CP117568.1	1143493	1144566		True	True	38.0	94.08602150537635
+ecoli_Sakai	ecoli_Sakai__NP_309529.1	right	ecoli_Sakai__NP_309530.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309530.2	left	ecoli_Sakai__NP_309529.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309530.2	right	ecoli_Sakai__NP_309531.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309531.2	left	ecoli_Sakai__NP_309530.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309531.2	right	ecoli_Sakai__NP_309532.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309536.1	left	ecoli_Sakai__NP_309535.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309536.1	right	ecoli_Sakai__NP_309537.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309537.2	left	ecoli_Sakai__NP_309536.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309537.2	right	ecoli_Sakai__NP_309538.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309539.1	left	ecoli_Sakai__NP_309538.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309539.1	right	ecoli_Sakai__NP_309540.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309540.1	left	ecoli_Sakai__NP_309539.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309540.1	right	ecoli_Sakai__NP_309541.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309542.1	left	ecoli_Sakai__NP_309541.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309542.1	right	ecoli_Sakai__NP_309543.1	BLASTP	NZ_CP117568.1	4500185	4500859		True	True	40.441	93.79310344827586
+ecoli_Sakai	ecoli_Sakai__NP_309544.1	left	ecoli_Sakai__NP_309543.1	BLASTP	NZ_CP117568.1	4500185	4500859		True	True	40.441	93.79310344827586
+ecoli_Sakai	ecoli_Sakai__NP_309544.1	right	ecoli_Sakai__NP_309545.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309545.1	left	ecoli_Sakai__NP_309544.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309545.1	right	ecoli_Sakai__YP_009502606.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309555.1	left	ecoli_Sakai__NP_309554.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	57.319	100.62015503875969
+ecoli_Sakai	ecoli_Sakai__NP_309555.1	right	ecoli_Sakai__NP_309556.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309556.1	left	ecoli_Sakai__NP_309555.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309556.1	right	ecoli_Sakai__NP_309557.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	95.161	87.32394366197182
+ecoli_Sakai	ecoli_Sakai__NP_309563.1	left	ecoli_Sakai__NP_309562.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309563.1	right	ecoli_Sakai__NP_309565.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309567.1	left	ecoli_Sakai__NP_309566.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309567.1	right	ecoli_Sakai__NP_309568.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309568.1	left	ecoli_Sakai__NP_309567.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309568.1	right	ecoli_Sakai__NP_309569.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309570.1	left	ecoli_Sakai__NP_309569.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309570.1	right	ecoli_Sakai__YP_009502610.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309571.1	left	ecoli_Sakai__YP_009502610.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309571.1	right	ecoli_Sakai__NP_309572.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309572.1	left	ecoli_Sakai__NP_309571.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309572.1	right	ecoli_Sakai__NP_309573.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309573.1	left	ecoli_Sakai__NP_309572.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309573.1	right	ecoli_Sakai__NP_309574.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309574.1	left	ecoli_Sakai__NP_309573.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309574.1	right	ecoli_Sakai__NP_309575.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309575.1	left	ecoli_Sakai__NP_309574.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309575.1	right	ecoli_Sakai__NP_309576.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309576.1	left	ecoli_Sakai__NP_309575.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309576.1	right	ecoli_Sakai__NP_309577.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309577.1	left	ecoli_Sakai__NP_309576.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309577.1	right	ecoli_Sakai__NP_309578.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309578.2	left	ecoli_Sakai__NP_309577.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309578.2	right	ecoli_Sakai__NP_304285.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309584.1	left	ecoli_Sakai__NP_309583.1	BLASTP	NZ_CP117568.1	4533646	4533888		True	False	36.508	75.0
+ecoli_Sakai	ecoli_Sakai__NP_309584.1	right	ecoli_Sakai__NP_309585.1	BLASTP	NZ_CP117568.1	1103941	1104684		True	True	88.333	97.95918367346938
+ecoli_Sakai	ecoli_Sakai__NP_309588.1	left	ecoli_Sakai__NP_309587.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309588.1	right	ecoli_Sakai__NP_304296.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309603.1	left	ecoli_Sakai__NP_309601.1	BLASTP	NZ_CP117568.1	421521	422708		True	True	30.653	97.31051344743277
+ecoli_Sakai	ecoli_Sakai__NP_309603.1	right	ecoli_Sakai__NP_309604.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309604.1	left	ecoli_Sakai__NP_309603.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309604.1	right	ecoli_Sakai__NP_309605.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309605.1	left	ecoli_Sakai__NP_309604.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309605.1	right	ecoli_Sakai__NP_309606.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309606.1	left	ecoli_Sakai__NP_309605.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309606.1	right	ecoli_Sakai__NP_309607.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309607.1	left	ecoli_Sakai__NP_309606.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309607.1	right	ecoli_Sakai__NP_309608.1	TBLASTN	NZ_CP117568.1	2820928	2821161		False	True	30.769	78.78787878787878
+ecoli_Sakai	ecoli_Sakai__NP_309613.1	left	ecoli_Sakai__NP_309609.2	BLASTP	NZ_CP117568.1	2824095	2826851		True	True	62.7	79.29577464788733
+ecoli_Sakai	ecoli_Sakai__NP_309613.1	right	ecoli_Sakai__NP_309614.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	True	False	25.51	72.05882352941177
+ecoli_Sakai	ecoli_Sakai__NP_309616.3	left	ecoli_Sakai__NP_309615.1	BLASTP	NZ_CP117568.1	2835192	2835479		True	True	56.18	98.88888888888889
+ecoli_Sakai	ecoli_Sakai__NP_309616.3	right	ecoli_Sakai__NP_309617.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309617.1	left	ecoli_Sakai__NP_309616.3						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309617.1	right	ecoli_Sakai__NP_309618.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309618.2	left	ecoli_Sakai__NP_309617.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309618.2	right	ecoli_Sakai__NP_309619.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309619.2	left	ecoli_Sakai__NP_309618.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309619.2	right	ecoli_Sakai__NP_309620.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309620.1	left	ecoli_Sakai__NP_309619.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309620.1	right	ecoli_Sakai__NP_309621.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309621.1	left	ecoli_Sakai__NP_309620.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309621.1	right	ecoli_Sakai__NP_309622.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309622.1	left	ecoli_Sakai__NP_309621.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309622.1	right	ecoli_Sakai__NP_309624.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309624.1	left	ecoli_Sakai__NP_309622.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309624.1	right	ecoli_Sakai__NP_309625.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309626.1	left	ecoli_Sakai__NP_309625.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309626.1	right	ecoli_Sakai__NP_309628.1	BLASTP	NZ_CP117568.1	249985	251445	phoQ	True	True	94.239	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309647.1	left	ecoli_Sakai__YP_009502612.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309647.1	right	ecoli_Sakai__NP_309648.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309648.2	left	ecoli_Sakai__NP_309647.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309648.2	right	ecoli_Sakai__NP_309649.1	BLASTP	NZ_CP117568.1	3156370	3156867		True	True	55.625	101.26582278481013
+ecoli_Sakai	ecoli_Sakai__NP_309679.1	left	ecoli_Sakai__NP_309678.1	BLASTP	NZ_CP117568.1	3163239	3163817		True	True	63.542	99.48186528497409
+ecoli_Sakai	ecoli_Sakai__NP_309679.1	right	ecoli_Sakai__NP_309680.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309689.1	left	ecoli_Sakai__NP_309687.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	True	True	63.789	92.7734375
+ecoli_Sakai	ecoli_Sakai__NP_309689.1	right	ecoli_Sakai__NP_309690.1	BLASTP	NZ_CP117568.1	264018	264965		True	True	76.656	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309700.2	left	ecoli_Sakai__NP_309699.1	BLASTP	NZ_CP117568.1	280314	280715	pliG	True	True	84.211	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309700.2	right	ecoli_Sakai__NP_309701.2	BLASTP	NZ_CP117568.1	275067	275360		True	True	93.814	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309789.1	left	ecoli_Sakai__NP_309788.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309789.1	right	ecoli_Sakai__NP_309790.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309790.1	left	ecoli_Sakai__NP_309789.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309790.1	right	ecoli_Sakai__NP_309791.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309795.1	left	ecoli_Sakai__NP_309794.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309795.1	right	ecoli_Sakai__NP_309796.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309796.2	left	ecoli_Sakai__NP_309795.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309796.2	right	ecoli_Sakai__YP_009502617.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309805.1	left	ecoli_Sakai__NP_309804.1	BLASTP	NZ_CP117568.1	4514287	4514649		True	True	57.895	95.7983193277311
+ecoli_Sakai	ecoli_Sakai__NP_309805.1	right	ecoli_Sakai__NP_309806.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309806.2	left	ecoli_Sakai__NP_309805.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309806.2	right	ecoli_Sakai__NP_309807.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309807.1	left	ecoli_Sakai__NP_309806.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309807.1	right	ecoli_Sakai__NP_309808.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	91.572	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309816.1	left	ecoli_Sakai__NP_309815.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309816.1	right	ecoli_Sakai__NP_309818.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309818.1	left	ecoli_Sakai__NP_309816.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309818.1	right	ecoli_Sakai__NP_309819.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309820.1	left	ecoli_Sakai__NP_309819.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309820.1	right	ecoli_Sakai__NP_304527.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309822.1	left	ecoli_Sakai__NP_304527.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309822.1	right	ecoli_Sakai__NP_309823.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309823.1	left	ecoli_Sakai__NP_309822.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309823.1	right	ecoli_Sakai__NP_309824.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309824.1	left	ecoli_Sakai__NP_309823.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309824.1	right	ecoli_Sakai__NP_309825.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309825.1	left	ecoli_Sakai__NP_309824.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309825.1	right	ecoli_Sakai__NP_309826.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309826.1	left	ecoli_Sakai__NP_309825.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309826.1	right	ecoli_Sakai__NP_309827.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309827.2	left	ecoli_Sakai__NP_309826.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309827.2	right	ecoli_Sakai__NP_309828.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309828.1	left	ecoli_Sakai__NP_309827.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309828.1	right	ecoli_Sakai__NP_309829.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309829.2	left	ecoli_Sakai__NP_309828.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309829.2	right	ecoli_Sakai__NP_309830.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309830.1	left	ecoli_Sakai__NP_309829.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309830.1	right	ecoli_Sakai__NP_309831.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	46.847	98.23008849557522
+ecoli_Sakai	ecoli_Sakai__NP_309867.1	left	ecoli_Sakai__NP_309866.4	BLASTP	NZ_CP117568.1	384893	385513		True	True	98.544	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309867.1	right	ecoli_Sakai__NP_309868.1	BLASTP	NZ_CP117568.1	385614	386489	rluB	True	True	98.616	99.65517241379311
+ecoli_Sakai	ecoli_Sakai__NP_309971.1	left	ecoli_Sakai__NP_309970.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309971.1	right	ecoli_Sakai__NP_309972.1	BLASTP	NZ_CP117568.1	3703077	3703814	dnaC	True	True	48.76	97.58064516129032
+ecoli_Sakai	ecoli_Sakai__NP_309976.1	left	ecoli_Sakai__NP_309975.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309976.1	right	ecoli_Sakai__NP_309977.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309977.1	left	ecoli_Sakai__NP_309976.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309977.1	right	ecoli_Sakai__NP_309978.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309978.1	left	ecoli_Sakai__NP_309977.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309978.1	right	ecoli_Sakai__NP_309980.1	BLASTP	NZ_CP117568.1	3608200	3609324		True	True	31.117	98.17232375979113
+ecoli_Sakai	ecoli_Sakai__NP_309981.1	left	ecoli_Sakai__NP_309980.1	BLASTP	NZ_CP117568.1	3608200	3609324		True	True	31.117	98.17232375979113
+ecoli_Sakai	ecoli_Sakai__NP_309981.1	right	ecoli_Sakai__NP_309982.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309982.1	left	ecoli_Sakai__NP_309981.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309982.1	right	ecoli_Sakai__NP_309983.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309983.1	left	ecoli_Sakai__NP_309982.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309983.1	right	ecoli_Sakai__NP_309984.1	BLASTP	NZ_CP117568.1	4513475	4513765		True	True	56.25	100.0
+ecoli_Sakai	ecoli_Sakai__NP_309986.1	left	ecoli_Sakai__NP_309985.1	BLASTP	NZ_CP117568.1	4514831	4515349		True	True	25.967	98.3695652173913
+ecoli_Sakai	ecoli_Sakai__NP_309986.1	right	ecoli_Sakai__NP_309987.2	TBLASTN	NZ_CP117568.1	1127470	1127739		False	True	37.755	56.97674418604651
+ecoli_Sakai	ecoli_Sakai__NP_309995.1	left	ecoli_Sakai__NP_309994.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309995.1	right	ecoli_Sakai__NP_309997.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309997.1	left	ecoli_Sakai__NP_309995.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309997.1	right	ecoli_Sakai__NP_309998.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309999.1	left	ecoli_Sakai__NP_309998.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_309999.1	right	ecoli_Sakai__YP_009502624.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310001.1	left	ecoli_Sakai__YP_009502624.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310001.1	right	ecoli_Sakai__NP_310002.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310002.1	left	ecoli_Sakai__NP_310001.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310002.1	right	ecoli_Sakai__NP_310003.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310003.1	left	ecoli_Sakai__NP_310002.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310003.1	right	ecoli_Sakai__NP_310004.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310004.1	left	ecoli_Sakai__NP_310003.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310004.1	right	ecoli_Sakai__NP_310005.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310005.1	left	ecoli_Sakai__NP_310004.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310005.1	right	ecoli_Sakai__NP_310006.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310006.1	left	ecoli_Sakai__NP_310005.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310006.1	right	ecoli_Sakai__NP_310007.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310007.1	left	ecoli_Sakai__NP_310006.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310007.1	right	ecoli_Sakai__NP_310008.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310008.1	left	ecoli_Sakai__NP_310007.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310008.1	right	ecoli_Sakai__NP_310009.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310009.2	left	ecoli_Sakai__NP_310008.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310009.2	right	ecoli_Sakai__NP_310010.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310010.1	left	ecoli_Sakai__NP_310009.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310010.1	right	ecoli_Sakai__NP_310011.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	47.748	98.23008849557522
+ecoli_Sakai	ecoli_Sakai__NP_310033.1	left	ecoli_Sakai__NP_310032.2	BLASTP	NZ_CP117568.1	478308	478631		True	True	81.308	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310033.1	right	ecoli_Sakai__NP_310034.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310034.2	left	ecoli_Sakai__NP_310033.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310034.2	right	ecoli_Sakai__NP_310035.1	BLASTP	NZ_CP117568.1	478854	479714		True	True	92.308	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310043.1	left	ecoli_Sakai__NP_310042.2	BLASTP	NZ_CP117568.1	483064	486966	hrpA	True	True	98.692	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310043.1	right	ecoli_Sakai__NP_310044.1	BLASTP	NZ_CP117568.1	488187	488534		True	True	66.087	102.67857142857143
+ecoli_Sakai	ecoli_Sakai__NP_310170.2	left	ecoli_Sakai__YP_009502627.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310170.2	right	ecoli_Sakai__YP_009502628.1	BLASTP	NZ_CP117568.1	610486	610581	mgtS	True	True	90.323	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310193.1	left	ecoli_Sakai__NP_310192.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	78.899	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310193.1	right	ecoli_Sakai__NP_310194.1	BLASTP	NZ_CP117568.1	1108286	1108711		True	True	66.667	96.35036496350365
+ecoli_Sakai	ecoli_Sakai__NP_310217.1	left	ecoli_Sakai__YP_009502630.1	BLASTP	NZ_CP117568.1	1127643	1127801		True	True	77.419	56.36363636363637
+ecoli_Sakai	ecoli_Sakai__NP_310217.1	right	ecoli_Sakai__NP_310218.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	True	36.224	100.51282051282051
+ecoli_Sakai	ecoli_Sakai__NP_310219.1	left	ecoli_Sakai__NP_310218.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	True	36.224	100.51282051282051
+ecoli_Sakai	ecoli_Sakai__NP_310219.1	right	ecoli_Sakai__NP_310220.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310228.1	left	ecoli_Sakai__NP_310226.1	TBLASTN	NZ_CP117568.1	4499853	4500104		False	True	35.106	50.810810810810814
+ecoli_Sakai	ecoli_Sakai__NP_310228.1	right	ecoli_Sakai__NP_310229.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310229.1	left	ecoli_Sakai__NP_310228.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310229.1	right	ecoli_Sakai__NP_310230.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310230.1	left	ecoli_Sakai__NP_310229.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310230.1	right	ecoli_Sakai__NP_310231.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310232.2	left	ecoli_Sakai__NP_310231.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310232.2	right	ecoli_Sakai__NP_310233.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310233.1	left	ecoli_Sakai__NP_310232.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310233.1	right	ecoli_Sakai__NP_310234.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310235.1	left	ecoli_Sakai__NP_310234.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310235.1	right	ecoli_Sakai__NP_310236.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310236.2	left	ecoli_Sakai__NP_310235.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310236.2	right	ecoli_Sakai__NP_310237.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310238.1	left	ecoli_Sakai__NP_310237.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310238.1	right	ecoli_Sakai__NP_310239.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310239.1	left	ecoli_Sakai__NP_310238.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310239.1	right	ecoli_Sakai__NP_310241.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310245.1	left	ecoli_Sakai__NP_310242.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310245.1	right	ecoli_Sakai__NP_310246.2	TBLASTN	NZ_CP117569.1	4319	4927		False	True	33.005	68.8135593220339
+ecoli_Sakai	ecoli_Sakai__NP_310248.1	left	ecoli_Sakai__NP_310247.1	TBLASTN	NZ_CP117569.1	58377	58661		False	True	74.51	94.44444444444444
+ecoli_Sakai	ecoli_Sakai__NP_310248.1	right	ecoli_Sakai__NP_310249.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	True	True	37.879	104.76190476190476
+ecoli_Sakai	ecoli_Sakai__NP_310267.1	left	ecoli_Sakai__NP_310266.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	46.847	98.23008849557522
+ecoli_Sakai	ecoli_Sakai__NP_310267.1	right	ecoli_Sakai__NP_310268.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310268.2	left	ecoli_Sakai__NP_310267.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310268.2	right	ecoli_Sakai__NP_310269.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310269.1	left	ecoli_Sakai__NP_310268.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310269.1	right	ecoli_Sakai__NP_310270.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310270.1	left	ecoli_Sakai__NP_310269.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310270.1	right	ecoli_Sakai__NP_310271.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310271.1	left	ecoli_Sakai__NP_310270.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310271.1	right	ecoli_Sakai__NP_310272.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310272.1	left	ecoli_Sakai__NP_310271.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310272.1	right	ecoli_Sakai__NP_310273.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310273.1	left	ecoli_Sakai__NP_310272.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310273.1	right	ecoli_Sakai__NP_310274.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310274.1	left	ecoli_Sakai__NP_310273.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310274.1	right	ecoli_Sakai__NP_310275.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310275.1	left	ecoli_Sakai__NP_310274.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310275.1	right	ecoli_Sakai__YP_009502631.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310277.1	left	ecoli_Sakai__YP_009502631.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310277.1	right	ecoli_Sakai__NP_310278.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310279.1	left	ecoli_Sakai__NP_310278.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310279.1	right	ecoli_Sakai__NP_310281.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310281.1	left	ecoli_Sakai__NP_310279.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310281.1	right	ecoli_Sakai__NP_310282.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310292.1	left	ecoli_Sakai__YP_009502633.1	BLASTP	NZ_CP117568.1	1127643	1127801		True	True	77.419	56.36363636363637
+ecoli_Sakai	ecoli_Sakai__NP_310292.1	right	ecoli_Sakai__NP_310294.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310294.1	left	ecoli_Sakai__NP_310292.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310294.1	right	ecoli_Sakai__NP_310295.1	BLASTP	NZ_CP117568.1	4514287	4514649		True	True	63.717	94.95798319327731
+ecoli_Sakai	ecoli_Sakai__NP_310299.1	left	ecoli_Sakai__NP_310298.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310299.1	right	ecoli_Sakai__NP_310300.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310305.1	left	ecoli_Sakai__NP_310304.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310305.1	right	ecoli_Sakai__NP_310306.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310306.2	left	ecoli_Sakai__NP_310305.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310306.2	right	ecoli_Sakai__NP_310307.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310307.2	left	ecoli_Sakai__NP_310306.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310307.2	right	ecoli_Sakai__NP_310308.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310308.1	left	ecoli_Sakai__NP_310307.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310308.1	right	ecoli_Sakai__NP_310309.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310309.2	left	ecoli_Sakai__NP_310308.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310309.2	right	ecoli_Sakai__NP_310310.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310645.1	left	ecoli_Sakai__NP_310644.1	BLASTP	NZ_CP117568.1	4677560	4678555		True	True	39.403	100.6006006006006
+ecoli_Sakai	ecoli_Sakai__NP_310645.1	right	ecoli_Sakai__NP_310646.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310646.1	left	ecoli_Sakai__NP_310645.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310646.1	right	ecoli_Sakai__NP_310647.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310647.1	left	ecoli_Sakai__NP_310646.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310647.1	right	ecoli_Sakai__NP_305354.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310650.1	left	ecoli_Sakai__NP_310649.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310650.1	right	ecoli_Sakai__NP_310651.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310651.1	left	ecoli_Sakai__NP_310650.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310651.1	right	ecoli_Sakai__NP_310652.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310652.1	left	ecoli_Sakai__NP_310651.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310652.1	right	ecoli_Sakai__YP_009502639.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310653.1	left	ecoli_Sakai__YP_009502639.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310653.1	right	ecoli_Sakai__NP_310654.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310654.1	left	ecoli_Sakai__NP_310653.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310654.1	right	ecoli_Sakai__NP_310655.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310655.1	left	ecoli_Sakai__NP_310654.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310655.1	right	ecoli_Sakai__NP_310656.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310656.1	left	ecoli_Sakai__NP_310655.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310656.1	right	ecoli_Sakai__NP_310657.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310657.1	left	ecoli_Sakai__NP_310656.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310657.1	right	ecoli_Sakai__NP_310658.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310658.1	left	ecoli_Sakai__NP_310657.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310658.1	right	ecoli_Sakai__NP_310659.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310659.1	left	ecoli_Sakai__NP_310658.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310659.1	right	ecoli_Sakai__NP_310660.2	BLASTP	NZ_CP117568.1	1	2307		True	True	31.441	73.08510638297872
+ecoli_Sakai	ecoli_Sakai__NP_310662.1	left	ecoli_Sakai__NP_310661.1	BLASTP	NZ_CP117569.1	8380	9360		True	True	50.784	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310662.1	right	ecoli_Sakai__NP_310663.1	TBLASTN	NZ_CP117569.1	4319	4759		False	True	36.054	64.19213973799127
+ecoli_Sakai	ecoli_Sakai__NP_310689.1	left	ecoli_Sakai__NP_310688.1	BLASTP	NZ_CP117568.1	946260	946979	fliA	True	True	97.071	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310689.1	right	ecoli_Sakai__NP_310690.1	BLASTP	NZ_CP117568.1	948905	950305	fliD	True	True	92.521	100.64516129032258
+ecoli_Sakai	ecoli_Sakai__NP_310767.3	left	ecoli_Sakai__YP_009502641.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310767.3	right	ecoli_Sakai__NP_310768.1	BLASTP	NZ_CP117568.1	1121149	1121682		True	True	92.09	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310776.1	left	ecoli_Sakai__NP_310775.1	BLASTP	NZ_CP117568.1	1127643	1127801		True	True	80.645	56.36363636363637
+ecoli_Sakai	ecoli_Sakai__NP_310776.1	right	ecoli_Sakai__NP_310777.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310777.1	left	ecoli_Sakai__NP_310776.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310777.1	right	ecoli_Sakai__NP_310778.1	BLASTP	NZ_CP117568.1	4514287	4514649		True	True	61.947	94.95798319327731
+ecoli_Sakai	ecoli_Sakai__NP_310783.1	left	ecoli_Sakai__NP_310782.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310783.1	right	ecoli_Sakai__NP_310784.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310784.1	left	ecoli_Sakai__NP_310783.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310784.1	right	ecoli_Sakai__NP_310785.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310785.2	left	ecoli_Sakai__NP_310784.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310785.2	right	ecoli_Sakai__NP_310786.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310786.1	left	ecoli_Sakai__NP_310785.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310786.1	right	ecoli_Sakai__NP_310787.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310787.1	left	ecoli_Sakai__NP_310786.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310787.1	right	ecoli_Sakai__NP_310788.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310789.2	left	ecoli_Sakai__NP_310788.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310789.2	right	ecoli_Sakai__NP_310790.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310790.1	left	ecoli_Sakai__NP_310789.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310790.1	right	ecoli_Sakai__NP_310791.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310793.2	left	ecoli_Sakai__NP_310792.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310793.2	right	ecoli_Sakai__NP_310794.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310799.1	left	ecoli_Sakai__NP_310797.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310799.1	right	ecoli_Sakai__NP_310800.1	BLASTP	NZ_CP117568.1	1143493	1144566		True	False	26.225	102.05882352941177
+ecoli_Sakai	ecoli_Sakai__NP_310823.2	left	ecoli_Sakai__NP_310822.2	TBLASTN	NZ_CP117569.1	4319	4927		False	True	33.005	68.8135593220339
+ecoli_Sakai	ecoli_Sakai__NP_310823.2	right	ecoli_Sakai__NP_310824.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310825.1	left	ecoli_Sakai__NP_310824.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310825.1	right	ecoli_Sakai__NP_310826.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310826.1	left	ecoli_Sakai__NP_310825.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310826.1	right	ecoli_Sakai__NP_310827.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310827.1	left	ecoli_Sakai__NP_310826.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310827.1	right	ecoli_Sakai__NP_310828.1	BLASTP	NZ_CP117568.1	1754841	1755659		True	True	71.852	98.9010989010989
+ecoli_Sakai	ecoli_Sakai__NP_310867.1	left	ecoli_Sakai__NP_310866.1	BLASTP	NZ_CP117568.1	1076097	1077182	rfbB	True	True	26.667	68.54838709677419
+ecoli_Sakai	ecoli_Sakai__NP_310867.1	right	ecoli_Sakai__NP_310868.2	BLASTP	NZ_CP117568.1	1365577	1366716	arnB	True	True	35.62	104.12087912087912
+ecoli_Sakai	ecoli_Sakai__NP_310869.2	left	ecoli_Sakai__NP_310868.2	BLASTP	NZ_CP117568.1	1365577	1366716	arnB	True	True	35.62	104.12087912087912
+ecoli_Sakai	ecoli_Sakai__NP_310869.2	right	ecoli_Sakai__NP_310870.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310871.1	left	ecoli_Sakai__NP_310870.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310871.1	right	ecoli_Sakai__NP_310872.1	BLASTP	NZ_CP117568.1	1069621	1070529		True	True	26.244	85.0
+ecoli_Sakai	ecoli_Sakai__NP_310896.1	left	ecoli_Sakai__NP_310895.2	BLASTP	NZ_CP117568.1	1079779	1081362		True	True	98.292	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310896.1	right	ecoli_Sakai__NP_310897.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310897.1	left	ecoli_Sakai__NP_310896.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310897.1	right	ecoli_Sakai__NP_310898.1	BLASTP	NZ_CP117568.1	1081812	1083665	asmA	True	True	90.113	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310936.1	left	ecoli_Sakai__NP_310935.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310936.1	right	ecoli_Sakai__NP_310937.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310937.1	left	ecoli_Sakai__NP_310936.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310937.1	right	ecoli_Sakai__NP_310938.1	BLASTP	NZ_CP117568.1	1179454	1179726	rcnR	True	True	98.889	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310976.1	left	ecoli_Sakai__NP_310975.1	BLASTP	NZ_CP117568.1	1105388	1105717		True	True	78.899	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310976.1	right	ecoli_Sakai__NP_310977.1	BLASTP	NZ_CP117568.1	1108286	1108711		True	True	69.608	100.0
+ecoli_Sakai	ecoli_Sakai__NP_310982.1	left	ecoli_Sakai__NP_310981.1	BLASTP	NZ_CP117568.1	1110271	1110804		True	True	41.262	99.51690821256038
+ecoli_Sakai	ecoli_Sakai__NP_310982.1	right	ecoli_Sakai__NP_310983.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310983.1	left	ecoli_Sakai__NP_310982.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310983.1	right	ecoli_Sakai__NP_310984.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310984.2	left	ecoli_Sakai__NP_310983.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310984.2	right	ecoli_Sakai__NP_310985.1	TBLASTN	NZ_CP117569.1	58377	58661		False	True	73.529	94.44444444444444
+ecoli_Sakai	ecoli_Sakai__NP_310988.1	left	ecoli_Sakai__NP_310986.2	TBLASTN	NZ_CP117569.1	4319	4927		False	True	33.005	68.8135593220339
+ecoli_Sakai	ecoli_Sakai__NP_310988.1	right	ecoli_Sakai__NP_310989.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310989.2	left	ecoli_Sakai__NP_310988.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310989.2	right	ecoli_Sakai__NP_310990.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310991.1	left	ecoli_Sakai__NP_310990.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310991.1	right	ecoli_Sakai__NP_310993.2	BLASTP	NZ_CP117568.1	1120715	1121152		True	True	48.701	99.35483870967742
+ecoli_Sakai	ecoli_Sakai__NP_310997.1	left	ecoli_Sakai__NP_310996.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	True	90.323	87.32394366197182
+ecoli_Sakai	ecoli_Sakai__NP_310997.1	right	ecoli_Sakai__NP_310998.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310998.1	left	ecoli_Sakai__NP_310997.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_310998.1	right	ecoli_Sakai__NP_310999.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	53.221	100.61728395061728
+ecoli_Sakai	ecoli_Sakai__NP_311000.1	left	ecoli_Sakai__NP_310999.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	53.221	100.61728395061728
+ecoli_Sakai	ecoli_Sakai__NP_311000.1	right	ecoli_Sakai__NP_311001.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311001.1	left	ecoli_Sakai__NP_311000.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311001.1	right	ecoli_Sakai__NP_311002.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311006.1	left	ecoli_Sakai__NP_311005.1	BLASTP	NZ_CP117568.1	1130947	1131117		True	True	86.792	76.81159420289855
+ecoli_Sakai	ecoli_Sakai__NP_311006.1	right	ecoli_Sakai__NP_311007.1	BLASTP	NZ_CP117568.1	1131114	1131296		True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311010.2	left	ecoli_Sakai__NP_311009.1	BLASTP	NZ_CP117568.1	4512491	4512931		True	True	44.966	100.67567567567568
+ecoli_Sakai	ecoli_Sakai__NP_311010.2	right	ecoli_Sakai__YP_009502643.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311011.1	left	ecoli_Sakai__YP_009502643.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311011.1	right	ecoli_Sakai__NP_311012.1	BLASTP	NZ_CP117568.1	1132331	1132621		True	True	98.958	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311016.1	left	ecoli_Sakai__NP_311015.1	BLASTP	NZ_CP117568.1	4508071	4508367		True	True	89.796	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311016.1	right	ecoli_Sakai__NP_311017.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311018.1	left	ecoli_Sakai__NP_311017.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311018.1	right	ecoli_Sakai__NP_311019.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311019.1	left	ecoli_Sakai__NP_311018.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311019.1	right	ecoli_Sakai__NP_311021.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311021.1	left	ecoli_Sakai__NP_311019.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311021.1	right	ecoli_Sakai__NP_311022.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311022.1	left	ecoli_Sakai__NP_311021.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311022.1	right	ecoli_Sakai__NP_311023.1	BLASTP	NZ_CP117568.1	1137951	1138319		True	True	99.18	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311034.1	left	ecoli_Sakai__NP_311033.1	BLASTP	NZ_CP117568.1	1141241	1141462		True	True	93.151	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311034.1	right	ecoli_Sakai__NP_305741.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311036.1	left	ecoli_Sakai__NP_305741.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311036.1	right	ecoli_Sakai__NP_311037.1	BLASTP	NZ_CP117568.1	4499838	4500188		True	True	54.622	99.16666666666667
+ecoli_Sakai	ecoli_Sakai__NP_311150.1	left	ecoli_Sakai__NP_311149.1	BLASTP	NZ_CP117568.1	394142	395116	cysB	True	True	25.0	91.78082191780823
+ecoli_Sakai	ecoli_Sakai__NP_311150.1	right	ecoli_Sakai__NP_311151.1	BLASTP	NZ_CP117568.1	1349726	1350805	glpQ	True	True	96.901	99.16201117318435
+ecoli_Sakai	ecoli_Sakai__NP_311263.2	left	ecoli_Sakai__NP_311261.1	BLASTP	NZ_CP117568.1	2827614	2828075		True	True	86.0	96.7741935483871
+ecoli_Sakai	ecoli_Sakai__NP_311263.2	right	ecoli_Sakai__NP_311265.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311265.1	left	ecoli_Sakai__NP_311263.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311265.1	right	ecoli_Sakai__NP_311266.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311266.1	left	ecoli_Sakai__NP_311265.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311266.1	right	ecoli_Sakai__NP_311267.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311270.1	left	ecoli_Sakai__NP_311269.1	BLASTP	NZ_CP117568.1	2423704	2424666		True	True	28.846	102.63157894736842
+ecoli_Sakai	ecoli_Sakai__NP_311270.1	right	ecoli_Sakai__NP_311271.2	BLASTP	NZ_CP117568.1	3196228	3197253	cytR	True	True	29.102	101.89274447949526
+ecoli_Sakai	ecoli_Sakai__NP_311408.1	left	ecoli_Sakai__NP_311407.1	BLASTP	NZ_CP117568.1	1607873	1608304	ndk	True	True	99.301	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311408.1	right	ecoli_Sakai__NP_311409.1	BLASTP	NZ_CP117568.1	629817	630674		True	False	31.646	57.875457875457876
+ecoli_Sakai	ecoli_Sakai__NP_311514.1	left	ecoli_Sakai__NP_311513.1	BLASTP	NZ_CP117568.1	3465960	3466598		True	True	57.635	93.98148148148148
+ecoli_Sakai	ecoli_Sakai__NP_311514.1	right	ecoli_Sakai__NP_311516.2	BLASTP	NZ_CP117568.1	1096977	1097246		True	True	95.506	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311534.2	left	ecoli_Sakai__NP_311533.2	TBLASTN	NZ_CP117568.1	1013213	1013362		False	True	32.0	50.0
+ecoli_Sakai	ecoli_Sakai__NP_311534.2	right	ecoli_Sakai__NP_311535.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311535.1	left	ecoli_Sakai__NP_311534.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311535.1	right	ecoli_Sakai__NP_311536.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311536.1	left	ecoli_Sakai__NP_311535.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311536.1	right	ecoli_Sakai__NP_311537.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311537.1	left	ecoli_Sakai__NP_311536.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311537.1	right	ecoli_Sakai__NP_311538.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311538.1	left	ecoli_Sakai__NP_311537.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311538.1	right	ecoli_Sakai__NP_311539.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311539.1	left	ecoli_Sakai__NP_311538.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311539.1	right	ecoli_Sakai__NP_311540.1	BLASTP	NZ_CP117568.1	1021425	1021643		True	True	63.636	97.05882352941177
+ecoli_Sakai	ecoli_Sakai__NP_311544.1	left	ecoli_Sakai__NP_311542.2	BLASTP	NZ_CP117568.1	267621	272048		True	True	51.585	99.08376963350786
+ecoli_Sakai	ecoli_Sakai__NP_311544.1	right	ecoli_Sakai__NP_311545.1	BLASTP	NZ_CP117568.1	1760262	1762478		True	True	66.133	91.01941747572816
+ecoli_Sakai	ecoli_Sakai__NP_311640.1	left	ecoli_Sakai__NP_311639.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311640.1	right	ecoli_Sakai__NP_311641.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311826.1	left	ecoli_Sakai__NP_311825.1	BLASTP	NZ_CP117568.1	2042992	2044011	epd	True	True	98.525	100.0
+ecoli_Sakai	ecoli_Sakai__NP_311826.1	right	ecoli_Sakai__NP_311827.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311827.1	left	ecoli_Sakai__NP_311826.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311827.1	right	ecoli_Sakai__NP_311828.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311828.1	left	ecoli_Sakai__NP_311827.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_311828.1	right	ecoli_Sakai__NP_311829.1	BLASTP	NZ_CP117568.1	4182407	4184179		True	True	29.464	99.55555555555556
+ecoli_Sakai	ecoli_Sakai__NP_312288.2	left	ecoli_Sakai__NP_312287.1	BLASTP	NZ_CP117568.1	2551308	2554013	malT	True	True	98.224	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312288.2	right	ecoli_Sakai__NP_312289.1	BLASTP	NZ_CP117568.1	2601730	2602257	ataT	True	True	33.571	86.95652173913044
+ecoli_Sakai	ecoli_Sakai__NP_312307.2	left	ecoli_Sakai__NP_312306.1	BLASTP	NZ_CP117568.1	2580675	2581268	yhgN	True	True	98.985	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312307.2	right	ecoli_Sakai__NP_312312.1	BLASTP	NZ_CP117568.1	2581325	2582665	gntU	True	True	98.879	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312318.1	left	ecoli_Sakai__NP_312317.1	BLASTP	NZ_CP117568.1	2586732	2587220	yhhY	True	True	97.531	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312318.1	right	ecoli_Sakai__NP_312320.1	BLASTP	NZ_CP117568.1	2587283	2589028	ggt	True	True	97.418	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312351.1	left	ecoli_Sakai__NP_312350.2	BLASTP	NZ_CP117568.1	2621794	2622843		True	True	96.275	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312351.1	right	ecoli_Sakai__NP_312352.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312352.2	left	ecoli_Sakai__NP_312351.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312352.2	right	ecoli_Sakai__NP_312353.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312353.2	left	ecoli_Sakai__NP_312352.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312353.2	right	ecoli_Sakai__NP_312354.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312354.2	left	ecoli_Sakai__NP_312353.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312354.2	right	ecoli_Sakai__NP_312355.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312355.1	left	ecoli_Sakai__NP_312354.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312355.1	right	ecoli_Sakai__NP_312356.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312356.1	left	ecoli_Sakai__NP_312355.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312356.1	right	ecoli_Sakai__NP_312357.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312357.1	left	ecoli_Sakai__NP_312356.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312357.1	right	ecoli_Sakai__NP_312358.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312358.1	left	ecoli_Sakai__NP_312357.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312358.1	right	ecoli_Sakai__NP_312359.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312359.1	left	ecoli_Sakai__NP_312358.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312359.1	right	ecoli_Sakai__NP_312360.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312360.1	left	ecoli_Sakai__NP_312359.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312360.1	right	ecoli_Sakai__NP_312361.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312361.1	left	ecoli_Sakai__NP_312360.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312361.1	right	ecoli_Sakai__NP_312362.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312362.1	left	ecoli_Sakai__NP_312361.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312362.1	right	ecoli_Sakai__NP_312363.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312363.2	left	ecoli_Sakai__NP_312362.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312363.2	right	ecoli_Sakai__NP_312364.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312364.1	left	ecoli_Sakai__NP_312363.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312364.1	right	ecoli_Sakai__NP_312365.1	BLASTP	NZ_CP117568.1	216129	217370	fabF	True	True	34.701	68.89460154241645
+ecoli_Sakai	ecoli_Sakai__NP_312366.1	left	ecoli_Sakai__NP_312365.1	BLASTP	NZ_CP117568.1	216129	217370	fabF	True	True	34.701	68.89460154241645
+ecoli_Sakai	ecoli_Sakai__NP_312366.1	right	ecoli_Sakai__NP_312367.1	BLASTP	NZ_CP117568.1	214859	215593	fabG	True	True	42.437	97.94238683127573
+ecoli_Sakai	ecoli_Sakai__NP_312624.1	left	ecoli_Sakai__NP_312623.3	BLASTP	NZ_CP117568.1	598514	599704	ydeA	True	True	29.63	58.980582524271846
+ecoli_Sakai	ecoli_Sakai__NP_312624.1	right	ecoli_Sakai__NP_312625.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312625.1	left	ecoli_Sakai__NP_312624.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312625.1	right	ecoli_Sakai__NP_312626.2	BLASTP	NZ_CP117568.1	2888559	2889011		True	True	93.333	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312634.2	left	ecoli_Sakai__NP_312633.1	BLASTP	NZ_CP117568.1	2896752	2897342	uhpA	True	True	97.959	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312634.2	right	ecoli_Sakai__NP_312635.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312635.1	left	ecoli_Sakai__NP_312634.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312635.1	right	ecoli_Sakai__NP_312636.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312636.1	left	ecoli_Sakai__NP_312635.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312636.1	right	ecoli_Sakai__NP_312637.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312637.1	left	ecoli_Sakai__NP_312636.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312637.1	right	ecoli_Sakai__NP_312638.1	BLASTP	NZ_CP117568.1	2897415	2897705	ilvN	True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312680.1	left	ecoli_Sakai__NP_312679.1	BLASTP	NZ_CP117568.1	2939257	2939922	yieH	True	True	90.909	99.5475113122172
+ecoli_Sakai	ecoli_Sakai__NP_312680.1	right	ecoli_Sakai__NP_307391.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312775.1	left	ecoli_Sakai__NP_312774.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312775.1	right	ecoli_Sakai__NP_312776.1	BLASTP	NZ_CP117568.1	3042129	3043019	rarD	True	True	97.627	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312970.1	left	ecoli_Sakai__NP_312968.1	BLASTP	NZ_CP117568.1	3310716	3311945	sorE	True	True	93.399	100.0
+ecoli_Sakai	ecoli_Sakai__NP_312970.1	right	ecoli_Sakai__NP_312971.1	BLASTP	NZ_CP117568.1	2353321	2353599	sfsB	True	True	42.188	78.04878048780488
+ecoli_Sakai	ecoli_Sakai__NP_312972.1	left	ecoli_Sakai__NP_312971.1	BLASTP	NZ_CP117568.1	2353321	2353599	sfsB	True	True	42.188	78.04878048780488
+ecoli_Sakai	ecoli_Sakai__NP_312972.1	right	ecoli_Sakai__NP_312973.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312973.1	left	ecoli_Sakai__NP_312972.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312973.1	right	ecoli_Sakai__NP_312974.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312974.1	left	ecoli_Sakai__NP_312973.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312974.1	right	ecoli_Sakai__NP_312975.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312975.1	left	ecoli_Sakai__NP_312974.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312975.1	right	ecoli_Sakai__NP_312976.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312976.1	left	ecoli_Sakai__NP_312975.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312976.1	right	ecoli_Sakai__NP_312977.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312977.1	left	ecoli_Sakai__NP_312976.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312977.1	right	ecoli_Sakai__NP_312978.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312978.1	left	ecoli_Sakai__NP_312977.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312978.1	right	ecoli_Sakai__NP_312979.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312979.1	left	ecoli_Sakai__NP_312978.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312979.1	right	ecoli_Sakai__NP_312980.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312980.1	left	ecoli_Sakai__NP_312979.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312980.1	right	ecoli_Sakai__NP_312981.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312981.1	left	ecoli_Sakai__NP_312980.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312981.1	right	ecoli_Sakai__NP_312982.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312982.1	left	ecoli_Sakai__NP_312981.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312982.1	right	ecoli_Sakai__NP_312983.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312983.2	left	ecoli_Sakai__NP_312982.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312983.2	right	ecoli_Sakai__YP_009502669.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312984.2	left	ecoli_Sakai__YP_009502669.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312984.2	right	ecoli_Sakai__NP_312985.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312985.1	left	ecoli_Sakai__NP_312984.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312985.1	right	ecoli_Sakai__NP_312986.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312986.1	left	ecoli_Sakai__NP_312985.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312986.1	right	ecoli_Sakai__NP_312987.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312987.1	left	ecoli_Sakai__NP_312986.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312987.1	right	ecoli_Sakai__NP_312988.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312988.1	left	ecoli_Sakai__NP_312987.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312988.1	right	ecoli_Sakai__NP_312989.1	BLASTP	NZ_CP117568.1	4516599	4517096	rrrD	True	True	38.76	77.71084337349397
+ecoli_Sakai	ecoli_Sakai__NP_312990.2	left	ecoli_Sakai__NP_312989.1	BLASTP	NZ_CP117568.1	4516599	4517096	rrrD	True	True	38.76	77.71084337349397
+ecoli_Sakai	ecoli_Sakai__NP_312990.2	right	ecoli_Sakai__NP_312992.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312992.1	left	ecoli_Sakai__NP_312990.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312992.1	right	ecoli_Sakai__NP_312993.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312993.1	left	ecoli_Sakai__NP_312992.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312993.1	right	ecoli_Sakai__NP_312994.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312994.1	left	ecoli_Sakai__NP_312993.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312994.1	right	ecoli_Sakai__NP_312995.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312995.1	left	ecoli_Sakai__NP_312994.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312995.1	right	ecoli_Sakai__NP_312996.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312996.1	left	ecoli_Sakai__NP_312995.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312996.1	right	ecoli_Sakai__NP_312997.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312997.2	left	ecoli_Sakai__NP_312996.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312997.2	right	ecoli_Sakai__NP_312998.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312998.1	left	ecoli_Sakai__NP_312997.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312998.1	right	ecoli_Sakai__NP_312999.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312999.1	left	ecoli_Sakai__NP_312998.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_312999.1	right	ecoli_Sakai__NP_313000.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313000.1	left	ecoli_Sakai__NP_312999.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313000.1	right	ecoli_Sakai__NP_313001.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313001.1	left	ecoli_Sakai__NP_313000.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313001.1	right	ecoli_Sakai__NP_313002.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313002.1	left	ecoli_Sakai__NP_313001.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313002.1	right	ecoli_Sakai__NP_313003.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313003.1	left	ecoli_Sakai__NP_313002.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313003.1	right	ecoli_Sakai__NP_313004.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313004.1	left	ecoli_Sakai__NP_313003.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313004.1	right	ecoli_Sakai__NP_313005.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313005.1	left	ecoli_Sakai__NP_313004.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313005.1	right	ecoli_Sakai__NP_313006.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313006.1	left	ecoli_Sakai__NP_313005.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313006.1	right	ecoli_Sakai__NP_313007.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313007.1	left	ecoli_Sakai__NP_313006.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313007.1	right	ecoli_Sakai__NP_313008.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313008.1	left	ecoli_Sakai__NP_313007.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313008.1	right	ecoli_Sakai__NP_313009.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313009.1	left	ecoli_Sakai__NP_313008.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313009.1	right	ecoli_Sakai__NP_313010.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313010.2	left	ecoli_Sakai__NP_313009.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313010.2	right	ecoli_Sakai__NP_313011.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313011.1	left	ecoli_Sakai__NP_313010.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313011.1	right	ecoli_Sakai__NP_313012.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313012.2	left	ecoli_Sakai__NP_313011.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313012.2	right	ecoli_Sakai__NP_313013.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313013.1	left	ecoli_Sakai__NP_313012.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313013.1	right	ecoli_Sakai__NP_313014.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313016.1	left	ecoli_Sakai__NP_313015.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313016.1	right	ecoli_Sakai__NP_313017.1	BLASTP	NZ_CP117568.1	18349	18876		True	True	30.303	76.30057803468208
+ecoli_Sakai	ecoli_Sakai__NP_313021.1	left	ecoli_Sakai__NP_313020.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	54.167	84.83063328424153
+ecoli_Sakai	ecoli_Sakai__NP_313021.1	right	ecoli_Sakai__NP_313022.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313022.1	left	ecoli_Sakai__NP_313021.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313022.1	right	ecoli_Sakai__NP_313023.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313023.2	left	ecoli_Sakai__NP_313022.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313023.2	right	ecoli_Sakai__NP_313024.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313024.1	left	ecoli_Sakai__NP_313023.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313024.1	right	ecoli_Sakai__NP_313025.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313025.1	left	ecoli_Sakai__NP_313024.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313025.1	right	ecoli_Sakai__NP_313027.1	BLASTP	NZ_CP117568.1	3312832	3313629		True	True	96.981	100.0
+ecoli_Sakai	ecoli_Sakai__NP_313097.1	left	ecoli_Sakai__NP_313096.1	BLASTP	NZ_CP117568.1	2428164	2429018		True	True	38.596	99.65034965034965
+ecoli_Sakai	ecoli_Sakai__NP_313097.1	right	ecoli_Sakai__NP_313098.1	BLASTP	NZ_CP117568.1	2427238	2428005		True	True	36.842	78.91373801916933
+ecoli_Sakai	ecoli_Sakai__NP_313269.1	left	ecoli_Sakai__NP_313268.2	BLASTP	NZ_CP117568.1	3605304	3606323	ahr	True	True	97.05	100.0
+ecoli_Sakai	ecoli_Sakai__NP_313269.1	right	ecoli_Sakai__NP_313270.1	TBLASTN	NZ_CP117569.1	58377	58661		False	True	74.51	94.44444444444444
+ecoli_Sakai	ecoli_Sakai__NP_313272.2	left	ecoli_Sakai__NP_313271.2	TBLASTN	NZ_CP117569.1	4319	4927		False	True	33.005	68.8135593220339
+ecoli_Sakai	ecoli_Sakai__NP_313272.2	right	ecoli_Sakai__NP_313273.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313273.1	left	ecoli_Sakai__NP_313272.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313273.1	right	ecoli_Sakai__NP_313275.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313275.1	left	ecoli_Sakai__NP_313273.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313275.1	right	ecoli_Sakai__NP_313276.2	BLASTP	NZ_CP117568.1	584862	585422		True	True	36.264	96.29629629629629
+ecoli_Sakai	ecoli_Sakai__NP_313277.1	left	ecoli_Sakai__NP_313276.2	BLASTP	NZ_CP117568.1	584862	585422		True	True	36.264	96.29629629629629
+ecoli_Sakai	ecoli_Sakai__NP_313277.1	right	ecoli_Sakai__NP_313278.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313278.1	left	ecoli_Sakai__NP_313277.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313278.1	right	ecoli_Sakai__NP_313279.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313279.2	left	ecoli_Sakai__NP_313278.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313279.2	right	ecoli_Sakai__NP_313280.1	BLASTP	NZ_CP117568.1	3606804	3608060		True	True	95.019	94.9090909090909
+ecoli_Sakai	ecoli_Sakai__NP_313281.1	left	ecoli_Sakai__NP_313280.1	BLASTP	NZ_CP117568.1	3606804	3608060		True	True	95.019	94.9090909090909
+ecoli_Sakai	ecoli_Sakai__NP_313281.1	right	ecoli_Sakai__NP_313282.2	BLASTP	NZ_CP117568.1	3631974	3633080		True	True	85.526	74.50980392156863
+ecoli_Sakai	ecoli_Sakai__NP_313283.1	left	ecoli_Sakai__NP_313282.2	BLASTP	NZ_CP117568.1	3631974	3633080		True	True	85.526	74.50980392156863
+ecoli_Sakai	ecoli_Sakai__NP_313283.1	right	ecoli_Sakai__NP_313284.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313284.1	left	ecoli_Sakai__NP_313283.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313284.1	right	ecoli_Sakai__NP_313285.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313285.1	left	ecoli_Sakai__NP_313284.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313285.1	right	ecoli_Sakai__NP_313286.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313286.2	left	ecoli_Sakai__NP_313285.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313286.2	right	ecoli_Sakai__NP_313287.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313287.1	left	ecoli_Sakai__NP_313286.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313287.1	right	ecoli_Sakai__NP_313288.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313288.2	left	ecoli_Sakai__NP_313287.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313288.2	right	ecoli_Sakai__NP_313289.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313289.1	left	ecoli_Sakai__NP_313288.2						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313289.1	right	ecoli_Sakai__NP_313290.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313290.1	left	ecoli_Sakai__NP_313289.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313290.1	right	ecoli_Sakai__NP_313291.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313293.2	left	ecoli_Sakai__NP_313291.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_313293.2	right	ecoli_Sakai__NP_313295.1	BLASTP	NZ_CP117568.1	1125456	1127309		True	True	57.233	97.54601226993866
+ecoli_Sakai	ecoli_Sakai__NP_313316.3	left	ecoli_Sakai__NP_313315.2	BLASTP	NZ_CP117568.1	3672461	3673144		True	True	97.797	100.0
+ecoli_Sakai	ecoli_Sakai__NP_313316.3	right	ecoli_Sakai__NP_313317.2	BLASTP	NZ_CP117568.1	511587	515138		True	True	29.78	66.76470588235294
+ecoli_Sakai	ecoli_Sakai__NP_313337.1	left	ecoli_Sakai__NP_313336.1	TBLASTN	NZ_CP117568.1	3681307	3681591		False	True	38.947	101.06382978723404
+ecoli_Sakai	ecoli_Sakai__NP_313337.1	right	ecoli_Sakai__NP_313338.2	BLASTP	NZ_CP117568.1	3691682	3692638	yjiA	True	True	99.057	100.0
+ecoli_Sakai	ecoli_Sakai__NP_313341.1	left	ecoli_Sakai__NP_313340.2	BLASTP	NZ_CP117568.1	3692972	3695122	btsT	True	True	99.302	100.0
+ecoli_Sakai	ecoli_Sakai__NP_313341.1	right	ecoli_Sakai__NP_313342.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_958720.1	left	ecoli_Sakai__NP_052626.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_958720.1	right	ecoli_Sakai__NP_052627.1	BLASTP	NZ_CP117568.1	1786210	1786740	emrR	True	True	37.647	90.42553191489361
+ecoli_Sakai	ecoli_Sakai__NP_958722.1	left	ecoli_Sakai__NP_052631.1	TBLASTN	NZ_CP117569.1	13539	13865		False	True	99.083	100.0
+ecoli_Sakai	ecoli_Sakai__NP_958722.1	right	ecoli_Sakai__NP_052632.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_958723.1	left	ecoli_Sakai__NP_052645.1	BLASTP	NZ_CP117568.1	2435527	2436411	yhdJ	True	True	29.63	107.04845814977973
+ecoli_Sakai	ecoli_Sakai__NP_958723.1	right	ecoli_Sakai__NP_052646.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_958725.1	left	ecoli_Sakai__NP_052671.1						False	False		
+ecoli_Sakai	ecoli_Sakai__NP_958725.1	right	ecoli_Sakai__NP_052672.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502591.1	left	ecoli_Sakai__NP_308400.1	BLASTP	NZ_CP117568.1	4076413	4077795		True	True	96.957	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502591.1	right	ecoli_Sakai__NP_308401.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502595.1	left	ecoli_Sakai__NP_308940.1	BLASTP	NZ_CP117568.1	4603291	4604619		True	True	93.665	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502595.1	right	ecoli_Sakai__YP_009502596.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502596.1	left	ecoli_Sakai__YP_009502595.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502596.1	right	ecoli_Sakai__NP_308942.1	BLASTP	NZ_CP117568.1	4605377	4606702	rimO	True	True	99.773	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502597.1	left	ecoli_Sakai__NP_309098.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502597.1	right	ecoli_Sakai__NP_309100.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502602.1	left	ecoli_Sakai__NP_309389.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502602.1	right	ecoli_Sakai__NP_309391.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502605.1	left	ecoli_Sakai__NP_309416.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502605.1	right	ecoli_Sakai__NP_309420.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	True	True	91.489	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502610.1	left	ecoli_Sakai__NP_309570.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502610.1	right	ecoli_Sakai__NP_309571.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502613.1	left	ecoli_Sakai__NP_309726.1	BLASTP	NZ_CP117568.1	299864	300886		True	True	85.588	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502613.1	right	ecoli_Sakai__NP_304434.1	BLASTP	NZ_CP117568.1	302444	304135		True	True	92.405	97.73195876288659
+ecoli_Sakai	ecoli_Sakai__YP_009502616.1	left	ecoli_Sakai__NP_309791.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502616.1	right	ecoli_Sakai__NP_309792.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502618.1	left	ecoli_Sakai__YP_009502617.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502618.1	right	ecoli_Sakai__NP_309799.1	BLASTP	NZ_CP117568.1	2306179	2306940	paa	True	True	86.905	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502624.1	left	ecoli_Sakai__NP_309999.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502624.1	right	ecoli_Sakai__NP_310001.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502627.1	left	ecoli_Sakai__NP_310168.1	BLASTP	NZ_CP117568.1	609071	610258	ydeE	True	True	91.139	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502627.1	right	ecoli_Sakai__NP_310170.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502631.1	left	ecoli_Sakai__NP_310275.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502631.1	right	ecoli_Sakai__NP_310277.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502635.1	left	ecoli_Sakai__NP_310310.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502635.1	right	ecoli_Sakai__NP_310311.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502643.1	left	ecoli_Sakai__NP_311010.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502643.1	right	ecoli_Sakai__NP_311011.1						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502663.1	left	ecoli_Sakai__NP_312743.1	BLASTP	NZ_CP117568.1	3003337	3004596	rho	True	True	100.0	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502663.1	right	ecoli_Sakai__NP_312744.1	BLASTP	NZ_CP117568.1	3004824	3005927	wecA	True	True	87.738	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502666.1	left	ecoli_Sakai__NP_312891.1	BLASTP	NZ_CP117568.1	989446	993735		True	True	80.272	89.81348637015782
+ecoli_Sakai	ecoli_Sakai__YP_009502666.1	right	ecoli_Sakai__YP_009502667.1	TBLASTN	NZ_CP117569.1	70236	70409		False	True	60.656	66.30434782608695
+ecoli_Sakai	ecoli_Sakai__YP_009502669.1	left	ecoli_Sakai__NP_312983.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502669.1	right	ecoli_Sakai__NP_312984.2						False	False		
+ecoli_Sakai	ecoli_Sakai__YP_009502670.1	left	ecoli_Sakai__NP_313063.1	BLASTP	NZ_CP117568.1	3351882	3353075	tyrB	True	True	94.207	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502670.1	right	ecoli_Sakai__NP_313064.1	BLASTP	NZ_CP117568.1	3366931	3367644	aphA	True	True	96.624	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502677.1	left	ecoli_Sakai__NP_313375.2	BLASTP	NZ_CP117568.1	3728500	3729732	nadR	True	True	98.78	100.0
+ecoli_Sakai	ecoli_Sakai__YP_009502677.1	right	ecoli_Sakai__NP_313376.1	BLASTP	NZ_CP117568.1	3729853	3731520	ettA	True	True	99.279	100.0

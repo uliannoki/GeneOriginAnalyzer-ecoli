@@ -1,0 +1,80 @@
+2026-11-12 22:55:54 : Starting OrthoFinder v3.2
+4 thread(s) for highly parallel tasks (BLAST searches etc.)
+4 thread(s) for OrthoFinder algorithm
+
+OrthoFinder version 3.2 Copyright (C) 2014 David Emms
+
+Results directory:
+    /Users/ulakarvelis/GeneOriginAnalyzer/results/orthofinder_run2/Results_Nov12/
+
+2026-11-12 22:55:54 : Checking required programs are installed
+2026-11-12 22:56:01 : Dividing up work for BLAST for parallel processing
+2026-11-12 22:56:02 : [Sequence search] Started
+2026-11-12 22:56:02 : Running diamond all-versus-all
+2026-11-12 22:56:02 : This may take some time...
+2026-11-12 22:56:11 : Search completed: Blast0_3.txt.gz (276141 bytes)
+2026-11-12 22:56:11 : Search completed: Blast3_0.txt.gz (287154 bytes)
+2026-11-12 22:56:13 : Search completed: Blast3_1.txt.gz (295586 bytes)
+2026-11-12 22:56:15 : Search completed: Blast3_3.txt.gz (370146 bytes)
+2026-11-12 22:56:22 : Search completed: Blast1_3.txt.gz (290050 bytes)
+2026-11-12 22:56:22 : Search completed: Blast4_3.txt.gz (294621 bytes)
+2026-11-12 22:56:24 : Search completed: Blast3_4.txt.gz (299348 bytes)
+2026-11-12 22:56:26 : Search completed: Blast3_2.txt.gz (299153 bytes)
+2026-11-12 22:56:33 : Search completed: Blast2_3.txt.gz (291126 bytes)
+2026-11-12 22:56:33 : Search completed: Blast1_0.txt.gz (269261 bytes)
+2026-11-12 22:56:33 : Search completed: Blast0_0.txt.gz (268336 bytes)
+2026-11-12 22:56:35 : Search completed: Blast0_1.txt.gz (265717 bytes)
+2026-11-12 22:56:43 : Search completed: Blast4_0.txt.gz (270833 bytes)
+2026-11-12 22:56:43 : Search completed: Blast0_4.txt.gz (265596 bytes)
+2026-11-12 22:56:44 : Search completed: Blast1_1.txt.gz (290010 bytes)
+2026-11-12 22:56:47 : Search completed: Blast4_1.txt.gz (290511 bytes)
+2026-11-12 22:56:53 : Search completed: Blast2_0.txt.gz (266734 bytes)
+2026-11-12 22:56:54 : Search completed: Blast0_2.txt.gz (264227 bytes)
+2026-11-12 22:56:54 : Search completed: Blast1_4.txt.gz (289481 bytes)
+2026-11-12 22:56:58 : Search completed: Blast2_1.txt.gz (285624 bytes)
+2026-11-12 22:57:04 : Search completed: Blast1_2.txt.gz (285885 bytes)
+2026-11-12 22:57:05 : Search completed: Blast4_2.txt.gz (289301 bytes)
+2026-11-12 22:57:06 : Search completed: Blast4_4.txt.gz (295270 bytes)
+2026-11-12 22:57:09 : Search completed: Blast2_4.txt.gz (287184 bytes)
+2026-11-12 22:57:14 : Search completed: Blast2_2.txt.gz (296568 bytes)
+2026-11-12 22:57:14 : Done all-versus-all sequence search
+2026-11-12 22:57:14 : [Sequence search] Completed
+2026-11-12 22:57:14 : [Infer orthogroups] Started
+2026-11-12 22:57:14 : Running OrthoFinder algorithm
+2026-11-12 22:57:14 : Initial processing of each species
+2026-11-12 22:57:15 : Connected putative homologues
+2026-11-12 22:57:17 : Ran MCL
+2026-11-12 22:57:17 : Writing orthogroups to file
+2026-11-12 22:57:17 : Done orthogroups
+2026-11-12 22:57:17 : [Infer orthogroups] Completed
+2026-11-12 22:57:17 : Analysing Orthogroups
+2026-11-12 22:57:17 : [Build alignments and gene trees] Started
+2026-11-12 22:57:17 : Starting MSA/Trees
+2026-11-12 22:57:18 : Inferring multiple sequence alignments for species tree
+2026-11-12 23:20:18 : Scheduling species tree inference from concatenated alignment
+2026-11-12 23:20:18 : Inferring remaining multiple sequence alignments and gene trees
+2026-11-12 23:34:48 : Done species tree inference
+2026-11-12 23:34:48 : Done MSA/Trees
+2026-11-12 23:34:48 : [Build alignments and gene trees] Completed
+2026-11-12 23:34:48 : [Infer species tree] Started
+2026-11-12 23:34:48 : Best outgroup(s) for species tree
+2026-11-12 23:34:48 : Starting STRIDE
+2026-11-12 23:34:48 : Done STRIDE
+2026-11-12 23:34:48 : [Infer species tree] Completed
+2026-11-12 23:34:48 : Reconciling gene trees and species tree
+2026-11-12 23:34:48 : Starting reconciliation and orthologs
+2026-11-12 23:34:48 : [Infer orthologs] Started
+2026-11-12 23:34:48 : Inferring orthologs from gene trees
+2026-11-12 23:34:49 : Done of orthologs
+2026-11-12 23:34:49 : [Infer orthologs] Completed
+2026-11-12 23:34:49 : Writing results files
+2026-11-12 23:34:49 : Start writing hierarchical orthogroups files
+2026-11-12 23:34:49 : Converting MSA/Trees
+2026-11-12 23:34:50 : Updating MSA/Trees
+2026-11-12 23:34:52 : Done updating MSA/Trees
+2026-11-12 23:34:52 : [Infer orthologs] Started
+2026-11-12 23:34:53 : [Infer orthologs] Completed
+2026-11-12 23:34:53 : Done writing files
+2026-11-12 23:34:53 : [Process output files] Started
+2026-11-12 23:34:54 : [Process output files] Completed
+2026-11-12 23:34:54 : OrthoFinder run completed in 2114.62 seconds

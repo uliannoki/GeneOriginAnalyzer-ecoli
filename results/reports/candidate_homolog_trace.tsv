@@ -1,0 +1,261 @@
+query_candidate	query_gene	query_product	query_seqid	query_start	query_end	orf_id	hit_candidate	hit_sample	hit_gene	hit_product	hit_seqid	hit_start	hit_end	hit_strand	identity	alignment_length	query_coverage	target_coverage	evalue	bitscore
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF413	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	57.319	649	99.51	100.0	0.0	707.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF411	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	57.319	649	98.56	100.0	0.0	706.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF412	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	57.319	649	99.35	100.0	0.0	706.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF414	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	57.009	642	99.51	98.91	0.0	693.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF415	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	55.116	606	99.48	93.33	0.0	628.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF416	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	56.055	578	97.55	88.99	0.0	622.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF417	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	56.14	570	99.46	87.75	0.0	610.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF418	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	56.261	567	99.27	87.29	0.0	608.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF419	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	55.714	560	99.45	86.2	0.0	594.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF411	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	89.1	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF412	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	89.82	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF413	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	89.97	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF414	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	91.0	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF415	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	96.7	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF416	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.167	576	97.2	83.51	0.0	592.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF417	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	54.049	568	99.1	82.33	0.0	580.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF420	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	55.072	552	99.44	84.96	0.0	578.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF418	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	53.887	566	99.09	82.03	0.0	576.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF419	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	53.226	558	99.08	80.85	0.0	561.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF420	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	52.545	550	99.07	79.68	0.0	544.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF421	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	52.745	510	99.39	78.45	1.82e-174	501.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF422	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	52.465	507	99.39	77.98	6.29e-172	494.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF421	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	50.394	508	98.99	73.49	9.1e-162	469.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF422	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	50.099	505	98.98	73.05	2.26e-159	463.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF423	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	51.329	489	99.36	75.19	8.83e-160	462.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF423	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	49.487	487	98.94	70.4	3.73e-149	436.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF424	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	47.465	434	99.28	66.67	4.46e-124	369.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF425	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	46.809	423	99.02	64.96	1.45e-117	352.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF424	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	45.139	432	98.8	62.3	4.34e-112	339.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF426	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	45.742	411	99.24	63.1	1.85e-110	333.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF427	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	45.61	410	99.24	62.95	8.12e-110	331.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF428	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	45.209	407	99.23	62.48	6.86e-108	326.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF425	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	44.418	421	98.53	60.68	6.93e-106	322.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF429	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	45.05	404	99.22	62.02	6.93e-106	320.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF430	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	44.67	394	98.16	60.62	1.42e-102	312.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF426	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.892	408	98.48	58.76	2.04e-99	305.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF427	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.892	408	98.73	58.76	1.93e-99	305.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF431	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	44.648	383	99.18	58.91	2.57e-100	305.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF428	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.963	405	98.72	58.32	2.11e-97	300.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF429	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.786	402	98.71	57.88	1.69e-95	295.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF432	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	45.257	369	98.03	56.74	1.11e-96	295.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF430	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.416	389	96.85	56.11	8.2e-92	285.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF433	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	44.722	360	99.13	55.35	1.09e-92	285.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF431	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.257	381	98.63	54.93	5.25e-89	277.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF432	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	42.234	367	97.47	52.87	1.41e-84	265.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF433	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	41.62	358	98.54	51.55	3.87e-80	253.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF434	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	43.653	323	99.02	49.61	2.06e-73	233.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF435	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	43.125	320	99.01	49.15	9.21e-71	226.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF434	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	40.187	321	98.37	46.1	6.77e-62	203.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF435	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	39.937	318	98.35	45.66	2.86e-60	198.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF436	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	37.908	153	93.04	22.39	1.1e-27	102.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF436	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	38.961	154	94.3	23.72	1.32e-27	102.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF439	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	38.261	115	95.61	16.94	3.24e-18	73.6
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF440	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	37.963	108	91.96	15.91	6.24e-18	72.8
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF439	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	39.45	109	92.11	16.9	1.48e-17	72.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF440	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	39.45	109	93.75	16.9	1.55e-17	71.6
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF441	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	39.806	103	96.12	15.97	7.3e-17	69.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF441	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	37.624	101	93.2	14.87	1.83e-16	68.2
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF443	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	41.111	90	96.63	13.95	2.48e-14	61.6
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF463	ecoli_Sakai__NP_310775.1	ecoli_Sakai		hypothetical protein	NC_002695.2	2697127	2697294	-	71.111	45	83.02	81.82	1.16e-16	61.2
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF463	ecoli_Sakai__YP_009502633.1	ecoli_Sakai		hypothetical protein	NC_002695.2	2239850	2240017	-	68.889	45	83.02	81.82	5.96e-16	59.7
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF443	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	39.744	78	85.39	11.49	1.65e-13	59.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF462	ecoli_Sakai__NP_311526.1	ecoli_Sakai		hypothetical protein	NC_002695.2	3486479	3486808	+	86.111	36	65.45	33.03	3.2e-15	59.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF441	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	75.73	89.89	3.6e-13	55.5
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF443	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	87.64	89.89	2.49e-13	55.5
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF439	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	68.42	89.89	5.95e-13	55.1
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF440	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	69.64	89.89	5.6e-13	55.1
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF463	ecoli_Sakai__YP_009502630.1	ecoli_Sakai		hypothetical protein	NC_002695.2	2188886	2189053	-	77.419	31	58.49	56.36	4.03e-14	55.1
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF422	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	15.92	89.89	3.92e-11	54.7
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF423	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	16.53	89.89	3.76e-11	54.7
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF425	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	19.16	89.89	3.23e-11	54.7
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF436	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	49.37	89.89	2.57e-12	54.7
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF411	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	12.5	89.89	6.8e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF412	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	12.6	89.89	6.88e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF413	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	12.62	89.89	6.54e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF414	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	12.77	89.89	6.78e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF415	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	13.57	89.89	6.18e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF416	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	13.64	89.89	6.26e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF417	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	14.1	89.89	5.37e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF418	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	14.16	89.89	5.46e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF419	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	14.36	89.89	5.7e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF420	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	14.58	89.89	5.13e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF421	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	15.82	89.89	4.1e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF424	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	18.71	89.89	3.38e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF426	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	19.8	89.89	3.3e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF427	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	19.85	89.89	3.45e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF428	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	20.0	89.89	3.7e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF429	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	20.16	89.89	3.67e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF430	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	20.47	89.89	3.3e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF431	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	21.31	89.89	3.11e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF432	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	21.91	89.89	3.32e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF433	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	22.74	89.89	3.26e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF434	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	25.49	89.89	2.59e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF435	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	36.25	80	25.74	89.89	2.36e-11	54.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF463	ecoli_Sakai__YP_009502608.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1554766	1554933	+	74.194	31	58.49	56.36	2.69e-13	52.8
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF462	ecoli_Sakai__NP_309987.2	ecoli_Sakai		hypothetical protein	NC_002695.2	1941371	1941889	-	63.636	33	60.0	19.19	3.81e-07	39.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF455	ecoli_Sakai__NP_313020.1	ecoli_Sakai		hypothetical protein	NC_002695.2	5075438	5077477	+	37.736	53	82.54	7.81	4.1e-06	37.0
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF455	ecoli_Sakai__NP_309554.1	ecoli_Sakai		9-O-acetyl-N-acetylneuraminic acid deacetylase	NC_002695.2	1555248	1557185	+	37.5	56	87.3	8.68	7.61e-06	36.2
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF449	ecoli_Sakai__NP_303550.1	ecoli_Sakai		hypothetical protein	NC_002695.2	901266	901664	-	88.889	18	23.68	13.64	1.01e-05	35.8
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF455	ecoli_Sakai__YP_009502600.1	ecoli_Sakai		hypothetical protein	NC_002695.2	1271816	1272085	+	32.727	55	85.71	61.8	1.65e-05	34.3
+ecoli_Sakai__NP_303550.1		hypothetical protein	NC_002695.2	901266	901664	ORF466	ecoli_Sakai__NP_311526.1	ecoli_Sakai		hypothetical protein	NC_002695.2	3486479	3486808	+	43.902	41	66.67	37.61	0.000148	31.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF804	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	93.482	537	99.81	100.0	0.0	994.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF804	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.43	467	87.95	100.0	0.0	942.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF807	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.43	467	99.79	100.0	0.0	936.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF807	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.075	467	99.79	86.96	0.0	923.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF811	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.406	424	99.76	90.79	0.0	854.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF811	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.519	424	99.76	78.96	0.0	845.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF814	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.606	376	99.73	80.51	0.0	763.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF815	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.568	370	99.73	79.23	0.0	751.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF814	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.213	376	99.73	70.02	0.0	750.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF815	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.135	370	99.73	68.9	0.0	739.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF816	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.281	331	99.7	70.88	0.0	673.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF816	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.166	331	99.7	61.64	0.0	666.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF804	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	63.45	487	91.71	94.34	0.0	653.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF804	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	63.45	487	91.71	94.34	0.0	653.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF804	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	63.45	487	91.71	94.34	0.0	653.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF807	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	63.578	464	99.15	89.84	0.0	621.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF807	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	63.578	464	99.15	89.84	0.0	621.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF807	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	63.578	464	99.15	89.84	0.0	621.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF818	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	96.897	290	99.66	62.1	0.0	588.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF811	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	65.558	421	99.06	81.45	0.0	587.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF811	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	65.558	421	99.06	81.45	0.0	587.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF811	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	65.558	421	99.06	81.45	0.0	587.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF820	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	96.864	287	99.65	61.46	0.0	581.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF818	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	94.828	290	99.66	54.0	0.0	580.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF774	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	56.78	60.46	0.0	579.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF772	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	55.76	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF773	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	56.08	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF775	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	57.85	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF776	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	59.6	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF777	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	60.3	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF779	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	63.11	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF780	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	63.85	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF782	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	65.48	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF783	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	66.49	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF784	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	67.6	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF785	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	69.56	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF786	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	69.94	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF789	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	72.16	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF790	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	74.4	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF800	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	99.1	60.46	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF820	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.122	287	99.65	53.45	0.0	578.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF778	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	60.53	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF781	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	65.14	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF787	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	70.97	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF788	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	71.63	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF791	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	76.54	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF792	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.656	809	78.89	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF793	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	84.34	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF794	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	85.27	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF795	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	85.37	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF796	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	89.33	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF797	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	90.16	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF798	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	91.12	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF799	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.409	809	91.67	60.46	0.0	577.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF801	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	41.923	780	97.5	58.23	0.0	568.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF821	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.122	278	99.64	59.53	0.0	563.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF821	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.683	278	99.64	51.77	0.0	562.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF814	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	65.952	373	98.94	72.07	0.0	527.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF814	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	65.952	373	98.94	72.07	0.0	527.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF814	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	65.952	373	98.94	72.07	0.0	527.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF815	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	66.485	367	98.92	70.9	0.0	523.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF815	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	66.485	367	98.92	70.9	0.0	523.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF815	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	66.485	367	98.92	70.9	0.0	523.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF802	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	47.213	574	98.78	43.85	4.29e-171	515.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF803	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	48.708	542	98.53	41.46	3.76e-170	511.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF806	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	53.289	456	91.35	35.08	1.46e-168	505.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF808	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	53.289	456	97.42	35.08	5.18e-169	505.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF805	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	53.289	456	90.44	35.08	2.68e-168	504.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF809	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	53.62	442	99.77	34.0	2.67e-164	491.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF825	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	98.333	240	99.17	51.39	4.11e-177	490.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF810	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	53.793	435	99.77	33.46	3.65e-162	486.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF825	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	95.833	240	99.17	44.69	9.71e-174	484.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF812	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	56.266	391	99.74	30.08	6.35e-156	468.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF813	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	56.464	379	99.48	29.15	2.24e-151	455.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF816	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	64.329	328	98.8	63.28	3.4e-161	455.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF816	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	64.329	328	98.8	63.28	3.4e-161	455.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF816	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	64.329	328	98.8	63.28	3.4e-161	455.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF817	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	58.912	331	99.7	25.46	1.83e-136	414.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF836	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	96.97	198	99.5	36.87	8.15e-141	399.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF836	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	97.98	198	99.5	42.4	1.26e-141	398.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF818	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	62.369	287	98.63	55.27	2.74e-135	388.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF818	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	62.369	287	98.63	55.27	2.74e-135	388.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF818	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	62.369	287	98.63	55.27	2.74e-135	388.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF820	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	62.676	284	98.61	54.69	2.28e-133	383.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF820	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	62.676	284	98.61	54.69	2.28e-133	383.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF820	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	62.676	284	98.61	54.69	2.28e-133	383.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF819	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	62.153	288	98.97	22.15	1.97e-124	380.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF821	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	63.273	275	98.57	52.93	3.1e-130	374.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF821	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	63.273	275	98.57	52.93	3.1e-130	374.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF821	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	63.273	275	98.57	52.93	3.1e-130	374.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF822	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	62.132	272	99.63	20.92	1.27e-116	358.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF823	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	61.71	269	99.63	20.69	3.25e-114	351.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF825	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	62.447	237	97.93	45.51	3.2e-108	317.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF825	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	62.447	237	97.93	45.51	3.2e-108	317.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF825	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	62.447	237	97.93	45.51	3.2e-108	317.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF826	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.593	236	99.58	18.15	1.24e-96	302.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF830	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.889	225	99.56	17.31	8.05e-92	288.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF831	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.829	217	98.64	16.69	3.02e-88	278.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF832	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.829	217	99.09	16.69	3.09e-88	278.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF836	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	62.371	194	97.49	37.89	3.3e-88	263.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF836	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	62.371	194	97.49	37.89	3.3e-88	263.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF836	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	62.371	194	97.49	37.89	3.3e-88	263.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF851	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	98.319	119	99.17	25.48	4.03e-84	248.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF852	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	98.305	118	99.16	25.27	3.51e-83	246.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF851	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	96.639	119	99.17	22.16	4.45e-82	245.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF852	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	96.61	118	99.16	21.97	3.78e-81	242.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF837	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.0	180	99.45	13.85	1.02e-72	232.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF862	ecoli_Sakai__NP_311895.1	ecoli_Sakai		transposase	NC_002695.2	3873064	3873414	+	98.98	98	98.99	84.48	5.51e-70	199.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF862	ecoli_Sakai__NP_309365.1	ecoli_Sakai		transposase	NC_002695.2	1401744	1402094	+	96.939	98	98.99	84.48	1.02e-69	199.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF874	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	96.429	84	98.82	15.64	3e-57	179.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF846	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	61.94	134	99.26	10.31	5.39e-54	177.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF874	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	98.81	84	98.82	17.99	9.65e-57	176.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF873	ecoli_Sakai__NP_311895.1	ecoli_Sakai		transposase	NC_002695.2	3873064	3873414	+	100.0	84	98.82	72.41	1.03e-59	173.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF851	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	66.379	116	96.67	22.66	5.33e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF851	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	66.379	116	96.67	22.66	5.33e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF851	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	66.379	116	96.67	22.66	5.33e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF852	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	67.544	114	95.8	22.27	5.29e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF852	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	67.544	114	95.8	22.27	5.29e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF852	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	67.544	114	95.8	22.27	5.29e-54	171.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF873	ecoli_Sakai__NP_309365.1	ecoli_Sakai		transposase	NC_002695.2	1401744	1402094	+	96.429	84	98.82	72.41	2.89e-58	169.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF772	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	32.979	564	38.38	40.15	6e-43	166.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF773	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	32.979	564	38.6	40.15	6.29e-43	166.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF849	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	60.976	123	99.19	9.46	1.68e-47	157.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF855	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	62.162	111	99.11	8.54	5.97e-43	144.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF774	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	31.868	546	37.76	38.77	7.61e-36	143.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF856	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	62.617	107	99.07	8.23	1.24e-41	140.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF909	ecoli_Sakai__NP_311896.1	ecoli_Sakai		transposase	NC_002695.2	3873627	3875030	+	100.0	61	98.39	13.06	9.23e-43	138.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF909	ecoli_Sakai__NP_309366.1	ecoli_Sakai		transposase	NC_002695.2	1402125	1403738	+	98.361	61	98.39	11.36	1.82e-42	138.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF775	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	32.207	503	35.31	35.46	1.12e-32	132.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF862	ecoli_Sakai__NP_312573.1	ecoli_Sakai		ISEc8 transposase	NC_002695.2	4586582	4586929	+	63.265	98	98.99	84.35	4.77e-43	131.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF862	ecoli_Sakai__NP_311892.2	ecoli_Sakai		transposase	NC_002695.2	3870906	3871253	+	63.265	98	98.99	84.35	4.77e-43	131.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF862	ecoli_Sakai__NP_311520.1	ecoli_Sakai		transposase	NC_002695.2	3482590	3482937	-	63.265	98	98.99	84.35	4.77e-43	131.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF863	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	64.286	98	98.99	7.54	8.35e-39	131.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF874	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	72.152	79	92.94	15.43	5.41e-39	130.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF874	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	72.152	79	92.94	15.43	5.41e-39	130.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF874	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	72.152	79	92.94	15.43	5.41e-39	130.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF873	ecoli_Sakai__NP_312573.1	ecoli_Sakai		ISEc8 transposase	NC_002695.2	4586582	4586929	+	64.286	84	98.82	72.17	8.01e-37	115.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF873	ecoli_Sakai__NP_311892.2	ecoli_Sakai		transposase	NC_002695.2	3870906	3871253	+	64.286	84	98.82	72.17	8.01e-37	115.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF873	ecoli_Sakai__NP_311520.1	ecoli_Sakai		transposase	NC_002695.2	3482590	3482937	-	64.286	84	98.82	72.17	8.01e-37	115.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF776	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	31.263	467	33.59	32.77	4.2e-26	111.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF777	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	31.263	467	33.99	32.77	4.3e-26	111.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF778	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	31.169	462	33.73	32.38	3.57e-25	108.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF909	ecoli_Sakai__NP_311893.2	ecoli_Sakai		transposase	NC_002695.2	3871303	3872841	+	72.414	58	93.55	11.33	3.36e-30	104.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF909	ecoli_Sakai__NP_310818.1	ecoli_Sakai		transposase	NC_002695.2	2736506	2738044	+	72.414	58	93.55	11.33	3.36e-30	104.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF909	ecoli_Sakai__NP_310251.1	ecoli_Sakai		transposase	NC_002695.2	2207520	2209058	+	72.414	58	93.55	11.33	3.36e-30	104.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF779	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	31.45	407	30.82	28.23	1.2e-23	103.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF780	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	34.138	290	22.89	20.15	9.36e-23	100.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF781	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	34.138	290	23.35	20.15	9.62e-23	100.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF782	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	34.138	290	23.47	20.15	8.92e-23	100.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF783	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	34.138	290	23.83	20.15	7.93e-23	100.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF784	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	34.138	290	24.23	20.15	7.03e-23	100.0
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF785	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	16.26	13.69	3.01e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF786	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	16.35	13.69	2.93e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF787	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	16.59	13.69	3.37e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF788	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	16.74	13.69	3.05e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF789	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	16.87	13.69	2.84e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF790	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	37.566	189	17.39	13.69	3.16e-19	88.6
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF791	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	36.686	169	15.9	12.23	4.73e-16	77.8
+ecoli_Sakai__NP_310248.1		transposase	NC_002695.2	2205833	2206702	ORF792	ecoli_Sakai__NP_052685.1	ecoli_Sakai	espP	EspP	NC_002128.1	80757	84659	+	36.029	136	13.22	9.77	1.15e-12	67.0

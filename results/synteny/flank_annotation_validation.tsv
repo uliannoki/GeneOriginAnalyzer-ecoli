@@ -1,0 +1,97 @@
+candidate_id	sample	side	query_flank	method	target_seqid	blast_start	blast_end	protein_id	gene	product	cds_start	cds_end	strand	overlap_bp
+ecoli_MG1655__YP_001165315.1	ecoli_MG1655	left	ecoli_MG1655__YP_001165314.1	TBLASTN	NZ_CP117568.1	267025.0	267177.0			hypothetical protein	267019	267153	-	129.0
+ecoli_MG1655__YP_001165315.1	ecoli_MG1655	right	ecoli_MG1655__NP_415692.1	BLASTP	NZ_CP117568.1	273146.0	273412.0	WP_001185665.1	minE	cell division topological specificity factor MinE	273146	273412	-	267.0
+ecoli_REL606__ACT38522.1	ecoli_REL606	left	ecoli_REL606__ACT38521.1	BLASTP	NZ_CP117568.1	3158288.0	3158740.0	WP_150003000.1		phage tail protein	3157828	3158295	+	8.0
+ecoli_REL606__ACT38522.1	ecoli_REL606	left	ecoli_REL606__ACT38521.1	BLASTP	NZ_CP117568.1	3158288.0	3158740.0	WP_001001781.1		phage virion morphogenesis protein	3158288	3158740	+	453.0
+ecoli_REL606__ACT38522.1	ecoli_REL606	right	ecoli_REL606__ACT38523.1	BLASTP	NZ_CP117568.1	3158807.0	3159442.0	WP_001093750.1		phage baseplate assembly protein V	3158807	3159442	+	636.0
+ecoli_REL606__ACT38522.1	ecoli_REL606	right	ecoli_REL606__ACT38523.1	BLASTP	NZ_CP117568.1	3158807.0	3159442.0	WP_240101914.1		GPW/gp25 family protein	3159439	3159786	+	4.0
+ecoli_REL606__ACT39657.1	ecoli_REL606	left	ecoli_REL606__ACT39656.1	BLASTP	NZ_CP117568.1	3158807.0	3159442.0	WP_001093750.1		phage baseplate assembly protein V	3158807	3159442	+	636.0
+ecoli_REL606__ACT39657.1	ecoli_REL606	left	ecoli_REL606__ACT39656.1	BLASTP	NZ_CP117568.1	3158807.0	3159442.0	WP_240101914.1		GPW/gp25 family protein	3159439	3159786	+	4.0
+ecoli_REL606__ACT39657.1	ecoli_REL606	right	ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560.0	3150594.0	WP_181665890.1		phage portal protein	3149560	3150594	-	1035.0
+ecoli_REL606__ACT39657.1	ecoli_REL606	right	ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560.0	3150594.0	WP_000156861.1		terminase ATPase subunit family protein	3150594	3152366	-	1.0
+ecoli_REL606__ACT39985.1	ecoli_REL606	left	ecoli_REL606__ACT39984.1	BLASTP	NZ_CP117568.1	1520810.0	1522234.0	WP_001040438.1	murP	PTS N-acetylmuramic acid transporter subunit IIBC	1520810	1522234	+	1425.0
+ecoli_REL606__ACT39985.1	ecoli_REL606	right	ecoli_REL606__ACT39986.1	BLASTP	NZ_CP117568.1	1522811.0	1523710.0	WP_000084594.1	yfeX	porphyrinogen peroxidase	1522811	1523710	-	900.0
+ecoli_REL606__ACT40729.1	ecoli_REL606	left	ecoli_REL606__ACT40728.1	TBLASTN	NZ_CP117568.1	2379211.0	2379576.0			DUF1016 N-terminal domain-containing protein	2379211	2379579	+	366.0
+ecoli_REL606__ACT40729.1	ecoli_REL606	right	ecoli_REL606__ACT40730.1	BLASTP	NZ_CP117568.1	2379597.0	2380061.0	WP_256878797.1	nanQ	N-acetylneuraminate anomerase	2379597	2380061	-	465.0
+ecoli_REL606__ACT40729.1	ecoli_REL606	right	ecoli_REL606__ACT40730.1	BLASTP	NZ_CP117568.1	2379597.0	2380061.0	WP_149450054.1	nanK	N-acetylmannosamine kinase	2380058	2380933	-	4.0
+ecoli_REL606__ACT41459.1	ecoli_REL606	left	ecoli_REL606__ACT41458.1	BLASTP	NZ_CP117568.1	3199810.0	3200022.0	WP_000710772.1	rpmE	50S ribosomal protein L31	3199810	3200022	+	213.0
+ecoli_REL606__ACT41459.1	ecoli_REL606	right	ecoli_REL606__ACT41460.1	BLASTP	NZ_CP117568.1	3200083.0	3200691.0	WP_000877396.1		YiiX family permuted papain-like enzyme	3200083	3200691	-	609.0
+ecoli_REL606__ACT41790.1	ecoli_REL606	left	ecoli_REL606__ACT41789.1	TBLASTN	NZ_CP117569.1	75525.0	75746.0			IS1 family transposase	75100	75755	-	222.0
+ecoli_REL606__ACT41790.1	ecoli_REL606	left	ecoli_REL606__ACT41789.1	TBLASTN	NZ_CP117569.1	75525.0	75746.0			IS4-like element ISEc60 family transposase	75745	76038	-	2.0
+ecoli_REL606__ACT41790.1	ecoli_REL606	right	ecoli_REL606__ACT41791.1	TBLASTN	NZ_CP117569.1	75121.0	75570.0			IS1 family transposase	75100	75755	-	450.0
+ecoli_Sakai__NP_303550.1	ecoli_Sakai	left	ecoli_Sakai__NP_308843.3	BLASTP	NZ_CP117568.1	1127887.0	1128630.0	WP_001302581.1		hypothetical protein	1127887	1128630	-	744.0
+ecoli_Sakai__NP_303550.1	ecoli_Sakai	right	ecoli_Sakai__NP_308845.1	BLASTP	NZ_CP117568.1	1124935.0	1125234.0	WP_273774773.1		class II holin family protein	1124935	1125234	-	300.0
+ecoli_Sakai__NP_308259.1	ecoli_Sakai	left	ecoli_Sakai__NP_308258.1	BLASTP	NZ_CP117568.1	4006176.0	4007642.0	WP_054412784.1	tssC	type VI secretion system contractile sheath large subunit	4006176	4007642	-	1467.0
+ecoli_Sakai__NP_308259.1	ecoli_Sakai	right	ecoli_Sakai__NP_308260.1	BLASTP	NZ_CP117568.1	4007937.0	4008437.0	WP_000037393.1	tssB	type VI secretion system contractile sheath small subunit	4007937	4008437	-	501.0
+ecoli_Sakai__NP_308328.1	ecoli_Sakai	left	ecoli_Sakai__NP_308327.1	BLASTP	NZ_CP117568.1	2865903.0	2866493.0	WP_001149160.1		helix-turn-helix transcriptional regulator	2865640	2865906	+	4.0
+ecoli_Sakai__NP_308328.1	ecoli_Sakai	left	ecoli_Sakai__NP_308327.1	BLASTP	NZ_CP117568.1	2865903.0	2866493.0	WP_000980221.1		host cell division inhibitor Icd-like protein	2865903	2866493	+	591.0
+ecoli_Sakai__NP_308328.1	ecoli_Sakai	left	ecoli_Sakai__NP_308327.1	BLASTP	NZ_CP117568.1	2865903.0	2866493.0	WP_001244665.1		derepression protein	2866486	2866773	+	8.0
+ecoli_Sakai__NP_308328.1	ecoli_Sakai	right	ecoli_Sakai__NP_308329.1	BLASTP	NZ_CP117568.1	2867357.0	2867677.0	WP_000856729.1		DUF5375 domain-containing protein	2867357	2867677	+	321.0
+ecoli_Sakai__NP_308481.1	ecoli_Sakai	left	ecoli_Sakai__NP_308480.3	BLASTP	NZ_CP117568.1	4129913.0	4131730.0	WP_256879056.1	malZ	maltodextrin glucosidase	4129913	4131730	+	1818.0
+ecoli_Sakai__NP_308481.1	ecoli_Sakai	right	ecoli_Sakai__NP_308482.1	BLASTP	NZ_CP117568.1	4131735.0	4132316.0	WP_001009869.1	acpH	ACP phosphodiesterase	4131735	4132316	-	582.0
+ecoli_Sakai__NP_308903.1	ecoli_Sakai	left	ecoli_Sakai__NP_308902.1	BLASTP	NZ_CP117568.1	4565838.0	4567199.0	WP_059223689.1	rhlE	ATP-dependent RNA helicase RhlE	4565838	4567199	+	1362.0
+ecoli_Sakai__NP_308903.1	ecoli_Sakai	right	ecoli_Sakai__NP_308904.1	BLASTP	NZ_CP117568.1	4567737.0	4569887.0	WP_025237325.1	dinG	ATP-dependent DNA helicase DinG	4567737	4569887	+	2151.0
+ecoli_Sakai__NP_309125.2	ecoli_Sakai	left	ecoli_Sakai__NP_309123.1	BLASTP	NZ_CP117568.1	1121149.0	1121682.0	WP_059257242.1		lysis protein	1120715	1121152	-	4.0
+ecoli_Sakai__NP_309125.2	ecoli_Sakai	left	ecoli_Sakai__NP_309123.1	BLASTP	NZ_CP117568.1	1121149.0	1121682.0	WP_000992106.1		lysozyme	1121149	1121682	-	534.0
+ecoli_Sakai__NP_309125.2	ecoli_Sakai	right	ecoli_Sakai__NP_309127.1	BLASTP	NZ_CP117568.1	1124935.0	1125234.0	WP_273774773.1		class II holin family protein	1124935	1125234	-	300.0
+ecoli_Sakai__NP_309207.1	ecoli_Sakai	left	ecoli_Sakai__NP_309206.1	BLASTP	NZ_CP117568.1	1137951.0	1138319.0	WP_000065374.1		DUF2528 family protein	1137951	1138319	+	369.0
+ecoli_Sakai__NP_309207.1	ecoli_Sakai	right	ecoli_Sakai__NP_309208.1	BLASTP	NZ_CP117568.1	1136975.0	1137247.0			hypothetical protein	1136778	1136997	+	23.0
+ecoli_Sakai__NP_309207.1	ecoli_Sakai	right	ecoli_Sakai__NP_309208.1	BLASTP	NZ_CP117568.1	1136975.0	1137247.0	WP_000088203.1		transcriptional antitermination N peptide	1136975	1137247	+	273.0
+ecoli_Sakai__NP_309289.1	ecoli_Sakai	left	ecoli_Sakai__NP_309288.1	BLASTP	NZ_CP117568.1	137343.0	138851.0	WP_044709679.1	putP	sodium/proline symporter PutP	137343	138851	+	1509.0
+ecoli_Sakai__NP_309289.1	ecoli_Sakai	right	ecoli_Sakai__NP_309290.1	BLASTP	NZ_CP117568.1	139071.0	139901.0	WP_000497962.1	efeU	iron uptake transporter permease EfeU	139071	139901	+	831.0
+ecoli_Sakai__NP_309320.1	ecoli_Sakai	left	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209.0	238910.0	WP_000284708.1	lolC	lipoprotein-releasing ABC transporter permease subunit LolC	237017	238216	+	8.0
+ecoli_Sakai__NP_309320.1	ecoli_Sakai	left	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209.0	238910.0	WP_001059716.1	lolD	lipoprotein-releasing ABC transporter ATP-binding protein LolD	238209	238910	+	702.0
+ecoli_Sakai__NP_309320.1	ecoli_Sakai	left	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209.0	238910.0	WP_001251383.1	lolE	lipoprotein-releasing ABC transporter permease subunit LolE	238910	240154	+	1.0
+ecoli_Sakai__NP_309320.1	ecoli_Sakai	right	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910.0	240154.0	WP_001059716.1	lolD	lipoprotein-releasing ABC transporter ATP-binding protein LolD	238209	238910	+	1.0
+ecoli_Sakai__NP_309320.1	ecoli_Sakai	right	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910.0	240154.0	WP_001251383.1	lolE	lipoprotein-releasing ABC transporter permease subunit LolE	238910	240154	+	1245.0
+ecoli_Sakai__NP_309700.2	ecoli_Sakai	left	ecoli_Sakai__NP_309699.1	BLASTP	NZ_CP117568.1	280314.0	280715.0	WP_256879168.1	pliG	g-type lysoyme inhibitor PliG	280314	280715	-	402.0
+ecoli_Sakai__NP_309700.2	ecoli_Sakai	right	ecoli_Sakai__NP_309701.2	BLASTP	NZ_CP117568.1	275067.0	275360.0	WP_024164782.1		YcgL domain-containing protein	275067	275360	+	294.0
+ecoli_Sakai__NP_309867.1	ecoli_Sakai	left	ecoli_Sakai__NP_309866.4	BLASTP	NZ_CP117568.1	384893.0	385513.0	WP_256879155.1	rnm	RNase RNM	384015	384896	+	4.0
+ecoli_Sakai__NP_309867.1	ecoli_Sakai	left	ecoli_Sakai__NP_309866.4	BLASTP	NZ_CP117568.1	384893.0	385513.0	WP_159386371.1		L-threonylcarbamoyladenylate synthase	384893	385513	+	621.0
+ecoli_Sakai__NP_309867.1	ecoli_Sakai	right	ecoli_Sakai__NP_309868.1	BLASTP	NZ_CP117568.1	385614.0	386489.0	WP_256879154.1	rluB	23S rRNA pseudouridine(2605) synthase RluB	385614	386489	+	876.0
+ecoli_Sakai__NP_310043.1	ecoli_Sakai	left	ecoli_Sakai__NP_310042.2	BLASTP	NZ_CP117568.1	483064.0	486966.0	WP_256921762.1	hrpA	ATP-dependent RNA helicase HrpA	483064	486966	+	3903.0
+ecoli_Sakai__NP_310043.1	ecoli_Sakai	right	ecoli_Sakai__NP_310044.1	BLASTP	NZ_CP117568.1	488187.0	488534.0	WP_256879130.1		hypothetical protein	488187	488534	+	348.0
+ecoli_Sakai__NP_310043.1	ecoli_Sakai	right	ecoli_Sakai__NP_310044.1	BLASTP	NZ_CP117568.1	488187.0	488534.0	WP_207610563.1		hypothetical protein	488524	488970	+	11.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	left	ecoli_Sakai__NP_310192.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_105175642.1		phage minor tail protein L	1104690	1105388	-	1.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	left	ecoli_Sakai__NP_310192.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_000847354.1		phage tail protein	1105388	1105717	-	330.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	left	ecoli_Sakai__NP_310192.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_060877380.1		phage tail tape measure protein	1105714	1108293	-	4.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	right	ecoli_Sakai__NP_310194.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_060877380.1		phage tail tape measure protein	1105714	1108293	-	8.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	right	ecoli_Sakai__NP_310194.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_059236887.1		phage tail assembly protein T	1108286	1108711	-	426.0
+ecoli_Sakai__NP_310193.1	ecoli_Sakai	right	ecoli_Sakai__NP_310194.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_032329098.1	gpG	phage tail assembly chaperone G	1108693	1109115	-	19.0
+ecoli_Sakai__NP_310248.1	ecoli_Sakai	left	ecoli_Sakai__NP_310247.1	TBLASTN	NZ_CP117569.1	58377.0	58661.0			transposase	58360	58729	+	285.0
+ecoli_Sakai__NP_310248.1	ecoli_Sakai	right	ecoli_Sakai__NP_310249.1	BLASTP	NZ_CP117569.1	49435.0	49860.0	WP_000422741.1	tnpA	IS66-like element accessory protein TnpA	49435	49860	+	426.0
+ecoli_Sakai__NP_310248.1	ecoli_Sakai	right	ecoli_Sakai__NP_310249.1	BLASTP	NZ_CP117569.1	49435.0	49860.0	WP_000624718.1	tnpB	IS66 family insertion sequence element accessory protein TnpB	49857	50207	+	4.0
+ecoli_Sakai__NP_310662.1	ecoli_Sakai	left	ecoli_Sakai__NP_310661.1	BLASTP	NZ_CP117569.1	8380.0	9360.0	WP_256878413.1		plasmid segregation protein ParM	8380	9360	+	981.0
+ecoli_Sakai__NP_310662.1	ecoli_Sakai	left	ecoli_Sakai__NP_310661.1	BLASTP	NZ_CP117569.1	8380.0	9360.0	WP_273775112.1		plasmid partitioning/stability family protein	9353	9769	+	8.0
+ecoli_Sakai__NP_310662.1	ecoli_Sakai	right	ecoli_Sakai__NP_310663.1	TBLASTN	NZ_CP117569.1	4319.0	4759.0			IS3 family transposase	3814	4942	+	441.0
+ecoli_Sakai__NP_310689.1	ecoli_Sakai	left	ecoli_Sakai__NP_310688.1	BLASTP	NZ_CP117568.1	946260.0	946979.0	WP_001087461.1	fliA	RNA polymerase sigma factor FliA	946260	946979	-	720.0
+ecoli_Sakai__NP_310689.1	ecoli_Sakai	right	ecoli_Sakai__NP_310690.1	BLASTP	NZ_CP117568.1	948905.0	950305.0	WP_059218657.1	fliD	flagellar filament capping protein FliD	948905	950305	+	1401.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	left	ecoli_Sakai__NP_310975.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_105175642.1		phage minor tail protein L	1104690	1105388	-	1.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	left	ecoli_Sakai__NP_310975.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_000847354.1		phage tail protein	1105388	1105717	-	330.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	left	ecoli_Sakai__NP_310975.1	BLASTP	NZ_CP117568.1	1105388.0	1105717.0	WP_060877380.1		phage tail tape measure protein	1105714	1108293	-	4.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	right	ecoli_Sakai__NP_310977.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_060877380.1		phage tail tape measure protein	1105714	1108293	-	8.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	right	ecoli_Sakai__NP_310977.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_059236887.1		phage tail assembly protein T	1108286	1108711	-	426.0
+ecoli_Sakai__NP_310976.1	ecoli_Sakai	right	ecoli_Sakai__NP_310977.1	BLASTP	NZ_CP117568.1	1108286.0	1108711.0	WP_032329098.1	gpG	phage tail assembly chaperone G	1108693	1109115	-	19.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	left	ecoli_Sakai__NP_311005.1	BLASTP	NZ_CP117568.1	1130947.0	1131117.0	WP_059257244.1		recombination protein NinG	1130349	1130954	-	8.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	left	ecoli_Sakai__NP_311005.1	BLASTP	NZ_CP117568.1	1130947.0	1131117.0	WP_059257245.1		protein NinF	1130947	1131117	-	171.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	left	ecoli_Sakai__NP_311005.1	BLASTP	NZ_CP117568.1	1130947.0	1131117.0	WP_001254256.1		NinE family protein	1131114	1131296	-	4.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	right	ecoli_Sakai__NP_311007.1	BLASTP	NZ_CP117568.1	1131114.0	1131296.0	WP_059257245.1		protein NinF	1130947	1131117	-	4.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	right	ecoli_Sakai__NP_311007.1	BLASTP	NZ_CP117568.1	1131114.0	1131296.0	WP_001254256.1		NinE family protein	1131114	1131296	-	183.0
+ecoli_Sakai__NP_311006.1	ecoli_Sakai	right	ecoli_Sakai__NP_311007.1	BLASTP	NZ_CP117568.1	1131114.0	1131296.0	WP_059217994.1		phage N-6-adenine-methyltransferase	1131293	1131820	-	4.0
+ecoli_Sakai__NP_312307.2	ecoli_Sakai	left	ecoli_Sakai__NP_312306.1	BLASTP	NZ_CP117568.1	2580675.0	2581268.0	WP_001002548.1	yhgN	NAAT family transporter YhgN	2580675	2581268	+	594.0
+ecoli_Sakai__NP_312307.2	ecoli_Sakai	right	ecoli_Sakai__NP_312312.1	BLASTP	NZ_CP117568.1	2581325.0	2582665.0	WP_000105941.1	gntU	gluconate transporter	2581325	2582665	-	1341.0
+ecoli_Sakai__NP_312307.2	ecoli_Sakai	right	ecoli_Sakai__NP_312312.1	BLASTP	NZ_CP117568.1	2581325.0	2582665.0	WP_000108322.1	gntK	gluconokinase	2582665	2583195	-	1.0
+ecoli_Sakai__NP_312318.1	ecoli_Sakai	left	ecoli_Sakai__NP_312317.1	BLASTP	NZ_CP117568.1	2586732.0	2587220.0	WP_002460223.1	yhhY	N-acetyltransferase	2586732	2587220	+	489.0
+ecoli_Sakai__NP_312318.1	ecoli_Sakai	right	ecoli_Sakai__NP_312320.1	BLASTP	NZ_CP117568.1	2587283.0	2589028.0	WP_059235664.1	ggt	gamma-glutamyltransferase	2587283	2589028	-	1746.0
+ecoli_Sakai__NP_312366.1	ecoli_Sakai	left	ecoli_Sakai__NP_312365.1	BLASTP	NZ_CP117568.1	216129.0	217370.0	WP_000044662.1	fabF	beta-ketoacyl-ACP synthase II	216129	217370	+	1242.0
+ecoli_Sakai__NP_312366.1	ecoli_Sakai	right	ecoli_Sakai__NP_312367.1	BLASTP	NZ_CP117568.1	214859.0	215593.0	WP_001008531.1	fabG	3-oxoacyl-ACP reductase FabG	214859	215593	+	735.0
+ecoli_Sakai__NP_313097.1	ecoli_Sakai	left	ecoli_Sakai__NP_313096.1	BLASTP	NZ_CP117568.1	2428164.0	2429018.0	WP_256877539.1		tagatose bisphosphate family class II aldolase	2428164	2429018	-	855.0
+ecoli_Sakai__NP_313097.1	ecoli_Sakai	right	ecoli_Sakai__NP_313098.1	BLASTP	NZ_CP117568.1	2427238.0	2428005.0	WP_256878890.1		substrate-binding domain-containing protein	2427238	2428005	-	768.0
+ecoli_Sakai__YP_009502613.1	ecoli_Sakai	left	ecoli_Sakai__NP_309726.1	BLASTP	NZ_CP117568.1	299864.0	300886.0	WP_001258316.1		FecCD family ABC transporter permease	298878	299864	-	1.0
+ecoli_Sakai__YP_009502613.1	ecoli_Sakai	left	ecoli_Sakai__NP_309726.1	BLASTP	NZ_CP117568.1	299864.0	300886.0	WP_059235793.1		iron ABC transporter substrate-binding protein	299864	300886	-	1023.0
+ecoli_Sakai__YP_009502613.1	ecoli_Sakai	right	ecoli_Sakai__NP_304434.1	BLASTP	NZ_CP117568.1	302444.0	304135.0	WP_000543066.1		alpha,alpha-trehalase	302444	304135	-	1692.0
+ecoli_Sakai__YP_009502613.1	ecoli_Sakai	right	ecoli_Sakai__NP_304434.1	BLASTP	NZ_CP117568.1	302444.0	304135.0	WP_072243487.1		hypothetical protein	304126	304314	+	10.0
+ecoli_Sakai__YP_009502663.1	ecoli_Sakai	left	ecoli_Sakai__NP_312743.1	BLASTP	NZ_CP117568.1	3003337.0	3004596.0	WP_001054527.1	rho	transcription termination factor Rho	3003337	3004596	+	1260.0
+ecoli_Sakai__YP_009502663.1	ecoli_Sakai	right	ecoli_Sakai__NP_312744.1	BLASTP	NZ_CP117568.1	3004824.0	3005927.0	WP_256879345.1	wecA	UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase	3004824	3005927	+	1104.0
+ecoli_Sakai__YP_009502677.1	ecoli_Sakai	left	ecoli_Sakai__NP_313375.2	BLASTP	NZ_CP117568.1	3728500.0	3729732.0	WP_000093821.1	nadR	multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR	3728500	3729732	+	1233.0
+ecoli_Sakai__YP_009502677.1	ecoli_Sakai	right	ecoli_Sakai__NP_313376.1	BLASTP	NZ_CP117568.1	3729853.0	3731520.0	WP_000046763.1	ettA	energy-dependent translational throttle protein EttA	3729853	3731520	-	1668.0

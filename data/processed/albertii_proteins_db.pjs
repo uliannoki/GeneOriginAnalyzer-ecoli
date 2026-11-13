@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "albertii_proteins_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "data/raw/escherichia_albertii/unpacked/ncbi_dataset/data/GCF_028622335.1/protein.faa",
+  "number-of-letters": 1354691,
+  "number-of-sequences": 4314,
+  "last-updated": "2026-11-12T20:08:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2544624,
+  "bytes-to-cache": 1393702,
+  "files": [
+    "albertii_proteins_db.pdb",
+    "albertii_proteins_db.phr",
+    "albertii_proteins_db.pin",
+    "albertii_proteins_db.pog",
+    "albertii_proteins_db.pos",
+    "albertii_proteins_db.pot",
+    "albertii_proteins_db.psq",
+    "albertii_proteins_db.ptf",
+    "albertii_proteins_db.pto"
+  ]
+}

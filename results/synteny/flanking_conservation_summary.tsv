@@ -1,0 +1,661 @@
+sample	candidate_id	original_id	candidate_start	candidate_end	left_query	left_method	left_target_seqid	left_target_start	left_target_end	left_target_gene	right_query	right_method	right_target_seqid	right_target_start	right_target_end	right_target_gene	same_replicon	flank_order	distance_between_flanks_bp	conservation_status
+ecoli_MG1655	ecoli_MG1655__NP_416938.1	NP_416938.1	2560257	2560898	ecoli_MG1655__NP_416937.2	BLASTP	NZ_CP117568.1	2859436	2860599		ecoli_MG1655__NP_416939.1						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416939.1	NP_416939.1	2561368	2561613	ecoli_MG1655__NP_416938.1						ecoli_MG1655__NP_416940.2						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416940.2	NP_416940.2	2561625	2561993	ecoli_MG1655__NP_416939.1						ecoli_MG1655__NP_416941.1	TBLASTN	NZ_CP117568.1	4518969	4519208		False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416942.1	NP_416942.1	2562524	2563117	ecoli_MG1655__NP_416941.1	TBLASTN	NZ_CP117568.1	4518969	4519208		ecoli_MG1655__NP_416943.2						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416943.2	NP_416943.2	2563592	2563969	ecoli_MG1655__NP_416942.1						ecoli_MG1655__NP_416944.1						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416944.1	NP_416944.1	2563980	2564372	ecoli_MG1655__NP_416943.2						ecoli_MG1655__NP_416945.2						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__NP_416945.2	NP_416945.2	2564523	2565332	ecoli_MG1655__NP_416944.1						ecoli_MG1655__NP_416946.1	BLASTP	NZ_CP117568.1	1533806	1535209	eutA	False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__YP_001165315.1	YP_001165315.1	1223264	1223449	ecoli_MG1655__YP_001165314.1	TBLASTN	NZ_CP117568.1	267025	267177		ecoli_MG1655__NP_415692.1	BLASTP	NZ_CP117568.1	273146	273412	minE	True	left_before_right	5968	both_flanks_nearby
+ecoli_MG1655	ecoli_MG1655__YP_001165333.1	YP_001165333.1	4268809	4269012	ecoli_MG1655__NP_418478.1	BLASTP	NZ_CP117568.1	3351882	3353075	tyrB	ecoli_MG1655__NP_418479.1	BLASTP	NZ_CP117568.1	3366931	3367644	aphA	True	left_before_right	13855	both_flanks_far_apart
+ecoli_MG1655	ecoli_MG1655__YP_002791241.1	YP_002791241.1	1639080	1639334	ecoli_MG1655__NP_416071.1						ecoli_MG1655__NP_416072.1	BLASTP	NZ_CP117568.1	1121149	1121682		False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__YP_009518745.1	YP_009518745.1	294918	295142	ecoli_MG1655__NP_414813.1						ecoli_MG1655__NP_414814.1						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__YP_009518780.1	YP_009518780.1	1530319	1530504	ecoli_MG1655__NP_415974.1						ecoli_MG1655__NP_415977.1	TBLASTN	NZ_CP117568.1	807708	808391		False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__YP_009518820.1	YP_009518820.1	3584404	3584559	ecoli_MG1655__NP_417902.1	TBLASTN	NZ_CP117569.1	75121	75570		ecoli_MG1655__NP_417903.1						False			both_flanks_not_mapped
+ecoli_MG1655	ecoli_MG1655__YP_010051186.1	YP_010051186.1	1640805	1640975	ecoli_MG1655__NP_416074.4	BLASTP	NZ_CP117568.1	4516384	4516599		ecoli_MG1655__NP_416075.1	BLASTP	NZ_CP117568.1	2735435	2735647	cspE	True	right_before_left	1780736	both_flanks_far_apart
+ecoli_MG1655	ecoli_MG1655__YP_010051208.1	YP_010051208.1	3797772	3798014	ecoli_MG1655__YP_010051209.1						ecoli_MG1655__YP_010051210.1						False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAA15281.2	BAA15281.2	1651792	1652712	ecoli_W3110__BAA15280.1	BLASTP	NZ_CP117568.1	869490	869681		ecoli_W3110__BAA15283.2	TBLASTN	NZ_CP117569.1	41799	42452		False			different_replicons
+ecoli_W3110	ecoli_W3110__BAA15964.1	BAA15964.1	2178069	2178383	ecoli_W3110__BAA15962.2						ecoli_W3110__BAA15965.1	BLASTP	NZ_CP117568.1	2301114	2302394	kbaZ	False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAA16507.2	BAA16507.2	2770823	2771341	ecoli_W3110__BAA16506.2	BLASTP	NZ_CP117568.1	1570960	1571319	arsC	ecoli_W3110__BAA16508.2						False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAA16508.2	BAA16508.2	2771492	2771692	ecoli_W3110__BAA16507.2						ecoli_W3110__BAA16510.1						False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAA35347.2	BAA35347.2	716810	717019	ecoli_W3110__BAA35338.2						ecoli_W3110__BAA35348.1	BLASTP	NZ_CP117568.1	4402801	4404120	potE	False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAA77931.2	BAA77931.2	278038	278400	ecoli_W3110__BAA77930.2	BLASTP	NZ_CP117568.1	246047	247183	potA	ecoli_W3110__BAE76050.1	TBLASTN	NZ_CP117569.1	75121	75570		False			different_replicons
+ecoli_W3110	ecoli_W3110__BAE76455.1	BAE76455.1	1592071	1592250	ecoli_W3110__BAA15178.2	BLASTP	NZ_CP117568.1	3638212	3640848		ecoli_W3110__BAA15179.2						False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAE76553.1	BAE76553.1	2014138	2014488	ecoli_W3110__BAE76552.1						ecoli_W3110__BAA15760.1	BLASTP	NZ_CP117568.1	956943	957257	fliE	False			both_flanks_not_mapped
+ecoli_W3110	ecoli_W3110__BAE78301.1	BAE78301.1	4539695	4540711	ecoli_W3110__BAE78300.1						ecoli_W3110__BAE78302.1	BLASTP	NZ_CP117568.1	1125456	1127309		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT37714.1	ACT37714.1	19658	20617	ecoli_REL606__ACT37713.1	BLASTP	NZ_CP117568.1	3764175	3765074	nhaR	ecoli_REL606__ACT37715.1	BLASTP	NZ_CP117568.1	1182350	1184830		True	right_before_left	2579344	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT37716.1	ACT37716.1	22208	22912	ecoli_REL606__ACT37715.1	BLASTP	NZ_CP117568.1	1182350	1184830		ecoli_REL606__ACT37717.1	TBLASTN	NZ_CP117569.1	75525	75746		False			different_replicons
+ecoli_REL606	ecoli_REL606__ACT37905.1	ACT37905.1	242011	242382	ecoli_REL606__ACT37904.1	TBLASTN	NZ_CP117569.1	75118	75570		ecoli_REL606__ACT37906.1	TBLASTN	NZ_CP117568.1	807708	808391		False			different_replicons
+ecoli_REL606	ecoli_REL606__ACT37956.1	ACT37956.1	297057	297269	ecoli_REL606__ACT37955.1	BLASTP	NZ_CP117568.1	4060136	4060831		ecoli_REL606__ACT37957.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38067.1	ACT38067.1	416496	417038	ecoli_REL606__ACT38066.1						ecoli_REL606__ACT38068.1	BLASTP	NZ_CP117568.1	2602264	2602530	ataR	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38177.1	ACT38177.1	537948	538349	ecoli_REL606__ACT38176.1						ecoli_REL606__ACT38178.1	BLASTP	NZ_CP117568.1	1141241	1141462		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38201.1	ACT38201.1	554716	557061	ecoli_REL606__ACT38200.1	BLASTP	NZ_CP117568.1	1099291	1102704	gpJ	ecoli_REL606__ACT38202.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38202.1	ACT38202.1	557058	557339	ecoli_REL606__ACT38201.1						ecoli_REL606__ACT38203.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38203.1	ACT38203.1	557349	558053	ecoli_REL606__ACT38202.1						ecoli_REL606__ACT38204.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38204.1	ACT38204.1	558064	558357	ecoli_REL606__ACT38203.1						ecoli_REL606__ACT38205.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38205.1	ACT38205.1	558112	558447	ecoli_REL606__ACT38204.1						ecoli_REL606__ACT38206.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38211.1	ACT38211.1	568652	568822	ecoli_REL606__ACT38210.1	BLASTP	NZ_CP117568.1	4261863	4264835		ecoli_REL606__ACT38212.1	TBLASTN	NZ_CP117568.1	807708	808391		True	right_before_left	3453471	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT38213.1	ACT38213.1	570615	570776	ecoli_REL606__ACT38212.1	TBLASTN	NZ_CP117568.1	807708	808391		ecoli_REL606__ACT38214.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38214.1	ACT38214.1	570901	571191	ecoli_REL606__ACT38213.1						ecoli_REL606__ACT38215.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38215.1	ACT38215.1	571188	571448	ecoli_REL606__ACT38214.1						ecoli_REL606__ACT38216.1	BLASTP	NZ_CP117568.1	989446	993735		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38346.1	ACT38346.1	716646	716924	ecoli_REL606__ACT38345.1						ecoli_REL606__ACT38347.1	BLASTP	NZ_CP117568.1	993748	994122		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38412.1	ACT38412.1	790244	790588	ecoli_REL606__ACT38411.1						ecoli_REL606__ACT38413.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38413.1	ACT38413.1	790569	790754	ecoli_REL606__ACT38412.1						ecoli_REL606__ACT38414.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38414.1	ACT38414.1	791455	792006	ecoli_REL606__ACT38413.1						ecoli_REL606__ACT38415.1	BLASTP	NZ_CP117568.1	4519403	4520815		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38416.1	ACT38416.1	793631	794392	ecoli_REL606__ACT38415.1	BLASTP	NZ_CP117568.1	4519403	4520815		ecoli_REL606__ACT38417.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38417.1	ACT38417.1	794442	794900	ecoli_REL606__ACT38416.1						ecoli_REL606__ACT38418.1	BLASTP	NZ_CP117568.1	3163239	3163817		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38419.1	ACT38419.1	795337	796329	ecoli_REL606__ACT38418.1	BLASTP	NZ_CP117568.1	3163239	3163817		ecoli_REL606__ACT38420.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38420.1	ACT38420.1	796755	798092	ecoli_REL606__ACT38419.1						ecoli_REL606__ACT38421.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38421.1	ACT38421.1	798130	799275	ecoli_REL606__ACT38420.1						ecoli_REL606__ACT38422.1	BLASTP	NZ_CP117568.1	4542286	4542762		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38496.1	ACT38496.1	880691	881023	ecoli_REL606__ACT38495.1	BLASTP	NZ_CP117568.1	4614900	4615475		ecoli_REL606__ACT38497.1	BLASTP	NZ_CP117568.1	3140809	3141789		True	right_before_left	1473110	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT38498.1	ACT38498.1	882310	882462	ecoli_REL606__ACT38497.1	BLASTP	NZ_CP117568.1	3140809	3141789		ecoli_REL606__ACT38499.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38499.1	ACT38499.1	882542	883105	ecoli_REL606__ACT38498.1						ecoli_REL606__ACT38500.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38501.1	ACT38501.1	883491	884000	ecoli_REL606__ACT38500.1						ecoli_REL606__ACT38502.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38502.1	ACT38502.1	883969	884208	ecoli_REL606__ACT38501.1						ecoli_REL606__ACT38503.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38503.1	ACT38503.1	884172	884513	ecoli_REL606__ACT38502.1						ecoli_REL606__ACT38504.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38504.1	ACT38504.1	884581	884814	ecoli_REL606__ACT38503.1						ecoli_REL606__ACT38505.1	BLASTP	NZ_CP117568.1	4572875	4573141	ybiI	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38508.1	ACT38508.1	888459	888647	ecoli_REL606__ACT38507.1	BLASTP	NZ_CP117568.1	1	2307		ecoli_REL606__ACT38509.1	BLASTP	NZ_CP117569.1	43850	44098		False			different_replicons
+ecoli_REL606	ecoli_REL606__ACT38510.1	ACT38510.1	889084	889419	ecoli_REL606__ACT38509.1	BLASTP	NZ_CP117569.1	43850	44098		ecoli_REL606__ACT38511.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38511.1	ACT38511.1	889691	889855	ecoli_REL606__ACT38510.1						ecoli_REL606__ACT38512.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38512.1	ACT38512.1	889892	890815	ecoli_REL606__ACT38511.1						ecoli_REL606__ACT38513.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38513.1	ACT38513.1	890978	891940	ecoli_REL606__ACT38512.1						ecoli_REL606__ACT38514.1	BLASTP	NZ_CP117568.1	3149560	3150594		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT38522.1	ACT38522.1	897117	897923	ecoli_REL606__ACT38521.1	BLASTP	NZ_CP117568.1	3158288	3158740		ecoli_REL606__ACT38523.1	BLASTP	NZ_CP117568.1	3158807	3159442		True	left_before_right	66	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT38527.1	ACT38527.1	900451	902073	ecoli_REL606__ACT38526.1	BLASTP	NZ_CP117568.1	3160692	3161222		ecoli_REL606__ACT38528.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39015.1	ACT39015.1	1420721	1421557	ecoli_REL606__ACT39014.1						ecoli_REL606__ACT39016.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39016.1	ACT39016.1	1421656	1423881	ecoli_REL606__ACT39015.1						ecoli_REL606__ACT39017.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39017.1	ACT39017.1	1423878	1424156	ecoli_REL606__ACT39016.1						ecoli_REL606__ACT39018.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39018.1	ACT39018.1	1424169	1424462	ecoli_REL606__ACT39017.1						ecoli_REL606__ACT39019.1	BLASTP	NZ_CP117568.1	584862	585422		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39154.1	ACT39154.1	1586072	1586356	ecoli_REL606__ACT39153.1	BLASTP	NZ_CP117568.1	599729	600394	marC	ecoli_REL606__ACT39155.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39155.1	ACT39155.1	1586346	1586666	ecoli_REL606__ACT39154.1						ecoli_REL606__ACT39156.1	BLASTP	NZ_CP117568.1	600606	601040	marR	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39172.1	ACT39172.1	1602205	1602498	ecoli_REL606__ACT39171.1	BLASTP	NZ_CP117568.1	584862	585422		ecoli_REL606__ACT39173.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39173.1	ACT39173.1	1602509	1603213	ecoli_REL606__ACT39172.1						ecoli_REL606__ACT39174.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39174.1	ACT39174.1	1603223	1603504	ecoli_REL606__ACT39173.1						ecoli_REL606__ACT39175.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39175.1	ACT39175.1	1603504	1605882	ecoli_REL606__ACT39174.1						ecoli_REL606__ACT39176.1	BLASTP	NZ_CP117568.1	1098621	1099220		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39208.1	ACT39208.1	1624621	1624908	ecoli_REL606__ACT39207.1						ecoli_REL606__ACT39209.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39564.1	ACT39564.1	2007531	2007938	ecoli_REL606__ACT39563.1	TBLASTN	NZ_CP117569.1	41550	42452		ecoli_REL606__ACT39565.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39565.1	ACT39565.1	2007926	2008360	ecoli_REL606__ACT39564.1						ecoli_REL606__ACT39566.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39566.1	ACT39566.1	2008293	2008703	ecoli_REL606__ACT39565.1						ecoli_REL606__ACT39567.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39594.1	ACT39594.1	2035089	2035856	ecoli_REL606__ACT39593.1	TBLASTN	NZ_CP117569.1	75525	75746		ecoli_REL606__ACT39595.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39595.1	ACT39595.1	2035846	2036958	ecoli_REL606__ACT39594.1						ecoli_REL606__ACT39596.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39596.1	ACT39596.1	2036955	2038130	ecoli_REL606__ACT39595.1						ecoli_REL606__ACT39597.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39597.1	ACT39597.1	2038127	2038948	ecoli_REL606__ACT39596.1						ecoli_REL606__ACT39598.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39598.1	ACT39598.1	2038948	2039694	ecoli_REL606__ACT39597.1						ecoli_REL606__ACT39599.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39648.1	ACT39648.1	2102770	2103081	ecoli_REL606__ACT39647.1	BLASTP	NZ_CP117568.1	3163946	3165136		ecoli_REL606__ACT39649.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39650.1	ACT39650.1	2103734	2103949	ecoli_REL606__ACT39649.1						ecoli_REL606__ACT39651.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39652.1	ACT39652.1	2105251	2108013	ecoli_REL606__ACT39651.1						ecoli_REL606__ACT39653.1	BLASTP	NZ_CP117568.1	3160692	3161222		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39657.1	ACT39657.1	2110619	2111404	ecoli_REL606__ACT39656.1	BLASTP	NZ_CP117568.1	3158807	3159442		ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560	3150594		True	right_before_left	8212	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT39659.1	ACT39659.1	2112706	2114673	ecoli_REL606__ACT39658.1	BLASTP	NZ_CP117568.1	3149560	3150594		ecoli_REL606__ACT39660.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39660.1	ACT39660.1	2114673	2115038	ecoli_REL606__ACT39659.1						ecoli_REL606__ACT39661.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39661.1	ACT39661.1	2115174	2116391	ecoli_REL606__ACT39660.1						ecoli_REL606__ACT39662.1	BLASTP	NZ_CP117568.1	3145094	3147391		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39671.1	ACT39671.1	2122410	2122625	ecoli_REL606__ACT39670.1	BLASTP	NZ_CP117568.1	4677560	4678555		ecoli_REL606__ACT39672.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39691.1	ACT39691.1	2140045	2140476	ecoli_REL606__ACT39690.1						ecoli_REL606__ACT39692.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39692.1	ACT39692.1	2140580	2141245	ecoli_REL606__ACT39691.1						ecoli_REL606__ACT39693.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39693.1	ACT39693.1	2141439	2141702	ecoli_REL606__ACT39692.1						ecoli_REL606__ACT39694.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39694.1	ACT39694.1	2141797	2142048	ecoli_REL606__ACT39693.1						ecoli_REL606__ACT39695.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39695.1	ACT39695.1	2142385	2142783	ecoli_REL606__ACT39694.1						ecoli_REL606__ACT39696.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39696.1	ACT39696.1	2142731	2142922	ecoli_REL606__ACT39695.1						ecoli_REL606__ACT39697.1	TBLASTN	NZ_CP117569.1	75121	75570		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT39985.1	ACT39985.1	2476757	2476933	ecoli_REL606__ACT39984.1	BLASTP	NZ_CP117568.1	1520810	1522234	murP	ecoli_REL606__ACT39986.1	BLASTP	NZ_CP117568.1	1522811	1523710	yfeX	True	left_before_right	576	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT40163.1	ACT40163.1	2678929	2680485	ecoli_REL606__ACT40162.1	BLASTP	NZ_CP117568.1	1724780	1726021		ecoli_REL606__ACT40164.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40164.1	ACT40164.1	2680475	2681371	ecoli_REL606__ACT40163.1						ecoli_REL606__ACT40165.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40165.1	ACT40165.1	2681368	2682264	ecoli_REL606__ACT40164.1						ecoli_REL606__ACT40166.1	TBLASTN	NZ_CP117569.1	75525	75746		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40274.1	ACT40274.1	2792509	2793357	ecoli_REL606__ACT40273.1						ecoli_REL606__ACT40275.1	BLASTP	NZ_CP117568.1	1862638	1863309	queE	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40450.1	ACT40450.1	2997333	2998235	ecoli_REL606__ACT40449.1	BLASTP	NZ_CP117568.1	3606804	3608060		ecoli_REL606__ACT40451.1	BLASTP	NZ_CP117568.1	267621	272048		True	right_before_left	3334755	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT40453.1	ACT40453.1	3005124	3005579	ecoli_REL606__ACT40452.1						ecoli_REL606__ACT40454.1	BLASTP	NZ_CP117568.1	1754841	1755659		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40455.1	ACT40455.1	3006918	3007829	ecoli_REL606__ACT40454.1	BLASTP	NZ_CP117568.1	1754841	1755659		ecoli_REL606__ACT40456.1	BLASTP	NZ_CP117568.1	3616011	3616484	radC	True	left_before_right	1860351	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT40458.1	ACT40458.1	3008144	3009205	ecoli_REL606__ACT40457.1	BLASTP	NZ_CP117568.1	1756173	1756394		ecoli_REL606__ACT40459.1	BLASTP	NZ_CP117568.1	3616850	3617191		True	left_before_right	1860455	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT40463.1	ACT40463.1	3011267	3011560	ecoli_REL606__ACT40462.1						ecoli_REL606__ACT40464.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40464.1	ACT40464.1	3012134	3012289	ecoli_REL606__ACT40463.1						ecoli_REL606__ACT40465.1	BLASTP	NZ_CP117568.1	2359678	2360664	kdsD	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40466.1	ACT40466.1	3013420	3014556	ecoli_REL606__ACT40465.1	BLASTP	NZ_CP117568.1	2359678	2360664	kdsD	ecoli_REL606__ACT40467.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40467.1	ACT40467.1	3014580	3016256	ecoli_REL606__ACT40466.1						ecoli_REL606__ACT40468.1	BLASTP	NZ_CP117568.1	45723	46469	kdsB	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40469.1	ACT40469.1	3017003	3019030	ecoli_REL606__ACT40468.1	BLASTP	NZ_CP117568.1	45723	46469	kdsB	ecoli_REL606__ACT40470.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40470.1	ACT40470.1	3019065	3020297	ecoli_REL606__ACT40469.1						ecoli_REL606__ACT40471.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40471.1	ACT40471.1	3020551	3021483	ecoli_REL606__ACT40470.1						ecoli_REL606__ACT40472.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40472.1	ACT40472.1	3021545	3022684	ecoli_REL606__ACT40471.1						ecoli_REL606__ACT40473.1	BLASTP	NZ_CP117568.1	388641	389399		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40477.1	ACT40477.1	3025426	3026802	ecoli_REL606__ACT40476.1						ecoli_REL606__ACT40478.1	BLASTP	NZ_CP117568.1	3327702	3328817	malK	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT40479.1	ACT40479.1	3027685	3028461	ecoli_REL606__ACT40478.1	BLASTP	NZ_CP117568.1	3327702	3328817	malK	ecoli_REL606__ACT40480.1	BLASTP	NZ_CP117568.1	2096153	2096689	yghD	True	right_before_left	1231012	both_flanks_far_apart
+ecoli_REL606	ecoli_REL606__ACT40729.1	ACT40729.1	3296495	3296836	ecoli_REL606__ACT40728.1	TBLASTN	NZ_CP117568.1	2379211	2379576		ecoli_REL606__ACT40730.1	BLASTP	NZ_CP117568.1	2379597	2380061	nanQ	True	left_before_right	20	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT41160.1	ACT41160.1	3777253	3778296	ecoli_REL606__ACT41159.1	BLASTP	NZ_CP117568.1	2859436	2860599		ecoli_REL606__ACT41161.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41161.1	ACT41161.1	3778439	3778669	ecoli_REL606__ACT41160.1						ecoli_REL606__ACT41162.1	BLASTP	NZ_CP117568.1	3196228	3197253	cytR	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41166.1	ACT41166.1	3784910	3786073	ecoli_REL606__ACT41165.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	ecoli_REL606__ACT41167.1	TBLASTN	NZ_CP117569.1	26652	26981		False			different_replicons
+ecoli_REL606	ecoli_REL606__ACT41168.1	ACT41168.1	3786384	3786722	ecoli_REL606__ACT41167.1	TBLASTN	NZ_CP117569.1	26652	26981		ecoli_REL606__ACT41169.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41169.1	ACT41169.1	3786807	3786962	ecoli_REL606__ACT41168.1						ecoli_REL606__ACT41170.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41170.1	ACT41170.1	3787090	3787392	ecoli_REL606__ACT41169.1						ecoli_REL606__ACT41171.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41171.1	ACT41171.1	3787959	3788213	ecoli_REL606__ACT41170.1						ecoli_REL606__ACT41172.1	BLASTP	NZ_CP117568.1	4063783	4067760		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41173.1	ACT41173.1	3791895	3792308	ecoli_REL606__ACT41172.1	BLASTP	NZ_CP117568.1	4063783	4067760		ecoli_REL606__ACT41174.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41174.1	ACT41174.1	3792373	3792555	ecoli_REL606__ACT41173.1						ecoli_REL606__ACT41175.1	TBLASTN	NZ_CP117568.1	3576758	3576859		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41349.1	ACT41349.1	3982058	3982411	ecoli_REL606__ACT41348.1						ecoli_REL606__ACT41350.1	BLASTP	NZ_CP117568.1	1981204	1982136	arcC	False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41459.1	ACT41459.1	4106763	4107386	ecoli_REL606__ACT41458.1	BLASTP	NZ_CP117568.1	3199810	3200022	rpmE	ecoli_REL606__ACT41460.1	BLASTP	NZ_CP117568.1	3200083	3200691		True	left_before_right	60	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT41777.1	ACT41777.1	4490372	4490635	ecoli_REL606__ACT41776.1	TBLASTN	NZ_CP117569.1	4400	4930		ecoli_REL606__ACT41778.1	BLASTP	NZ_CP117568.1	830341	831951	yeaV	False			different_replicons
+ecoli_REL606	ecoli_REL606__ACT41790.1	ACT41790.1	4504981	4505274	ecoli_REL606__ACT41789.1	TBLASTN	NZ_CP117569.1	75525	75746		ecoli_REL606__ACT41791.1	TBLASTN	NZ_CP117569.1	75121	75570		True	right_before_left	0	both_flanks_nearby
+ecoli_REL606	ecoli_REL606__ACT41847.1	ACT41847.1	4570177	4571739	ecoli_REL606__ACT41846.1						ecoli_REL606__ACT41848.1	BLASTP	NZ_CP117568.1	1675463	1676377		False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41852.1	ACT41852.1	4576060	4576440	ecoli_REL606__ACT41851.1						ecoli_REL606__ACT41853.1						False			both_flanks_not_mapped
+ecoli_REL606	ecoli_REL606__ACT41853.1	ACT41853.1	4576450	4577301	ecoli_REL606__ACT41852.1						ecoli_REL606__ACT41854.1	BLASTP	NZ_CP117568.1	436692	438179	puuC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052604.1	NP_052604.1	413	736							ecoli_Sakai__NP_052605.1						False			no_flanks_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052605.1	NP_052605.1	971	1351	ecoli_Sakai__NP_052604.1						ecoli_Sakai__NP_052606.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052607.1	NP_052607.1	92527	95223	ecoli_Sakai__NP_052689.1	BLASTP	NZ_CP117568.1	893624	894598	lpxM							False			left_flank_only
+ecoli_Sakai	ecoli_Sakai__NP_052620.1	NP_052620.1	13803	14204	ecoli_Sakai__NP_052619.1	BLASTP	NZ_CP117568.1	2107109	2107918		ecoli_Sakai__NP_052621.1	TBLASTN	NZ_CP117569.1	26652	26981		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_052624.1	NP_052624.1	16612	19608	ecoli_Sakai__NP_052623.1	BLASTP	NZ_CP117568.1	147278	147805		ecoli_Sakai__NP_052625.1	BLASTP	NZ_CP117568.1	41492	43240	msbA	True	right_before_left	104037	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_052632.1	NP_052632.1	26923	27543	ecoli_Sakai__NP_958722.1						ecoli_Sakai__NP_052633.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052633.1	NP_052633.1	27540	28223	ecoli_Sakai__NP_052632.1						ecoli_Sakai__NP_052634.1	BLASTP	NZ_CP117569.1	5415	5633	ccdA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052640.1	NP_052640.1	32837	34003	ecoli_Sakai__NP_052638.1	TBLASTN	NZ_CP117569.1	58377	58661		ecoli_Sakai__NP_052641.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052641.1	NP_052641.1	34003	34974	ecoli_Sakai__NP_052640.1						ecoli_Sakai__NP_052642.1	BLASTP	NZ_CP117569.1	47622	49322	ltrA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052644.1	NP_052644.1	38981	39286	ecoli_Sakai__NP_052643.1	BLASTP	NZ_CP117569.1	44492	45418		ecoli_Sakai__NP_052645.1	BLASTP	NZ_CP117568.1	2435527	2436411	yhdJ	False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_052646.1	NP_052646.1	40162	40716	ecoli_Sakai__NP_958723.1						ecoli_Sakai__NP_052647.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052647.1	NP_052647.1	40762	41538	ecoli_Sakai__NP_052646.1						ecoli_Sakai__NP_052648.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052648.1	NP_052648.1	41411	41983	ecoli_Sakai__NP_052647.1						ecoli_Sakai__NP_052649.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052650.1	NP_052650.1	42428	42850	ecoli_Sakai__NP_052649.1						ecoli_Sakai__NP_052651.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052651.1	NP_052651.1	43157	43546	ecoli_Sakai__NP_052650.1						ecoli_Sakai__NP_052652.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052652.1	NP_052652.1	44034	44264	ecoli_Sakai__NP_052651.1						ecoli_Sakai__NP_052653.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052653.1	NP_052653.1	44316	45677	ecoli_Sakai__NP_052652.1						ecoli_Sakai__NP_052654.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052654.1	NP_052654.1	45724	46287	ecoli_Sakai__NP_052653.1						ecoli_Sakai__NP_052655.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052655.1	NP_052655.1	46373	46828	ecoli_Sakai__NP_052654.1						ecoli_Sakai__NP_052656.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052657.1	NP_052657.1	47938	49896	ecoli_Sakai__NP_958724.1						ecoli_Sakai__NP_052658.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052658.1	NP_052658.1	49951	50385	ecoli_Sakai__NP_052657.1						ecoli_Sakai__NP_052659.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052659.1	NP_052659.1	50382	51143	ecoli_Sakai__NP_052658.1						ecoli_Sakai__NP_052660.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052661.1	NP_052661.1	51715	53688	ecoli_Sakai__NP_052660.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	ecoli_Sakai__NP_052662.1	BLASTP	NZ_CP117568.1	4460098	4461393	tolA	True	left_before_right	701701	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_052664.1	NP_052664.1	55302	55712	ecoli_Sakai__NP_052663.1	TBLASTN	NZ_CP117569.1	4286	4528		ecoli_Sakai__NP_052665.1	BLASTP	NZ_CP117568.1	2083179	2089883		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_052667.1	NP_052667.1	65781	66284	ecoli_Sakai__NP_052666.1	TBLASTN	NZ_CP117569.1	4286	4489		ecoli_Sakai__NP_052669.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052669.1	NP_052669.1	67749	68495	ecoli_Sakai__NP_052667.1						ecoli_Sakai__NP_052670.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052671.1	NP_052671.1	69517	70077	ecoli_Sakai__NP_052670.1						ecoli_Sakai__NP_958725.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052672.1	NP_052672.1	70667	71128	ecoli_Sakai__NP_958725.1						ecoli_Sakai__NP_958726.1	BLASTP	NZ_CP117568.1	4193761	4193979		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052673.1	NP_052673.1	71421	71759	ecoli_Sakai__NP_958726.1	BLASTP	NZ_CP117568.1	4193761	4193979		ecoli_Sakai__NP_052674.1	BLASTP	NZ_CP117569.1	76389	76646		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_052675.1	NP_052675.1	72556	73413	ecoli_Sakai__NP_052674.1	BLASTP	NZ_CP117569.1	76389	76646		ecoli_Sakai__NP_052676.1	BLASTP	NZ_CP117568.1	3618216	3618464		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_052678.1	NP_052678.1	74979	75185	ecoli_Sakai__NP_052677.1	BLASTP	NZ_CP117568.1	3618468	3618743		ecoli_Sakai__NP_052681.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052681.1	NP_052681.1	76062	76526	ecoli_Sakai__NP_052678.1						ecoli_Sakai__NP_052684.1	TBLASTN	NZ_CP117569.1	4319	4927		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_052686.1	NP_052686.1	87222	87659	ecoli_Sakai__NP_958727.1	TBLASTN	NZ_CP117569.1	75522	75755		ecoli_Sakai__NP_052687.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_302948.1	NP_302948.1	243292	243513	ecoli_Sakai__NP_308241.2						ecoli_Sakai__NP_308243.1	BLASTP	NZ_CP117568.1	3986077	3986559		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_303550.1	NP_303550.1	901266	901664	ecoli_Sakai__NP_308843.3	BLASTP	NZ_CP117568.1	1127887	1128630		ecoli_Sakai__NP_308845.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	right_before_left	2652	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_303789.1	NP_303789.1	1162295	1162537	ecoli_Sakai__NP_309082.1	BLASTP	NZ_CP117568.1	1143493	1144566		ecoli_Sakai__NP_309084.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_304285.1	NP_304285.1	1572262	1575504	ecoli_Sakai__NP_309578.2						ecoli_Sakai__NP_309581.1	BLASTP	NZ_CP117568.1	1105388	1105717		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_304527.1	NP_304527.1	1785001	1785222	ecoli_Sakai__NP_309820.1						ecoli_Sakai__NP_309822.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_304549.1	NP_304549.1	1806423	1806680	ecoli_Sakai__NP_309842.1	BLASTP	NZ_CP117568.1	870432	870866		ecoli_Sakai__NP_309845.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_304958.1	NP_304958.1	2209069	2209491	ecoli_Sakai__NP_310251.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	ecoli_Sakai__NP_310257.1	BLASTP	NZ_CP117568.1	1096977	1097246		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_305381.1	NP_305381.1	2613189	2613383	ecoli_Sakai__NP_305380.1						ecoli_Sakai__NP_305382.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_305382.1	NP_305382.1	2613404	2613685	ecoli_Sakai__NP_305381.1						ecoli_Sakai__NP_310677.1	BLASTP	NZ_CP117568.1	937461	938009	pgsA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_305405.1	NP_305405.1	2633875	2635014	ecoli_Sakai__NP_305404.1						ecoli_Sakai__NP_305407.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_305407.1	NP_305407.1	2635833	2636972	ecoli_Sakai__NP_305405.1						ecoli_Sakai__NP_310703.1	BLASTP	NZ_CP117568.1	956943	957257	fliE	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_305741.1	NP_305741.1	2940596	2940772	ecoli_Sakai__NP_311034.1						ecoli_Sakai__NP_311036.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308052.1	NP_308052.1	23330	24751	ecoli_Sakai__NP_308051.1	BLASTP	NZ_CP117568.1	2210537	2211100		ecoli_Sakai__NP_308053.1	BLASTP	NZ_CP117568.1	3766303	3766566	rpsT	True	left_before_right	1555202	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308239.1	NP_308239.1	241872	242168	ecoli_Sakai__YP_009502589.1	BLASTP	NZ_CP117568.1	3983715	3984491		ecoli_Sakai__NP_308240.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308240.1	NP_308240.1	242165	242614	ecoli_Sakai__NP_308239.1						ecoli_Sakai__NP_308241.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308241.2	NP_308241.2	242617	243213	ecoli_Sakai__NP_308240.1						ecoli_Sakai__NP_302948.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308259.1	NP_308259.1	262678	262902	ecoli_Sakai__NP_308258.1	BLASTP	NZ_CP117568.1	4006176	4007642	tssC	ecoli_Sakai__NP_308260.1	BLASTP	NZ_CP117568.1	4007937	4008437	tssB	True	left_before_right	294	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_308270.1	NP_308270.1	275536	275706	ecoli_Sakai__NP_308269.1	BLASTP	NZ_CP117568.1	4012027	4016442		ecoli_Sakai__NP_308271.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308299.1	NP_308299.1	300938	301183	ecoli_Sakai__NP_308297.1	BLASTP	NZ_CP117568.1	4044306	4045559	proA	ecoli_Sakai__NP_308300.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308300.1	NP_308300.1	301423	301812	ecoli_Sakai__NP_308299.1						ecoli_Sakai__NP_308301.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308302.1	NP_308302.1	302754	302954	ecoli_Sakai__NP_308301.1						ecoli_Sakai__NP_308303.1	BLASTP	NZ_CP117568.1	4508071	4508367		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308310.1	NP_308310.1	306452	306862	ecoli_Sakai__NP_308309.1						ecoli_Sakai__NP_308311.1	BLASTP	NZ_CP117568.1	584862	585422		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308312.1	NP_308312.1	307504	308277	ecoli_Sakai__NP_308311.1	BLASTP	NZ_CP117568.1	584862	585422		ecoli_Sakai__NP_308314.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	left_before_right	2088203	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308317.1	NP_308317.1	311992	312408	ecoli_Sakai__NP_308316.1	BLASTP	NZ_CP117568.1	2859436	2860599		ecoli_Sakai__NP_308318.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308318.1	NP_308318.1	312381	312998	ecoli_Sakai__NP_308317.1						ecoli_Sakai__NP_308319.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308319.1	NP_308319.1	312998	313456	ecoli_Sakai__NP_308318.1						ecoli_Sakai__NP_308323.1	BLASTP	NZ_CP117568.1	3170330	3170548	ogrK	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308328.1	NP_308328.1	319001	319222	ecoli_Sakai__NP_308327.1	BLASTP	NZ_CP117568.1	2865903	2866493		ecoli_Sakai__NP_308329.1	BLASTP	NZ_CP117568.1	2867357	2867677		True	left_before_right	863	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_308331.1	NP_308331.1	322025	322981	ecoli_Sakai__NP_308330.1	BLASTP	NZ_CP117568.1	2867692	2870025		ecoli_Sakai__NP_308332.2	BLASTP	NZ_CP117568.1	4060965	4061858		True	left_before_right	1190939	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308334.1	NP_308334.1	325544	325822	ecoli_Sakai__NP_308333.1	BLASTP	NZ_CP117568.1	614154	614900	ydfG	ecoli_Sakai__NP_308336.1	BLASTP	NZ_CP117568.1	4060965	4061858		True	left_before_right	3446064	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308361.1	NP_308361.1	352242	352598	ecoli_Sakai__NP_308360.1	BLASTP	NZ_CP117568.1	427522	428451		ecoli_Sakai__NP_308362.1	BLASTP	NZ_CP117568.1	2168577	2169404	dkgA	True	left_before_right	1740125	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308377.1	NP_308377.1	368427	369521	ecoli_Sakai__NP_308376.2	BLASTP	NZ_CP117568.1	4100179	4103049		ecoli_Sakai__NP_308378.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308378.1	NP_308378.1	369563	370324	ecoli_Sakai__NP_308377.1						ecoli_Sakai__NP_308379.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308379.2	NP_308379.2	371105	371272	ecoli_Sakai__NP_308378.1						ecoli_Sakai__NP_303089.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308426.1	NP_308426.1	424324	425277	ecoli_Sakai__NP_308425.4	BLASTP	NZ_CP117568.1	2973010	2974002	rbsR	ecoli_Sakai__NP_308427.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308427.2	NP_308427.2	425297	426073	ecoli_Sakai__NP_308426.1						ecoli_Sakai__NP_308428.3	BLASTP	NZ_CP117568.1	2745707	2746522	yiaJ	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308481.1	NP_308481.1	486502	487947	ecoli_Sakai__NP_308480.3	BLASTP	NZ_CP117568.1	4129913	4131730	malZ	ecoli_Sakai__NP_308482.1	BLASTP	NZ_CP117568.1	4131735	4132316	acpH	True	left_before_right	4	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_308488.1	NP_308488.1	494257	494499	ecoli_Sakai__NP_308487.1	BLASTP	NZ_CP117568.1	4137028	4137999	secF	ecoli_Sakai__NP_308489.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308489.1	NP_308489.1	494492	494773	ecoli_Sakai__NP_308488.1						ecoli_Sakai__NP_308490.1	BLASTP	NZ_CP117568.1	4138127	4138474	yajD	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308568.1	NP_308568.1	581354	585739	ecoli_Sakai__NP_308567.1	BLASTP	NZ_CP117568.1	2200867	2202348	tolC	ecoli_Sakai__NP_308569.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308569.1	NP_308569.1	585947	601822	ecoli_Sakai__NP_308568.1						ecoli_Sakai__NP_308570.2	BLASTP	NZ_CP117568.1	4655355	4657076	cydC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308571.1	NP_308571.1	603985	605160	ecoli_Sakai__NP_308570.2	BLASTP	NZ_CP117568.1	4655355	4657076	cydC	ecoli_Sakai__NP_308572.1	BLASTP	NZ_CP117568.1	4227099	4227506	cueR	True	right_before_left	427848	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308573.1	NP_308573.1	605768	606190	ecoli_Sakai__NP_308572.1	BLASTP	NZ_CP117568.1	4227099	4227506	cueR	ecoli_Sakai__NP_308575.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308575.1	NP_308575.1	606275	607291	ecoli_Sakai__NP_308573.1						ecoli_Sakai__NP_308576.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308576.1	NP_308576.1	607658	608020	ecoli_Sakai__NP_308575.1						ecoli_Sakai__NP_308578.2	BLASTP	NZ_CP117568.1	4228833	4229291		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308630.1	NP_308630.1	666201	667535	ecoli_Sakai__NP_308629.1	TBLASTN	NZ_CP117568.1	807708	808391		ecoli_Sakai__NP_308631.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308631.1	NP_308631.1	667704	668111	ecoli_Sakai__NP_308630.1						ecoli_Sakai__NP_308632.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308633.1	NP_308633.1	672999	673460	ecoli_Sakai__NP_308632.1						ecoli_Sakai__NP_308634.1	BLASTP	NZ_CP117568.1	4009810	4011951		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308786.1	NP_308786.1	846933	847250	ecoli_Sakai__NP_308785.3	BLASTP	NZ_CP117568.1	3391170	3392483	gltP	ecoli_Sakai__NP_308787.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308787.1	NP_308787.1	847247	848617	ecoli_Sakai__NP_308786.1						ecoli_Sakai__NP_308788.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308788.1	NP_308788.1	848621	849862	ecoli_Sakai__NP_308787.1						ecoli_Sakai__NP_308789.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308789.1	NP_308789.1	849862	851307	ecoli_Sakai__NP_308788.1						ecoli_Sakai__NP_308790.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308790.1	NP_308790.1	851326	852714	ecoli_Sakai__NP_308789.1						ecoli_Sakai__NP_308791.1	BLASTP	NZ_CP117568.1	3303296	3306979	metH	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308791.1	NP_308791.1	852714	853163	ecoli_Sakai__NP_308790.1						ecoli_Sakai__NP_308793.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308793.1	NP_308793.1	853711	854133	ecoli_Sakai__NP_308791.1	BLASTP	NZ_CP117568.1	3303296	3306979	metH	ecoli_Sakai__NP_308794.1	BLASTP	NZ_CP117568.1	4453465	4454409		True	left_before_right	1146485	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308829.1	NP_308829.1	892499	892666	ecoli_Sakai__NP_308827.1	BLASTP	NZ_CP117568.1	4496271	4497554		ecoli_Sakai__NP_308831.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308831.2	NP_308831.2	892909	893511	ecoli_Sakai__NP_308829.1						ecoli_Sakai__NP_308832.1	BLASTP	NZ_CP117568.1	1141241	1141462		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308841.1	NP_308841.1	897891	898850	ecoli_Sakai__NP_308840.1	BLASTP	NZ_CP117568.1	1129503	1130168		ecoli_Sakai__NP_308842.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308842.1	NP_308842.1	899325	900014	ecoli_Sakai__NP_308841.1						ecoli_Sakai__NP_308843.3	BLASTP	NZ_CP117568.1	1127887	1128630		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308849.1	NP_308849.1	902971	903123	ecoli_Sakai__NP_308848.1						ecoli_Sakai__NP_308851.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308851.1	NP_308851.1	903798	904289	ecoli_Sakai__NP_308849.1						ecoli_Sakai__NP_308852.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308853.2	NP_308853.2	906528	907652	ecoli_Sakai__NP_308852.1						ecoli_Sakai__NP_308856.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308856.2	NP_308856.2	908054	910081	ecoli_Sakai__NP_308853.2						ecoli_Sakai__NP_308857.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308857.2	NP_308857.2	910168	910491	ecoli_Sakai__NP_308856.2						ecoli_Sakai__NP_308858.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308858.1	NP_308858.1	910484	910759	ecoli_Sakai__NP_308857.2						ecoli_Sakai__NP_308859.1	BLASTP	NZ_CP117568.1	1110271	1110804		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308874.2	NP_308874.2	925636	926655	ecoli_Sakai__NP_308873.1	BLASTP	NZ_CP117568.1	3622429	3623418		ecoli_Sakai__NP_308875.1	BLASTP	NZ_CP117568.1	4539934	4540821	nleH	True	left_before_right	916515	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_308877.1	NP_308877.1	928595	929293	ecoli_Sakai__NP_308876.1						ecoli_Sakai__NP_308878.1	BLASTP	NZ_CP117568.1	4542286	4542762		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308903.1	NP_308903.1	955215	957227	ecoli_Sakai__NP_308902.1	BLASTP	NZ_CP117568.1	4565838	4567199	rhlE	ecoli_Sakai__NP_308904.1	BLASTP	NZ_CP117568.1	4567737	4569887	dinG	True	left_before_right	537	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_308976.1	NP_308976.1	1033689	1034930	ecoli_Sakai__NP_308975.1	BLASTP	NZ_CP117568.1	4631417	4631932		ecoli_Sakai__NP_308977.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_308977.2	NP_308977.2	1035205	1035495	ecoli_Sakai__NP_308976.1						ecoli_Sakai__NP_308979.1	BLASTP	NZ_CP117568.1	4632058	4632381		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309088.1	NP_309088.1	1166120	1166305	ecoli_Sakai__NP_309086.1						ecoli_Sakai__NP_309090.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309094.1	NP_309094.1	1167456	1167743	ecoli_Sakai__NP_309092.1						ecoli_Sakai__NP_309095.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309095.1	NP_309095.1	1167743	1167934	ecoli_Sakai__NP_309094.1						ecoli_Sakai__NP_309096.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309097.1	NP_309097.1	1168472	1168744	ecoli_Sakai__NP_309096.2						ecoli_Sakai__NP_309098.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309100.1	NP_309100.1	1169894	1170985	ecoli_Sakai__YP_009502597.1						ecoli_Sakai__NP_309101.1	BLASTP	NZ_CP117568.1	3703077	3703814	dnaC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309104.1	NP_309104.1	1173311	1174084	ecoli_Sakai__NP_309103.1						ecoli_Sakai__NP_303812.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309112.1	NP_309112.1	1177238	1178056	ecoli_Sakai__NP_309111.1	BLASTP	NZ_CP117568.1	4514831	4515349		ecoli_Sakai__NP_309113.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309113.1	NP_309113.1	1178343	1178582	ecoli_Sakai__NP_309112.1						ecoli_Sakai__NP_309114.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309125.2	NP_309125.2	1185641	1185913	ecoli_Sakai__NP_309123.1	BLASTP	NZ_CP117568.1	1121149	1121682		ecoli_Sakai__NP_309127.1	BLASTP	NZ_CP117568.1	1124935	1125234		True	left_before_right	3252	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309128.1	NP_309128.1	1187126	1187401	ecoli_Sakai__NP_309127.1	BLASTP	NZ_CP117568.1	1124935	1125234		ecoli_Sakai__NP_309129.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_309189.2	NP_309189.2	1247915	1248214	ecoli_Sakai__NP_309188.1						ecoli_Sakai__NP_309190.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309191.1	NP_309191.1	1248563	1249186	ecoli_Sakai__NP_309190.2						ecoli_Sakai__NP_309192.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309192.1	NP_309192.1	1249190	1249477	ecoli_Sakai__NP_309191.1						ecoli_Sakai__NP_309193.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309193.1	NP_309193.1	1249479	1249697	ecoli_Sakai__NP_309192.1						ecoli_Sakai__NP_309194.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309194.2	NP_309194.2	1249699	1249914	ecoli_Sakai__NP_309193.1						ecoli_Sakai__NP_309195.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309195.2	NP_309195.2	1249916	1250104	ecoli_Sakai__NP_309194.2						ecoli_Sakai__NP_309196.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309196.1	NP_309196.1	1250256	1251029	ecoli_Sakai__NP_309195.2						ecoli_Sakai__NP_309197.1	BLASTP	NZ_CP117568.1	1141241	1141462		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309207.1	NP_309207.1	1254720	1254971	ecoli_Sakai__NP_309206.1	BLASTP	NZ_CP117568.1	1137951	1138319		ecoli_Sakai__NP_309208.1	BLASTP	NZ_CP117568.1	1136975	1137247		True	right_before_left	703	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309211.1	NP_309211.1	1256031	1256552	ecoli_Sakai__YP_009502599.1	TBLASTN	NZ_CP117568.1	1136854	1136994		ecoli_Sakai__NP_309212.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309213.1	NP_309213.1	1257825	1258040	ecoli_Sakai__NP_309212.2						ecoli_Sakai__NP_309214.1	BLASTP	NZ_CP117568.1	4508071	4508367		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309216.1	NP_309216.1	1258650	1259549	ecoli_Sakai__NP_309215.1	BLASTP	NZ_CP117568.1	4508400	4508546		ecoli_Sakai__NP_309217.2	BLASTP	NZ_CP117568.1	3349081	3350496	dnaB	True	right_before_left	1157903	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309218.1	NP_309218.1	1260975	1261244	ecoli_Sakai__NP_309217.2	BLASTP	NZ_CP117568.1	3349081	3350496	dnaB	ecoli_Sakai__NP_309219.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309219.1	NP_309219.1	1261315	1261593	ecoli_Sakai__NP_309218.1						ecoli_Sakai__NP_309220.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309220.1	NP_309220.1	1261726	1261941	ecoli_Sakai__NP_309219.1						ecoli_Sakai__NP_309221.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309221.1	NP_309221.1	1261952	1262188	ecoli_Sakai__NP_309220.1						ecoli_Sakai__NP_309222.1	BLASTP	NZ_CP117568.1	4512491	4512931		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309226.1	NP_309226.1	1263569	1264303	ecoli_Sakai__NP_309223.1	BLASTP	NZ_CP117568.1	1131293	1131820		ecoli_Sakai__NP_309227.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309227.1	NP_309227.1	1264378	1265100	ecoli_Sakai__NP_309226.1						ecoli_Sakai__NP_309228.1	BLASTP	NZ_CP117568.1	1130349	1130954		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309232.1	NP_309232.1	1267107	1268066	ecoli_Sakai__NP_309230.1	BLASTP	NZ_CP117568.1	4514831	4515349		ecoli_Sakai__NP_309233.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309233.1	NP_309233.1	1268078	1268347	ecoli_Sakai__NP_309232.1						ecoli_Sakai__NP_309234.1	BLASTP	NZ_CP117568.1	1125456	1127309		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309237.1	NP_309237.1	1272220	1272399	ecoli_Sakai__YP_009502600.1	BLASTP	NZ_CP117568.1	1125456	1127309		ecoli_Sakai__NP_309238.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309238.2	NP_309238.2	1272440	1272712	ecoli_Sakai__NP_309237.1						ecoli_Sakai__NP_309239.1	BLASTP	NZ_CP117568.1	1124935	1125234		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309245.3	NP_309245.3	1275475	1275678	ecoli_Sakai__NP_309244.1	BLASTP	NZ_CP117568.1	279800	280093	iss	ecoli_Sakai__NP_309246.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309246.1	NP_309246.1	1275734	1276540	ecoli_Sakai__NP_309245.3						ecoli_Sakai__NP_309247.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309247.1	NP_309247.1	1276521	1278227	ecoli_Sakai__NP_309246.1						ecoli_Sakai__NP_309248.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309248.1	NP_309248.1	1278227	1280371	ecoli_Sakai__NP_309247.1						ecoli_Sakai__NP_309249.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309249.1	NP_309249.1	1280529	1281536	ecoli_Sakai__NP_309248.1						ecoli_Sakai__NP_309250.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309250.1	NP_309250.1	1281560	1282774	ecoli_Sakai__NP_309249.1						ecoli_Sakai__NP_309251.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309251.1	NP_309251.1	1282830	1283219	ecoli_Sakai__NP_309250.1						ecoli_Sakai__NP_309252.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309252.1	NP_309252.1	1283269	1283730	ecoli_Sakai__NP_309251.1						ecoli_Sakai__NP_309253.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309253.1	NP_309253.1	1283714	1284277	ecoli_Sakai__NP_309252.1						ecoli_Sakai__NP_309254.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309254.1	NP_309254.1	1284277	1284927	ecoli_Sakai__NP_309253.1						ecoli_Sakai__NP_309255.1	BLASTP	NZ_CP117568.1	1097248	1098561		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309257.2	NP_309257.2	1287272	1287460	ecoli_Sakai__NP_309256.1	BLASTP	NZ_CP117568.1	1096977	1097246		ecoli_Sakai__NP_309259.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309259.2	NP_309259.2	1287755	1289380	ecoli_Sakai__NP_309257.2						ecoli_Sakai__NP_309260.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309260.1	NP_309260.1	1289377	1290645	ecoli_Sakai__NP_309259.2						ecoli_Sakai__NP_309261.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309261.1	NP_309261.1	1290660	1290938	ecoli_Sakai__NP_309260.1						ecoli_Sakai__NP_309262.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309262.1	NP_309262.1	1290944	1291561	ecoli_Sakai__NP_309261.1						ecoli_Sakai__NP_309263.1	BLASTP	NZ_CP117568.1	1098621	1099220		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309264.1	NP_309264.1	1292816	1293217	ecoli_Sakai__NP_309263.1	BLASTP	NZ_CP117568.1	1098621	1099220		ecoli_Sakai__NP_309265.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309265.1	NP_309265.1	1293311	1293967	ecoli_Sakai__NP_309264.1						ecoli_Sakai__NP_309266.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309266.1	NP_309266.1	1293970	1294416	ecoli_Sakai__NP_309265.1						ecoli_Sakai__NP_309267.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309267.1	NP_309267.1	1294426	1294677	ecoli_Sakai__NP_309266.1						ecoli_Sakai__NP_309268.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309268.1	NP_309268.1	1294688	1295953	ecoli_Sakai__NP_309267.1						ecoli_Sakai__NP_309269.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309269.1	NP_309269.1	1296023	1304404	ecoli_Sakai__NP_309268.1						ecoli_Sakai__NP_309271.1	BLASTP	NZ_CP117568.1	2192622	2193014	ygiW	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309273.1	NP_309273.1	1305865	1306260	ecoli_Sakai__NP_309272.1	BLASTP	NZ_CP117568.1	3758244	3758396	mokC	ecoli_Sakai__NP_309274.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309274.1	NP_309274.1	1306260	1306919	ecoli_Sakai__NP_309273.1						ecoli_Sakai__NP_309275.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309275.1	NP_309275.1	1306940	1307158	ecoli_Sakai__NP_309274.1						ecoli_Sakai__NP_309276.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309289.1	NP_309289.1	1321924	1323267	ecoli_Sakai__NP_309288.1	BLASTP	NZ_CP117568.1	137343	138851	putP	ecoli_Sakai__NP_309290.1	BLASTP	NZ_CP117568.1	139071	139901	efeU	True	left_before_right	219	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309304.1	NP_309304.1	1342747	1344081	ecoli_Sakai__NP_309303.2	BLASTP	NZ_CP117568.1	3900008	3900733		ecoli_Sakai__NP_309305.1	BLASTP	NZ_CP117568.1	3638212	3640848		True	right_before_left	259159	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309308.1	NP_309308.1	1348062	1348685	ecoli_Sakai__NP_309307.1	BLASTP	NZ_CP117568.1	3636227	3636781	fimA	ecoli_Sakai__NP_309309.2	TBLASTN	NZ_CP117568.1	147962	151087		True	right_before_left	3485139	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309313.1	NP_309313.1	1356759	1357307	ecoli_Sakai__NP_309312.2	BLASTP	NZ_CP117568.1	214859	215593	fabG	ecoli_Sakai__NP_309314.3						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309314.3	NP_309314.3	1357329	1357610	ecoli_Sakai__NP_309313.1						ecoli_Sakai__NP_309315.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309316.1	NP_309316.1	1358880	1361438	ecoli_Sakai__NP_309315.1						ecoli_Sakai__NP_309317.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309317.2	NP_309317.2	1361443	1362666	ecoli_Sakai__NP_309316.1						ecoli_Sakai__NP_309318.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309318.2	NP_309318.2	1362663	1363616	ecoli_Sakai__NP_309317.2						ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209	238910	lolD	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309320.1	NP_309320.1	1364318	1364974	ecoli_Sakai__NP_309319.1	BLASTP	NZ_CP117568.1	238209	238910	lolD	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910	240154	lolE	True	left_before_right	0	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309322.1	NP_309322.1	1366294	1367082	ecoli_Sakai__NP_309321.1	BLASTP	NZ_CP117568.1	238910	240154	lolE	ecoli_Sakai__NP_309323.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309323.1	NP_309323.1	1367079	1368467	ecoli_Sakai__NP_309322.1						ecoli_Sakai__NP_309324.2	BLASTP	NZ_CP117568.1	213917	214846	fabD	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309327.1	NP_309327.1	1372161	1373978	ecoli_Sakai__NP_309326.1	BLASTP	NZ_CP117568.1	1724780	1726021		ecoli_Sakai__NP_309329.1	BLASTP	NZ_CP117568.1	1746482	1746721		True	left_before_right	20460	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309331.1	NP_309331.1	1378235	1378798	ecoli_Sakai__NP_309330.1	TBLASTN	NZ_CP117568.1	1752433	1753374		ecoli_Sakai__NP_309332.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309332.1	NP_309332.1	1378953	1381313	ecoli_Sakai__NP_309331.1						ecoli_Sakai__NP_309334.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309339.2	NP_309339.2	1385840	1386379	ecoli_Sakai__NP_309338.1	TBLASTN	NZ_CP117569.1	4256	4921		ecoli_Sakai__NP_309340.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309340.1	NP_309340.1	1386427	1386678	ecoli_Sakai__NP_309339.2						ecoli_Sakai__NP_309341.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309341.1	NP_309341.1	1386702	1386992	ecoli_Sakai__NP_309340.1						ecoli_Sakai__NP_309343.1	BLASTP	NZ_CP117568.1	3335697	3336065	dgkA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309346.1	NP_309346.1	1389974	1390249	ecoli_Sakai__NP_309344.2	BLASTP	NZ_CP117568.1	3414630	3416273	eptA	ecoli_Sakai__NP_309348.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309348.2	NP_309348.2	1390630	1391328	ecoli_Sakai__NP_309346.1						ecoli_Sakai__NP_309349.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309349.1	NP_309349.1	1391419	1391721	ecoli_Sakai__NP_309348.2						ecoli_Sakai__NP_309350.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309350.1	NP_309350.1	1391730	1392050	ecoli_Sakai__NP_309349.1						ecoli_Sakai__NP_309351.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309351.2	NP_309351.2	1392043	1393746	ecoli_Sakai__NP_309350.1						ecoli_Sakai__NP_309352.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309352.1	NP_309352.1	1393756	1394220	ecoli_Sakai__NP_309351.2						ecoli_Sakai__NP_309353.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309353.1	NP_309353.1	1394221	1394895	ecoli_Sakai__NP_309352.1						ecoli_Sakai__NP_309354.1	BLASTP	NZ_CP117568.1	1826337	1827209	hypB	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309360.1	NP_309360.1	1398313	1398984	ecoli_Sakai__NP_309357.1	BLASTP	NZ_CP117568.1	1758650	1758916		ecoli_Sakai__NP_309363.2	BLASTP	NZ_CP117569.1	50238	51830	tnpC	False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_309369.1	NP_309369.1	1405009	1405338	ecoli_Sakai__NP_309368.2	BLASTP	NZ_CP117569.1	60462	60809	tnpB	ecoli_Sakai__NP_309370.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309370.1	NP_309370.1	1405599	1406066	ecoli_Sakai__NP_309369.1						ecoli_Sakai__NP_309371.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309371.1	NP_309371.1	1406084	1407292	ecoli_Sakai__NP_309370.1						ecoli_Sakai__NP_309372.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309372.1	NP_309372.1	1407303	1408259	ecoli_Sakai__NP_309371.1						ecoli_Sakai__NP_309373.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309373.2	NP_309373.2	1408259	1409338	ecoli_Sakai__NP_309372.1						ecoli_Sakai__NP_309375.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309375.1	NP_309375.1	1409340	1410113	ecoli_Sakai__NP_309373.2						ecoli_Sakai__NP_309376.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309376.1	NP_309376.1	1410106	1411248	ecoli_Sakai__NP_309375.1						ecoli_Sakai__NP_309377.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309377.1	NP_309377.1	1411258	1412316	ecoli_Sakai__NP_309376.1						ecoli_Sakai__NP_309378.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309378.1	NP_309378.1	1412639	1413220	ecoli_Sakai__NP_309377.1						ecoli_Sakai__NP_309379.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309379.2	NP_309379.2	1413220	1414377	ecoli_Sakai__NP_309378.1						ecoli_Sakai__NP_309380.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309380.1	NP_309380.1	1414400	1414855	ecoli_Sakai__NP_309379.2						ecoli_Sakai__NP_309381.1	BLASTP	NZ_CP117568.1	2262776	2263741	alx	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309382.1	NP_309382.1	1415967	1416545	ecoli_Sakai__NP_309381.1	BLASTP	NZ_CP117568.1	2262776	2263741	alx	ecoli_Sakai__NP_309383.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309383.1	NP_309383.1	1416614	1417189	ecoli_Sakai__NP_309382.1						ecoli_Sakai__NP_309385.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309385.1	NP_309385.1	1417611	1417919	ecoli_Sakai__NP_309383.1						ecoli_Sakai__NP_309387.1	BLASTP	NZ_CP117568.1	1247944	1249923	cirA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309389.2	NP_309389.2	1422054	1422272	ecoli_Sakai__NP_309387.1	BLASTP	NZ_CP117568.1	1247944	1249923	cirA	ecoli_Sakai__YP_009502602.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309391.1	NP_309391.1	1424021	1424215	ecoli_Sakai__YP_009502602.1						ecoli_Sakai__NP_309392.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309392.2	NP_309392.2	1424267	1424446	ecoli_Sakai__NP_309391.1						ecoli_Sakai__NP_309393.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309393.1	NP_309393.1	1424535	1424807	ecoli_Sakai__NP_309392.2						ecoli_Sakai__YP_009502603.1	BLASTP	NZ_CP117568.1	1021425	1021643		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309397.1	NP_309397.1	1426299	1427423	ecoli_Sakai__YP_009502603.1	BLASTP	NZ_CP117568.1	1021425	1021643		ecoli_Sakai__NP_309399.2	TBLASTN	NZ_CP117569.1	75121	75390		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_309401.1	NP_309401.1	1428777	1429235	ecoli_Sakai__NP_309400.1	TBLASTN	NZ_CP117569.1	75525	75746		ecoli_Sakai__NP_309403.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309403.1	NP_309403.1	1429693	1430202	ecoli_Sakai__NP_309401.1						ecoli_Sakai__NP_309404.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309404.1	NP_309404.1	1430291	1430914	ecoli_Sakai__NP_309403.1						ecoli_Sakai__NP_309405.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309405.1	NP_309405.1	1431010	1431243	ecoli_Sakai__NP_309404.1						ecoli_Sakai__YP_009502604.1	BLASTP	NZ_CP117568.1	2820889	2821071		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309415.1	NP_309415.1	1439877	1440146	ecoli_Sakai__NP_309414.1	BLASTP	NZ_CP117568.1	4311812	4312441		ecoli_Sakai__NP_309416.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309416.1	NP_309416.1	1440167	1440811	ecoli_Sakai__NP_309415.1						ecoli_Sakai__YP_009502605.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309421.1	NP_309421.1	1442536	1442718	ecoli_Sakai__NP_309420.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	ecoli_Sakai__NP_309422.1	BLASTP	NZ_CP117568.1	1748237	1749121		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_309426.1	NP_309426.1	1450534	1451604	ecoli_Sakai__NP_309425.1						ecoli_Sakai__NP_309428.1	BLASTP	NZ_CP117568.1	1754841	1755659		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309529.1	NP_309529.1	1542854	1543123	ecoli_Sakai__NP_309528.1	BLASTP	NZ_CP117568.1	1143493	1144566		ecoli_Sakai__NP_309530.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309530.2	NP_309530.2	1543185	1543529	ecoli_Sakai__NP_309529.1						ecoli_Sakai__NP_309531.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309531.2	NP_309531.2	1543707	1544222	ecoli_Sakai__NP_309530.2						ecoli_Sakai__NP_309532.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309536.1	NP_309536.1	1546207	1547244	ecoli_Sakai__NP_309535.1						ecoli_Sakai__NP_309537.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309537.2	NP_309537.2	1547276	1547698	ecoli_Sakai__NP_309536.1						ecoli_Sakai__NP_309538.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309539.1	NP_309539.1	1548445	1548762	ecoli_Sakai__NP_309538.1						ecoli_Sakai__NP_309540.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309540.1	NP_309540.1	1548759	1549061	ecoli_Sakai__NP_309539.1						ecoli_Sakai__NP_309541.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309542.1	NP_309542.1	1549322	1549639	ecoli_Sakai__NP_309541.1						ecoli_Sakai__NP_309543.1	BLASTP	NZ_CP117568.1	4500185	4500859		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309544.1	NP_309544.1	1550065	1550256	ecoli_Sakai__NP_309543.1	BLASTP	NZ_CP117568.1	4500185	4500859		ecoli_Sakai__NP_309545.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309545.1	NP_309545.1	1550259	1550846	ecoli_Sakai__NP_309544.1						ecoli_Sakai__YP_009502606.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309555.1	NP_309555.1	1557333	1557515	ecoli_Sakai__NP_309554.1	BLASTP	NZ_CP117568.1	1125456	1127309		ecoli_Sakai__NP_309556.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309556.1	NP_309556.1	1557553	1557822	ecoli_Sakai__NP_309555.1						ecoli_Sakai__NP_309557.1	BLASTP	NZ_CP117568.1	1124935	1125234		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309563.1	NP_309563.1	1560531	1560755	ecoli_Sakai__NP_309562.1						ecoli_Sakai__NP_309565.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309567.1	NP_309567.1	1561609	1561974	ecoli_Sakai__NP_309566.2						ecoli_Sakai__NP_309568.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309568.1	NP_309568.1	1562264	1562827	ecoli_Sakai__NP_309567.1						ecoli_Sakai__NP_309569.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309570.1	NP_309570.1	1564549	1566486	ecoli_Sakai__NP_309569.1						ecoli_Sakai__YP_009502610.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309571.1	NP_309571.1	1566698	1569199	ecoli_Sakai__YP_009502610.1						ecoli_Sakai__NP_309572.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309572.1	NP_309572.1	1569279	1569605	ecoli_Sakai__NP_309571.1						ecoli_Sakai__NP_309573.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309573.1	NP_309573.1	1569615	1569965	ecoli_Sakai__NP_309572.1						ecoli_Sakai__NP_309574.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309574.1	NP_309574.1	1569962	1570408	ecoli_Sakai__NP_309573.1						ecoli_Sakai__NP_309575.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309575.1	NP_309575.1	1570405	1570749	ecoli_Sakai__NP_309574.1						ecoli_Sakai__NP_309576.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309576.1	NP_309576.1	1570808	1571524	ecoli_Sakai__NP_309575.1						ecoli_Sakai__NP_309577.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309577.1	NP_309577.1	1571530	1571904	ecoli_Sakai__NP_309576.1						ecoli_Sakai__NP_309578.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309578.2	NP_309578.2	1572000	1572209	ecoli_Sakai__NP_309577.1						ecoli_Sakai__NP_304285.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309584.1	NP_309584.1	1577330	1578208	ecoli_Sakai__NP_309583.1	BLASTP	NZ_CP117568.1	4533646	4533888		ecoli_Sakai__NP_309585.1	BLASTP	NZ_CP117568.1	1103941	1104684		True	right_before_left	3428961	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309588.1	NP_309588.1	1582242	1585643	ecoli_Sakai__NP_309587.1						ecoli_Sakai__NP_304296.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309603.1	NP_309603.1	1596731	1597474	ecoli_Sakai__NP_309601.1	BLASTP	NZ_CP117568.1	421521	422708		ecoli_Sakai__NP_309604.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309604.1	NP_309604.1	1597500	1597697	ecoli_Sakai__NP_309603.1						ecoli_Sakai__NP_309605.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309605.1	NP_309605.1	1597690	1597875	ecoli_Sakai__NP_309604.1						ecoli_Sakai__NP_309606.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309606.1	NP_309606.1	1597875	1598066	ecoli_Sakai__NP_309605.1						ecoli_Sakai__NP_309607.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309607.1	NP_309607.1	1598056	1598298	ecoli_Sakai__NP_309606.1						ecoli_Sakai__NP_309608.1	TBLASTN	NZ_CP117568.1	2820928	2821161		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309613.1	NP_309613.1	1601103	1601354	ecoli_Sakai__NP_309609.2	BLASTP	NZ_CP117568.1	2824095	2826851		ecoli_Sakai__NP_309614.1	BLASTP	NZ_CP117568.1	3371985	3372521	ssb1	True	left_before_right	545133	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309616.3	NP_309616.3	1602169	1602393	ecoli_Sakai__NP_309615.1	BLASTP	NZ_CP117568.1	2835192	2835479		ecoli_Sakai__NP_309617.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309617.1	NP_309617.1	1602686	1603843	ecoli_Sakai__NP_309616.3						ecoli_Sakai__NP_309618.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309618.2	NP_309618.2	1603883	1604455	ecoli_Sakai__NP_309617.1						ecoli_Sakai__NP_309619.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309619.2	NP_309619.2	1604493	1605668	ecoli_Sakai__NP_309618.2						ecoli_Sakai__NP_309620.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309620.1	NP_309620.1	1605665	1606003	ecoli_Sakai__NP_309619.2						ecoli_Sakai__NP_309621.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309621.1	NP_309621.1	1606000	1606296	ecoli_Sakai__NP_309620.1						ecoli_Sakai__NP_309622.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309622.1	NP_309622.1	1606296	1606736	ecoli_Sakai__NP_309621.1						ecoli_Sakai__NP_309624.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309624.1	NP_309624.1	1607026	1607382	ecoli_Sakai__NP_309622.1						ecoli_Sakai__NP_309625.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309626.1	NP_309626.1	1609041	1609322	ecoli_Sakai__NP_309625.1						ecoli_Sakai__NP_309628.1	BLASTP	NZ_CP117568.1	249985	251445	phoQ	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309647.1	NP_309647.1	1625717	1626406	ecoli_Sakai__YP_009502612.1						ecoli_Sakai__NP_309648.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309648.2	NP_309648.2	1626728	1627033	ecoli_Sakai__NP_309647.1						ecoli_Sakai__NP_309649.1	BLASTP	NZ_CP117568.1	3156370	3156867		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309679.1	NP_309679.1	1653269	1654159	ecoli_Sakai__NP_309678.1	BLASTP	NZ_CP117568.1	3163239	3163817		ecoli_Sakai__NP_309680.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309689.1	NP_309689.1	1659644	1661128	ecoli_Sakai__NP_309687.1	BLASTP	NZ_CP117569.1	50238	51830	tnpC	ecoli_Sakai__NP_309690.1	BLASTP	NZ_CP117568.1	264018	264965		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_309700.2	NP_309700.2	1669168	1669326	ecoli_Sakai__NP_309699.1	BLASTP	NZ_CP117568.1	280314	280715	pliG	ecoli_Sakai__NP_309701.2	BLASTP	NZ_CP117568.1	275067	275360		True	right_before_left	4953	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309789.1	NP_309789.1	1762521	1762754	ecoli_Sakai__NP_309788.1						ecoli_Sakai__NP_309790.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309790.1	NP_309790.1	1762732	1763139	ecoli_Sakai__NP_309789.1						ecoli_Sakai__NP_309791.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309795.1	NP_309795.1	1765234	1766274	ecoli_Sakai__NP_309794.1						ecoli_Sakai__NP_309796.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309796.2	NP_309796.2	1766306	1766728	ecoli_Sakai__NP_309795.1						ecoli_Sakai__YP_009502617.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309805.1	NP_309805.1	1771860	1772390	ecoli_Sakai__NP_309804.1	BLASTP	NZ_CP117568.1	4514287	4514649		ecoli_Sakai__NP_309806.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309806.2	NP_309806.2	1772632	1772829	ecoli_Sakai__NP_309805.1						ecoli_Sakai__NP_309807.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309807.1	NP_309807.1	1772980	1774038	ecoli_Sakai__NP_309806.2						ecoli_Sakai__NP_309808.1	BLASTP	NZ_CP117568.1	1125456	1127309		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309816.1	NP_309816.1	1780079	1780444	ecoli_Sakai__NP_309815.1						ecoli_Sakai__NP_309818.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309818.1	NP_309818.1	1780734	1781297	ecoli_Sakai__NP_309816.1						ecoli_Sakai__NP_309819.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309820.1	NP_309820.1	1783019	1784956	ecoli_Sakai__NP_309819.1						ecoli_Sakai__NP_304527.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309822.1	NP_309822.1	1785168	1787747	ecoli_Sakai__NP_304527.1						ecoli_Sakai__NP_309823.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309823.1	NP_309823.1	1787750	1788076	ecoli_Sakai__NP_309822.1						ecoli_Sakai__NP_309824.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309824.1	NP_309824.1	1788086	1788436	ecoli_Sakai__NP_309823.1						ecoli_Sakai__NP_309825.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309825.1	NP_309825.1	1788433	1788879	ecoli_Sakai__NP_309824.1						ecoli_Sakai__NP_309826.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309826.1	NP_309826.1	1788876	1789220	ecoli_Sakai__NP_309825.1						ecoli_Sakai__NP_309827.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309827.2	NP_309827.2	1789279	1789995	ecoli_Sakai__NP_309826.1						ecoli_Sakai__NP_309828.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309828.1	NP_309828.1	1790001	1790375	ecoli_Sakai__NP_309827.2						ecoli_Sakai__NP_309829.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309829.2	NP_309829.2	1790471	1790680	ecoli_Sakai__NP_309828.1						ecoli_Sakai__NP_309830.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309830.1	NP_309830.1	1790733	1793813	ecoli_Sakai__NP_309829.2						ecoli_Sakai__NP_309831.1	BLASTP	NZ_CP117568.1	1105388	1105717		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309867.1	NP_309867.1	1825903	1827486	ecoli_Sakai__NP_309866.4	BLASTP	NZ_CP117568.1	384893	385513		ecoli_Sakai__NP_309868.1	BLASTP	NZ_CP117568.1	385614	386489	rluB	True	left_before_right	100	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_309971.1	NP_309971.1	1930602	1931390	ecoli_Sakai__NP_309970.1						ecoli_Sakai__NP_309972.1	BLASTP	NZ_CP117568.1	3703077	3703814	dnaC	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309976.1	NP_309976.1	1933471	1933683	ecoli_Sakai__NP_309975.1						ecoli_Sakai__NP_309977.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309977.1	NP_309977.1	1933935	1934198	ecoli_Sakai__NP_309976.1						ecoli_Sakai__NP_309978.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309978.1	NP_309978.1	1934209	1934370	ecoli_Sakai__NP_309977.1						ecoli_Sakai__NP_309980.1	BLASTP	NZ_CP117568.1	3608200	3609324		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309981.1	NP_309981.1	1936245	1937234	ecoli_Sakai__NP_309980.1	BLASTP	NZ_CP117568.1	3608200	3609324		ecoli_Sakai__NP_309982.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309982.1	NP_309982.1	1937234	1938625	ecoli_Sakai__NP_309981.1						ecoli_Sakai__NP_309983.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309983.1	NP_309983.1	1939125	1939724	ecoli_Sakai__NP_309982.1						ecoli_Sakai__NP_309984.1	BLASTP	NZ_CP117568.1	4513475	4513765		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309986.1	NP_309986.1	1941127	1941558	ecoli_Sakai__NP_309985.1	BLASTP	NZ_CP117568.1	4514831	4515349		ecoli_Sakai__NP_309987.2	TBLASTN	NZ_CP117568.1	1127470	1127739		True	right_before_left	3387091	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_309995.1	NP_309995.1	1947377	1947742	ecoli_Sakai__NP_309994.1						ecoli_Sakai__NP_309997.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309997.1	NP_309997.1	1948032	1948595	ecoli_Sakai__NP_309995.1						ecoli_Sakai__NP_309998.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_309999.1	NP_309999.1	1950317	1952254	ecoli_Sakai__NP_309998.1						ecoli_Sakai__YP_009502624.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310001.1	NP_310001.1	1952466	1953830	ecoli_Sakai__YP_009502624.1						ecoli_Sakai__NP_310002.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310002.1	NP_310002.1	1953827	1955050	ecoli_Sakai__NP_310001.1						ecoli_Sakai__NP_310003.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310003.1	NP_310003.1	1955047	1955373	ecoli_Sakai__NP_310002.1						ecoli_Sakai__NP_310004.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310004.1	NP_310004.1	1955383	1955733	ecoli_Sakai__NP_310003.1						ecoli_Sakai__NP_310005.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310005.1	NP_310005.1	1955730	1956176	ecoli_Sakai__NP_310004.1						ecoli_Sakai__NP_310006.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310006.1	NP_310006.1	1956173	1956517	ecoli_Sakai__NP_310005.1						ecoli_Sakai__NP_310007.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310007.1	NP_310007.1	1956586	1957302	ecoli_Sakai__NP_310006.1						ecoli_Sakai__NP_310008.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310008.1	NP_310008.1	1957308	1957682	ecoli_Sakai__NP_310007.1						ecoli_Sakai__NP_310009.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310009.2	NP_310009.2	1957778	1957987	ecoli_Sakai__NP_310008.1						ecoli_Sakai__NP_310010.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310010.1	NP_310010.1	1958039	1961119	ecoli_Sakai__NP_310009.2						ecoli_Sakai__NP_310011.1	BLASTP	NZ_CP117568.1	1105388	1105717		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310033.1	NP_310033.1	1984256	1987291	ecoli_Sakai__NP_310032.2	BLASTP	NZ_CP117568.1	478308	478631		ecoli_Sakai__NP_310034.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310034.2	NP_310034.2	1987511	1989970	ecoli_Sakai__NP_310033.1						ecoli_Sakai__NP_310035.1	BLASTP	NZ_CP117568.1	478854	479714		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310043.1	NP_310043.1	2003076	2003501	ecoli_Sakai__NP_310042.2	BLASTP	NZ_CP117568.1	483064	486966	hrpA	ecoli_Sakai__NP_310044.1	BLASTP	NZ_CP117568.1	488187	488534		True	left_before_right	1220	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310170.2	NP_310170.2	2147598	2148569	ecoli_Sakai__YP_009502627.1						ecoli_Sakai__YP_009502628.1	BLASTP	NZ_CP117568.1	610486	610581	mgtS	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310193.1	NP_310193.1	2169265	2171877	ecoli_Sakai__NP_310192.1	BLASTP	NZ_CP117568.1	1105388	1105717		ecoli_Sakai__NP_310194.1	BLASTP	NZ_CP117568.1	1108286	1108711		True	left_before_right	2568	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310217.1	NP_310217.1	2189050	2189481	ecoli_Sakai__YP_009502630.1	BLASTP	NZ_CP117568.1	1127643	1127801		ecoli_Sakai__NP_310218.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	True	left_before_right	1545824	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_310219.1	NP_310219.1	2190781	2190978	ecoli_Sakai__NP_310218.1	BLASTP	NZ_CP117568.1	2673626	2674354	gadW	ecoli_Sakai__NP_310220.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310228.1	NP_310228.1	2195398	2195709	ecoli_Sakai__NP_310226.1	TBLASTN	NZ_CP117568.1	4499853	4500104		ecoli_Sakai__NP_310229.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310229.1	NP_310229.1	2195702	2195929	ecoli_Sakai__NP_310228.1						ecoli_Sakai__NP_310230.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310230.1	NP_310230.1	2195926	2196207	ecoli_Sakai__NP_310229.1						ecoli_Sakai__NP_310231.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310232.2	NP_310232.2	2196990	2197451	ecoli_Sakai__NP_310231.2						ecoli_Sakai__NP_310233.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310233.1	NP_310233.1	2197444	2198487	ecoli_Sakai__NP_310232.2						ecoli_Sakai__NP_310234.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310235.1	NP_310235.1	2198965	2199207	ecoli_Sakai__NP_310234.1						ecoli_Sakai__NP_310236.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310236.2	NP_310236.2	2199599	2199937	ecoli_Sakai__NP_310235.1						ecoli_Sakai__NP_310237.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310238.1	NP_310238.1	2200394	2201032	ecoli_Sakai__NP_310237.1						ecoli_Sakai__NP_310239.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310239.1	NP_310239.1	2201033	2201242	ecoli_Sakai__NP_310238.1						ecoli_Sakai__NP_310241.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310245.1	NP_310245.1	2204156	2204410	ecoli_Sakai__NP_310242.1						ecoli_Sakai__NP_310246.2	TBLASTN	NZ_CP117569.1	4319	4927		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310248.1	NP_310248.1	2205833	2206702	ecoli_Sakai__NP_310247.1	TBLASTN	NZ_CP117569.1	58377	58661		ecoli_Sakai__NP_310249.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	True	right_before_left	8516	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310267.1	NP_310267.1	2220097	2223339	ecoli_Sakai__NP_310266.1	BLASTP	NZ_CP117568.1	1105388	1105717		ecoli_Sakai__NP_310268.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310268.2	NP_310268.2	2223387	2223596	ecoli_Sakai__NP_310267.1						ecoli_Sakai__NP_310269.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310269.1	NP_310269.1	2223692	2224066	ecoli_Sakai__NP_310268.2						ecoli_Sakai__NP_310270.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310270.1	NP_310270.1	2224081	2224797	ecoli_Sakai__NP_310269.1						ecoli_Sakai__NP_310271.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310271.1	NP_310271.1	2224863	2225207	ecoli_Sakai__NP_310270.1						ecoli_Sakai__NP_310272.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310272.1	NP_310272.1	2225204	2225650	ecoli_Sakai__NP_310271.1						ecoli_Sakai__NP_310273.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310273.1	NP_310273.1	2225647	2225997	ecoli_Sakai__NP_310272.1						ecoli_Sakai__NP_310274.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310274.1	NP_310274.1	2226007	2226333	ecoli_Sakai__NP_310273.1						ecoli_Sakai__NP_310275.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310275.1	NP_310275.1	2226336	2228915	ecoli_Sakai__NP_310274.1						ecoli_Sakai__YP_009502631.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310277.1	NP_310277.1	2229127	2231064	ecoli_Sakai__YP_009502631.1						ecoli_Sakai__NP_310278.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310279.1	NP_310279.1	2232786	2233349	ecoli_Sakai__NP_310278.1						ecoli_Sakai__NP_310281.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310281.1	NP_310281.1	2233639	2234004	ecoli_Sakai__NP_310279.1						ecoli_Sakai__NP_310282.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310292.1	NP_310292.1	2240014	2240442	ecoli_Sakai__YP_009502633.1	BLASTP	NZ_CP117568.1	1127643	1127801		ecoli_Sakai__NP_310294.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310294.1	NP_310294.1	2241082	2241771	ecoli_Sakai__NP_310292.1						ecoli_Sakai__NP_310295.1	BLASTP	NZ_CP117568.1	4514287	4514649		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310299.1	NP_310299.1	2244258	2244842	ecoli_Sakai__NP_310298.1						ecoli_Sakai__NP_310300.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310305.1	NP_310305.1	2248259	2248561	ecoli_Sakai__NP_310304.1						ecoli_Sakai__NP_310306.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310306.2	NP_310306.2	2248659	2249030	ecoli_Sakai__NP_310305.1						ecoli_Sakai__NP_310307.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310307.2	NP_310307.2	2249051	2249242	ecoli_Sakai__NP_310306.2						ecoli_Sakai__NP_310308.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310308.1	NP_310308.1	2249244	2249522	ecoli_Sakai__NP_310307.2						ecoli_Sakai__NP_310309.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310309.2	NP_310309.2	2249953	2250153	ecoli_Sakai__NP_310308.1						ecoli_Sakai__NP_310310.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310645.1	NP_310645.1	2594272	2594619	ecoli_Sakai__NP_310644.1	BLASTP	NZ_CP117568.1	4677560	4678555		ecoli_Sakai__NP_310646.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310646.1	NP_310646.1	2594649	2595299	ecoli_Sakai__NP_310645.1						ecoli_Sakai__NP_310647.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310647.1	NP_310647.1	2595315	2595719	ecoli_Sakai__NP_310646.1						ecoli_Sakai__NP_305354.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310650.1	NP_310650.1	2596243	2596593	ecoli_Sakai__NP_310649.1						ecoli_Sakai__NP_310651.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310651.1	NP_310651.1	2596604	2596882	ecoli_Sakai__NP_310650.1						ecoli_Sakai__NP_310652.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310652.1	NP_310652.1	2596894	2597136	ecoli_Sakai__NP_310651.1						ecoli_Sakai__YP_009502639.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310653.1	NP_310653.1	2597339	2597755	ecoli_Sakai__YP_009502639.1						ecoli_Sakai__NP_310654.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310654.1	NP_310654.1	2597779	2597982	ecoli_Sakai__NP_310653.1						ecoli_Sakai__NP_310655.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310655.1	NP_310655.1	2597979	2598245	ecoli_Sakai__NP_310654.1						ecoli_Sakai__NP_310656.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310656.1	NP_310656.1	2598242	2598541	ecoli_Sakai__NP_310655.1						ecoli_Sakai__NP_310657.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310657.1	NP_310657.1	2598553	2599170	ecoli_Sakai__NP_310656.1						ecoli_Sakai__NP_310658.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310658.1	NP_310658.1	2598864	2599094	ecoli_Sakai__NP_310657.1						ecoli_Sakai__NP_310659.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310659.1	NP_310659.1	2599167	2599532	ecoli_Sakai__NP_310658.1						ecoli_Sakai__NP_310660.2	BLASTP	NZ_CP117568.1	1	2307		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310662.1	NP_310662.1	2603402	2603716	ecoli_Sakai__NP_310661.1	BLASTP	NZ_CP117569.1	8380	9360		ecoli_Sakai__NP_310663.1	TBLASTN	NZ_CP117569.1	4319	4759		True	right_before_left	3620	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310689.1	NP_310689.1	2624516	2626273	ecoli_Sakai__NP_310688.1	BLASTP	NZ_CP117568.1	946260	946979	fliA	ecoli_Sakai__NP_310690.1	BLASTP	NZ_CP117568.1	948905	950305	fliD	True	left_before_right	1925	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310767.3	NP_310767.3	2691871	2692053	ecoli_Sakai__YP_009502641.1						ecoli_Sakai__NP_310768.1	BLASTP	NZ_CP117568.1	1121149	1121682		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310776.1	NP_310776.1	2697291	2697719	ecoli_Sakai__NP_310775.1	BLASTP	NZ_CP117568.1	1127643	1127801		ecoli_Sakai__NP_310777.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310777.1	NP_310777.1	2698353	2699042	ecoli_Sakai__NP_310776.1						ecoli_Sakai__NP_310778.1	BLASTP	NZ_CP117568.1	4514287	4514649		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310783.1	NP_310783.1	2701521	2702084	ecoli_Sakai__NP_310782.1						ecoli_Sakai__NP_310784.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310784.1	NP_310784.1	2702211	2702522	ecoli_Sakai__NP_310783.1						ecoli_Sakai__NP_310785.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310785.2	NP_310785.2	2702519	2702671	ecoli_Sakai__NP_310784.1						ecoli_Sakai__NP_310786.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310786.1	NP_310786.1	2702704	2703060	ecoli_Sakai__NP_310785.2						ecoli_Sakai__NP_310787.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310787.1	NP_310787.1	2703057	2703281	ecoli_Sakai__NP_310786.1						ecoli_Sakai__NP_310788.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310789.2	NP_310789.2	2704036	2704458	ecoli_Sakai__NP_310788.1						ecoli_Sakai__NP_310790.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310790.1	NP_310790.1	2704490	2705527	ecoli_Sakai__NP_310789.2						ecoli_Sakai__NP_310791.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310793.2	NP_310793.2	2706343	2706987	ecoli_Sakai__NP_310792.1						ecoli_Sakai__NP_310794.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310799.1	NP_310799.1	2710894	2711097	ecoli_Sakai__NP_310797.2						ecoli_Sakai__NP_310800.1	BLASTP	NZ_CP117568.1	1143493	1144566		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310823.2	NP_310823.2	2743190	2744089	ecoli_Sakai__NP_310822.2	TBLASTN	NZ_CP117569.1	4319	4927		ecoli_Sakai__NP_310824.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310825.1	NP_310825.1	2744988	2746058	ecoli_Sakai__NP_310824.1						ecoli_Sakai__NP_310826.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310826.1	NP_310826.1	2746194	2746877	ecoli_Sakai__NP_310825.1						ecoli_Sakai__NP_310827.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310827.1	NP_310827.1	2746893	2747303	ecoli_Sakai__NP_310826.1						ecoli_Sakai__NP_310828.1	BLASTP	NZ_CP117568.1	1754841	1755659		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310867.1	NP_310867.1	2781018	2782232	ecoli_Sakai__NP_310866.1	BLASTP	NZ_CP117568.1	1076097	1077182	rfbB	ecoli_Sakai__NP_310868.2	BLASTP	NZ_CP117568.1	1365577	1366716	arnB	True	left_before_right	288394	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_310869.2	NP_310869.2	2783354	2784745	ecoli_Sakai__NP_310868.2	BLASTP	NZ_CP117568.1	1365577	1366716	arnB	ecoli_Sakai__NP_310870.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310871.1	NP_310871.1	2785447	2786631	ecoli_Sakai__NP_310870.1						ecoli_Sakai__NP_310872.1	BLASTP	NZ_CP117568.1	1069621	1070529		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310896.1	NP_310896.1	2815071	2815409	ecoli_Sakai__NP_310895.2	BLASTP	NZ_CP117568.1	1079779	1081362		ecoli_Sakai__NP_310897.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310897.1	NP_310897.1	2815399	2815689	ecoli_Sakai__NP_310896.1						ecoli_Sakai__NP_310898.1	BLASTP	NZ_CP117568.1	1081812	1083665	asmA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310936.1	NP_310936.1	2860593	2860940	ecoli_Sakai__NP_310935.1						ecoli_Sakai__NP_310937.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310937.1	NP_310937.1	2860950	2861264	ecoli_Sakai__NP_310936.1						ecoli_Sakai__NP_310938.1	BLASTP	NZ_CP117568.1	1179454	1179726	rcnR	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310976.1	NP_310976.1	2905284	2907929	ecoli_Sakai__NP_310975.1	BLASTP	NZ_CP117568.1	1105388	1105717		ecoli_Sakai__NP_310977.1	BLASTP	NZ_CP117568.1	1108286	1108711		True	left_before_right	2568	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_310982.1	NP_310982.1	2910541	2910822	ecoli_Sakai__NP_310981.1	BLASTP	NZ_CP117568.1	1110271	1110804		ecoli_Sakai__NP_310983.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310983.1	NP_310983.1	2910815	2911141	ecoli_Sakai__NP_310982.1						ecoli_Sakai__NP_310984.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310984.2	NP_310984.2	2911229	2912269	ecoli_Sakai__NP_310983.1						ecoli_Sakai__NP_310985.1	TBLASTN	NZ_CP117569.1	58377	58661		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310988.1	NP_310988.1	2914511	2916013	ecoli_Sakai__NP_310986.2	TBLASTN	NZ_CP117569.1	4319	4927		ecoli_Sakai__NP_310989.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310989.2	NP_310989.2	2916013	2916225	ecoli_Sakai__NP_310988.1						ecoli_Sakai__NP_310990.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310991.1	NP_310991.1	2918342	2918818	ecoli_Sakai__NP_310990.1						ecoli_Sakai__NP_310993.2	BLASTP	NZ_CP117568.1	1120715	1121152		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310997.1	NP_310997.1	2921565	2921810	ecoli_Sakai__NP_310996.1	BLASTP	NZ_CP117568.1	1124935	1125234		ecoli_Sakai__NP_310998.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_310998.1	NP_310998.1	2921851	2922030	ecoli_Sakai__NP_310997.1						ecoli_Sakai__NP_310999.1	BLASTP	NZ_CP117568.1	1125456	1127309		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311000.1	NP_311000.1	2924625	2924894	ecoli_Sakai__NP_310999.1	BLASTP	NZ_CP117568.1	1125456	1127309		ecoli_Sakai__NP_311001.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311001.1	NP_311001.1	2924904	2925851	ecoli_Sakai__NP_311000.1						ecoli_Sakai__NP_311002.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311006.1	NP_311006.1	2927743	2928144	ecoli_Sakai__NP_311005.1	BLASTP	NZ_CP117568.1	1130947	1131117		ecoli_Sakai__NP_311007.1	BLASTP	NZ_CP117568.1	1131114	1131296		True	left_before_right	0	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_311010.2	NP_311010.2	2929247	2929483	ecoli_Sakai__NP_311009.1	BLASTP	NZ_CP117568.1	4512491	4512931		ecoli_Sakai__YP_009502643.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311011.1	NP_311011.1	2929842	2930120	ecoli_Sakai__YP_009502643.1						ecoli_Sakai__NP_311012.1	BLASTP	NZ_CP117568.1	1132331	1132621		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311016.1	NP_311016.1	2932558	2932776	ecoli_Sakai__NP_311015.1	BLASTP	NZ_CP117568.1	4508071	4508367		ecoli_Sakai__NP_311017.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311018.1	NP_311018.1	2933655	2933936	ecoli_Sakai__NP_311017.2						ecoli_Sakai__NP_311019.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311019.1	NP_311019.1	2933943	2934494	ecoli_Sakai__NP_311018.1						ecoli_Sakai__NP_311021.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311021.1	NP_311021.1	2935007	2935279	ecoli_Sakai__NP_311019.1						ecoli_Sakai__NP_311022.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311022.1	NP_311022.1	2935296	2935877	ecoli_Sakai__NP_311021.1						ecoli_Sakai__NP_311023.1	BLASTP	NZ_CP117568.1	1137951	1138319		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311034.1	NP_311034.1	2939647	2940594	ecoli_Sakai__NP_311033.1	BLASTP	NZ_CP117568.1	1141241	1141462		ecoli_Sakai__NP_305741.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311036.1	NP_311036.1	2941106	2941462	ecoli_Sakai__NP_305741.1						ecoli_Sakai__NP_311037.1	BLASTP	NZ_CP117568.1	4499838	4500188		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311150.1	NP_311150.1	3078148	3079218	ecoli_Sakai__NP_311149.1	BLASTP	NZ_CP117568.1	394142	395116	cysB	ecoli_Sakai__NP_311151.1	BLASTP	NZ_CP117568.1	1349726	1350805	glpQ	True	left_before_right	954609	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_311263.2	NP_311263.2	3197490	3198137	ecoli_Sakai__NP_311261.1	BLASTP	NZ_CP117568.1	2827614	2828075		ecoli_Sakai__NP_311265.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311265.1	NP_311265.1	3198807	3200219	ecoli_Sakai__NP_311263.2						ecoli_Sakai__NP_311266.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311266.1	NP_311266.1	3200406	3200582	ecoli_Sakai__NP_311265.1						ecoli_Sakai__NP_311267.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311270.1	NP_311270.1	3204558	3205991	ecoli_Sakai__NP_311269.1	BLASTP	NZ_CP117568.1	2423704	2424666		ecoli_Sakai__NP_311271.2	BLASTP	NZ_CP117568.1	3196228	3197253	cytR	True	left_before_right	771561	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_311408.1	NP_311408.1	3361281	3362135	ecoli_Sakai__NP_311407.1	BLASTP	NZ_CP117568.1	1607873	1608304	ndk	ecoli_Sakai__NP_311409.1	BLASTP	NZ_CP117568.1	629817	630674		True	right_before_left	977198	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_311514.1	NP_311514.1	3478618	3479676	ecoli_Sakai__NP_311513.1	BLASTP	NZ_CP117568.1	3465960	3466598		ecoli_Sakai__NP_311516.2	BLASTP	NZ_CP117568.1	1096977	1097246		True	right_before_left	2368713	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_311534.2	NP_311534.2	3491828	3493090	ecoli_Sakai__NP_311533.2	TBLASTN	NZ_CP117568.1	1013213	1013362		ecoli_Sakai__NP_311535.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311535.1	NP_311535.1	3493486	3493899	ecoli_Sakai__NP_311534.2						ecoli_Sakai__NP_311536.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311536.1	NP_311536.1	3493997	3494395	ecoli_Sakai__NP_311535.1						ecoli_Sakai__NP_311537.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311537.1	NP_311537.1	3494396	3496027	ecoli_Sakai__NP_311536.1						ecoli_Sakai__NP_311538.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311538.1	NP_311538.1	3496024	3497337	ecoli_Sakai__NP_311537.1						ecoli_Sakai__NP_311539.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311539.1	NP_311539.1	3497339	3498544	ecoli_Sakai__NP_311538.1						ecoli_Sakai__NP_311540.1	BLASTP	NZ_CP117568.1	1021425	1021643		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311544.1	NP_311544.1	3505973	3507322	ecoli_Sakai__NP_311542.2	BLASTP	NZ_CP117568.1	267621	272048		ecoli_Sakai__NP_311545.1	BLASTP	NZ_CP117568.1	1760262	1762478		True	left_before_right	1488213	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_311640.1	NP_311640.1	3602324	3602860	ecoli_Sakai__NP_311639.1						ecoli_Sakai__NP_311641.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311826.1	NP_311826.1	3811666	3812097	ecoli_Sakai__NP_311825.1	BLASTP	NZ_CP117568.1	2042992	2044011	epd	ecoli_Sakai__NP_311827.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311827.1	NP_311827.1	3812120	3812698	ecoli_Sakai__NP_311826.1						ecoli_Sakai__NP_311828.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_311828.1	NP_311828.1	3812699	3813406	ecoli_Sakai__NP_311827.1						ecoli_Sakai__NP_311829.1	BLASTP	NZ_CP117568.1	4182407	4184179		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312288.2	NP_312288.2	4268093	4268371	ecoli_Sakai__NP_312287.1	BLASTP	NZ_CP117568.1	2551308	2554013	malT	ecoli_Sakai__NP_312289.1	BLASTP	NZ_CP117568.1	2601730	2602257	ataT	True	left_before_right	47716	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_312307.2	NP_312307.2	4291637	4292932	ecoli_Sakai__NP_312306.1	BLASTP	NZ_CP117568.1	2580675	2581268	yhgN	ecoli_Sakai__NP_312312.1	BLASTP	NZ_CP117568.1	2581325	2582665	gntU	True	left_before_right	56	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_312318.1	NP_312318.1	4301220	4302131	ecoli_Sakai__NP_312317.1	BLASTP	NZ_CP117568.1	2586732	2587220	yhhY	ecoli_Sakai__NP_312320.1	BLASTP	NZ_CP117568.1	2587283	2589028	ggt	True	left_before_right	62	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_312351.1	NP_312351.1	4332681	4333058	ecoli_Sakai__NP_312350.2	BLASTP	NZ_CP117568.1	2621794	2622843		ecoli_Sakai__NP_312352.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312352.2	NP_312352.2	4333127	4334185	ecoli_Sakai__NP_312351.1						ecoli_Sakai__NP_312353.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312353.2	NP_312353.2	4334226	4334948	ecoli_Sakai__NP_312352.2						ecoli_Sakai__NP_312354.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312354.2	NP_312354.2	4334945	4335766	ecoli_Sakai__NP_312353.2						ecoli_Sakai__NP_312355.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312355.1	NP_312355.1	4335741	4335998	ecoli_Sakai__NP_312354.2						ecoli_Sakai__NP_312356.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312356.1	NP_312356.1	4336010	4336261	ecoli_Sakai__NP_312355.1						ecoli_Sakai__NP_312357.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312357.1	NP_312357.1	4336266	4336847	ecoli_Sakai__NP_312356.1						ecoli_Sakai__NP_312358.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312358.1	NP_312358.1	4336844	4338205	ecoli_Sakai__NP_312357.1						ecoli_Sakai__NP_312359.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312359.1	NP_312359.1	4338192	4338545	ecoli_Sakai__NP_312358.1						ecoli_Sakai__NP_312360.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312360.1	NP_312360.1	4338536	4340212	ecoli_Sakai__NP_312359.1						ecoli_Sakai__NP_312361.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312361.1	NP_312361.1	4340216	4340638	ecoli_Sakai__NP_312360.1						ecoli_Sakai__NP_312362.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312362.1	NP_312362.1	4340635	4341240	ecoli_Sakai__NP_312361.1						ecoli_Sakai__NP_312363.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312363.2	NP_312363.2	4341209	4343527	ecoli_Sakai__NP_312362.1						ecoli_Sakai__NP_312364.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312364.1	NP_312364.1	4343524	4344108	ecoli_Sakai__NP_312363.2						ecoli_Sakai__NP_312365.1	BLASTP	NZ_CP117568.1	216129	217370	fabF	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312366.1	NP_312366.1	4345276	4345740	ecoli_Sakai__NP_312365.1	BLASTP	NZ_CP117568.1	216129	217370	fabF	ecoli_Sakai__NP_312367.1	BLASTP	NZ_CP117568.1	214859	215593	fabG	True	right_before_left	535	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_312624.1	NP_312624.1	4628432	4628785	ecoli_Sakai__NP_312623.3	BLASTP	NZ_CP117568.1	598514	599704	ydeA	ecoli_Sakai__NP_312625.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312625.1	NP_312625.1	4628769	4629092	ecoli_Sakai__NP_312624.1						ecoli_Sakai__NP_312626.2	BLASTP	NZ_CP117568.1	2888559	2889011		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312634.2	NP_312634.2	4638145	4639248	ecoli_Sakai__NP_312633.1	BLASTP	NZ_CP117568.1	2896752	2897342	uhpA	ecoli_Sakai__NP_312635.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312635.1	NP_312635.1	4639264	4639578	ecoli_Sakai__NP_312634.2						ecoli_Sakai__NP_312636.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312636.1	NP_312636.1	4639856	4640338	ecoli_Sakai__NP_312635.1						ecoli_Sakai__NP_312637.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312637.1	NP_312637.1	4640486	4641139	ecoli_Sakai__NP_312636.1						ecoli_Sakai__NP_312638.1	BLASTP	NZ_CP117568.1	2897415	2897705	ilvN	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312680.1	NP_312680.1	4686411	4688819	ecoli_Sakai__NP_312679.1	BLASTP	NZ_CP117568.1	2939257	2939922	yieH	ecoli_Sakai__NP_307391.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312775.1	NP_312775.1	4799382	4799681	ecoli_Sakai__NP_312774.1						ecoli_Sakai__NP_312776.1	BLASTP	NZ_CP117568.1	3042129	3043019	rarD	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312970.1	NP_312970.1	5041220	5041750	ecoli_Sakai__NP_312968.1	BLASTP	NZ_CP117568.1	3310716	3311945	sorE	ecoli_Sakai__NP_312971.1	BLASTP	NZ_CP117568.1	2353321	2353599	sfsB	True	right_before_left	957116	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_312972.1	NP_312972.1	5042191	5044281	ecoli_Sakai__NP_312971.1	BLASTP	NZ_CP117568.1	2353321	2353599	sfsB	ecoli_Sakai__NP_312973.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312973.1	NP_312973.1	5044352	5045284	ecoli_Sakai__NP_312972.1						ecoli_Sakai__NP_312974.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312974.1	NP_312974.1	5045287	5045508	ecoli_Sakai__NP_312973.1						ecoli_Sakai__NP_312975.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312975.1	NP_312975.1	5045521	5045775	ecoli_Sakai__NP_312974.1						ecoli_Sakai__NP_312976.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312976.1	NP_312976.1	5045777	5046058	ecoli_Sakai__NP_312975.1						ecoli_Sakai__NP_312977.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312977.1	NP_312977.1	5046055	5046327	ecoli_Sakai__NP_312976.1						ecoli_Sakai__NP_312978.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312978.1	NP_312978.1	5046332	5046625	ecoli_Sakai__NP_312977.1						ecoli_Sakai__NP_312979.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312979.1	NP_312979.1	5046637	5047167	ecoli_Sakai__NP_312978.1						ecoli_Sakai__NP_312980.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312980.1	NP_312980.1	5047265	5047807	ecoli_Sakai__NP_312979.1						ecoli_Sakai__NP_312981.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312981.1	NP_312981.1	5047811	5048344	ecoli_Sakai__NP_312980.1						ecoli_Sakai__NP_312982.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312982.1	NP_312982.1	5048344	5048859	ecoli_Sakai__NP_312981.1						ecoli_Sakai__NP_312983.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312983.2	NP_312983.2	5048863	5049414	ecoli_Sakai__NP_312982.1						ecoli_Sakai__YP_009502669.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312984.2	NP_312984.2	5049635	5049967	ecoli_Sakai__YP_009502669.1						ecoli_Sakai__NP_312985.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312985.1	NP_312985.1	5049960	5050157	ecoli_Sakai__NP_312984.2						ecoli_Sakai__NP_312986.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312986.1	NP_312986.1	5050147	5050443	ecoli_Sakai__NP_312985.1						ecoli_Sakai__NP_312987.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312987.1	NP_312987.1	5050440	5050949	ecoli_Sakai__NP_312986.1						ecoli_Sakai__NP_312988.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312988.1	NP_312988.1	5051019	5051444	ecoli_Sakai__NP_312987.1						ecoli_Sakai__NP_312989.1	BLASTP	NZ_CP117568.1	4516599	4517096	rrrD	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312990.2	NP_312990.2	5052051	5052479	ecoli_Sakai__NP_312989.1	BLASTP	NZ_CP117568.1	4516599	4517096	rrrD	ecoli_Sakai__NP_312992.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312992.1	NP_312992.1	5052691	5052918	ecoli_Sakai__NP_312990.2						ecoli_Sakai__NP_312993.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312993.1	NP_312993.1	5052899	5053207	ecoli_Sakai__NP_312992.1						ecoli_Sakai__NP_312994.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312994.1	NP_312994.1	5053204	5053494	ecoli_Sakai__NP_312993.1						ecoli_Sakai__NP_312995.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312995.1	NP_312995.1	5053497	5054078	ecoli_Sakai__NP_312994.1						ecoli_Sakai__NP_312996.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312996.1	NP_312996.1	5054078	5055742	ecoli_Sakai__NP_312995.1						ecoli_Sakai__NP_312997.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312997.2	NP_312997.2	5055742	5057331	ecoli_Sakai__NP_312996.1						ecoli_Sakai__NP_312998.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312998.1	NP_312998.1	5057315	5058640	ecoli_Sakai__NP_312997.2						ecoli_Sakai__NP_312999.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_312999.1	NP_312999.1	5058759	5059232	ecoli_Sakai__NP_312998.1						ecoli_Sakai__NP_313000.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313000.1	NP_313000.1	5059409	5060533	ecoli_Sakai__NP_312999.1						ecoli_Sakai__NP_313001.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313001.1	NP_313001.1	5060533	5061480	ecoli_Sakai__NP_313000.1						ecoli_Sakai__NP_313002.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313002.1	NP_313002.1	5061524	5061910	ecoli_Sakai__NP_313001.1						ecoli_Sakai__NP_313003.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313003.1	NP_313003.1	5061907	5062326	ecoli_Sakai__NP_313002.1						ecoli_Sakai__NP_313004.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313004.1	NP_313004.1	5062323	5062883	ecoli_Sakai__NP_313003.1						ecoli_Sakai__NP_313005.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313005.1	NP_313005.1	5062884	5063129	ecoli_Sakai__NP_313004.1						ecoli_Sakai__NP_313006.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313006.1	NP_313006.1	5063126	5064628	ecoli_Sakai__NP_313005.1						ecoli_Sakai__NP_313007.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313007.1	NP_313007.1	5064637	5065002	ecoli_Sakai__NP_313006.1						ecoli_Sakai__NP_313008.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313008.1	NP_313008.1	5065017	5065493	ecoli_Sakai__NP_313007.1						ecoli_Sakai__NP_313009.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313009.1	NP_313009.1	5065620	5067695	ecoli_Sakai__NP_313008.1						ecoli_Sakai__NP_313010.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313010.2	NP_313010.2	5067682	5069031	ecoli_Sakai__NP_313009.1						ecoli_Sakai__NP_313011.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313011.1	NP_313011.1	5069015	5070139	ecoli_Sakai__NP_313010.2						ecoli_Sakai__NP_313012.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313012.2	NP_313012.2	5070129	5070743	ecoli_Sakai__NP_313011.1						ecoli_Sakai__NP_313013.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313013.1	NP_313013.1	5070736	5071173	ecoli_Sakai__NP_313012.2						ecoli_Sakai__NP_313014.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313016.1	NP_313016.1	5072806	5073717	ecoli_Sakai__NP_313015.1						ecoli_Sakai__NP_313017.1	BLASTP	NZ_CP117568.1	18349	18876		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313021.1	NP_313021.1	5077624	5077806	ecoli_Sakai__NP_313020.1	BLASTP	NZ_CP117568.1	1125456	1127309		ecoli_Sakai__NP_313022.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313022.1	NP_313022.1	5077842	5078087	ecoli_Sakai__NP_313021.1						ecoli_Sakai__NP_313023.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313023.2	NP_313023.2	5078126	5078590	ecoli_Sakai__NP_313022.1						ecoli_Sakai__NP_313024.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313024.1	NP_313024.1	5078705	5078905	ecoli_Sakai__NP_313023.2						ecoli_Sakai__NP_313025.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313025.1	NP_313025.1	5078859	5079596	ecoli_Sakai__NP_313024.1						ecoli_Sakai__NP_313027.1	BLASTP	NZ_CP117568.1	3312832	3313629		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313097.1	NP_313097.1	5162277	5162960	ecoli_Sakai__NP_313096.1	BLASTP	NZ_CP117568.1	2428164	2429018		ecoli_Sakai__NP_313098.1	BLASTP	NZ_CP117568.1	2427238	2428005		True	right_before_left	158	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__NP_313269.1	NP_313269.1	5347301	5349250	ecoli_Sakai__NP_313268.2	BLASTP	NZ_CP117568.1	3605304	3606323	ahr	ecoli_Sakai__NP_313270.1	TBLASTN	NZ_CP117569.1	58377	58661		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__NP_313272.2	NP_313272.2	5350846	5351223	ecoli_Sakai__NP_313271.2	TBLASTN	NZ_CP117569.1	4319	4927		ecoli_Sakai__NP_313273.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313273.1	NP_313273.1	5351345	5351677	ecoli_Sakai__NP_313272.2						ecoli_Sakai__NP_313275.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313275.1	NP_313275.1	5352681	5353148	ecoli_Sakai__NP_313273.1						ecoli_Sakai__NP_313276.2	BLASTP	NZ_CP117568.1	584862	585422		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313277.1	NP_313277.1	5354109	5355425	ecoli_Sakai__NP_313276.2	BLASTP	NZ_CP117568.1	584862	585422		ecoli_Sakai__NP_313278.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313278.1	NP_313278.1	5355577	5356350	ecoli_Sakai__NP_313277.1						ecoli_Sakai__NP_313279.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313279.2	NP_313279.2	5356473	5356931	ecoli_Sakai__NP_313278.1						ecoli_Sakai__NP_313280.1	BLASTP	NZ_CP117568.1	3606804	3608060		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313281.1	NP_313281.1	5358934	5359785	ecoli_Sakai__NP_313280.1	BLASTP	NZ_CP117568.1	3606804	3608060		ecoli_Sakai__NP_313282.2	BLASTP	NZ_CP117568.1	3631974	3633080		True	left_before_right	23913	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_313283.1	NP_313283.1	5360326	5361429	ecoli_Sakai__NP_313282.2	BLASTP	NZ_CP117568.1	3631974	3633080		ecoli_Sakai__NP_313284.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313284.1	NP_313284.1	5361433	5362140	ecoli_Sakai__NP_313283.1						ecoli_Sakai__NP_313285.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313285.1	NP_313285.1	5362147	5363799	ecoli_Sakai__NP_313284.1						ecoli_Sakai__NP_313286.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313286.2	NP_313286.2	5364011	5367370	ecoli_Sakai__NP_313285.1						ecoli_Sakai__NP_313287.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313287.1	NP_313287.1	5367370	5373684	ecoli_Sakai__NP_313286.2						ecoli_Sakai__NP_313288.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313288.2	NP_313288.2	5373908	5376766	ecoli_Sakai__NP_313287.1						ecoli_Sakai__NP_313289.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313289.1	NP_313289.1	5376769	5381703	ecoli_Sakai__NP_313288.2						ecoli_Sakai__NP_313290.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313290.1	NP_313290.1	5381703	5388044	ecoli_Sakai__NP_313289.1						ecoli_Sakai__NP_313291.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313293.2	NP_313293.2	5391108	5391353	ecoli_Sakai__NP_313291.1						ecoli_Sakai__NP_313295.1	BLASTP	NZ_CP117568.1	1125456	1127309		False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_313316.3	NP_313316.3	5415770	5416255	ecoli_Sakai__NP_313315.2	BLASTP	NZ_CP117568.1	3672461	3673144		ecoli_Sakai__NP_313317.2	BLASTP	NZ_CP117568.1	511587	515138		True	right_before_left	3157322	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_313337.1	NP_313337.1	5444273	5445631	ecoli_Sakai__NP_313336.1	TBLASTN	NZ_CP117568.1	3681307	3681591		ecoli_Sakai__NP_313338.2	BLASTP	NZ_CP117568.1	3691682	3692638	yjiA	True	left_before_right	10090	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__NP_313341.1	NP_313341.1	5449363	5449905	ecoli_Sakai__NP_313340.2	BLASTP	NZ_CP117568.1	3692972	3695122	btsT	ecoli_Sakai__NP_313342.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_958720.1	NP_958720.1	23288	23482	ecoli_Sakai__NP_052626.1						ecoli_Sakai__NP_052627.1	BLASTP	NZ_CP117568.1	1786210	1786740	emrR	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_958722.1	NP_958722.1	26726	26926	ecoli_Sakai__NP_052631.1	TBLASTN	NZ_CP117569.1	13539	13865		ecoli_Sakai__NP_052632.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_958723.1	NP_958723.1	40047	40268	ecoli_Sakai__NP_052645.1	BLASTP	NZ_CP117568.1	2435527	2436411	yhdJ	ecoli_Sakai__NP_052646.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__NP_958725.1	NP_958725.1	70210	70422	ecoli_Sakai__NP_052671.1						ecoli_Sakai__NP_052672.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502591.1	YP_009502591.1	394397	394807	ecoli_Sakai__NP_308400.1	BLASTP	NZ_CP117568.1	4076413	4077795		ecoli_Sakai__NP_308401.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502595.1	YP_009502595.1	1001068	1001397	ecoli_Sakai__NP_308940.1	BLASTP	NZ_CP117568.1	4603291	4604619		ecoli_Sakai__YP_009502596.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502596.1	YP_009502596.1	1001387	1001773	ecoli_Sakai__YP_009502595.1						ecoli_Sakai__NP_308942.1	BLASTP	NZ_CP117568.1	4605377	4606702	rimO	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502597.1	YP_009502597.1	1169360	1169815	ecoli_Sakai__NP_309098.1						ecoli_Sakai__NP_309100.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502602.1	YP_009502602.1	1422905	1423240	ecoli_Sakai__NP_309389.2						ecoli_Sakai__NP_309391.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502605.1	YP_009502605.1	1441127	1441627	ecoli_Sakai__NP_309416.1						ecoli_Sakai__NP_309420.1	BLASTP	NZ_CP117569.1	49435	49860	tnpA	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502610.1	YP_009502610.1	1566531	1566752	ecoli_Sakai__NP_309570.1						ecoli_Sakai__NP_309571.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502613.1	YP_009502613.1	1694544	1694744	ecoli_Sakai__NP_309726.1	BLASTP	NZ_CP117568.1	299864	300886		ecoli_Sakai__NP_304434.1	BLASTP	NZ_CP117568.1	302444	304135		True	left_before_right	1557	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__YP_009502616.1	YP_009502616.1	1763453	1763752	ecoli_Sakai__NP_309791.1						ecoli_Sakai__NP_309792.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502618.1	YP_009502618.1	1767493	1767657	ecoli_Sakai__YP_009502617.1						ecoli_Sakai__NP_309799.1	BLASTP	NZ_CP117568.1	2306179	2306940	paa	False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502624.1	YP_009502624.1	1952299	1952520	ecoli_Sakai__NP_309999.1						ecoli_Sakai__NP_310001.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502627.1	YP_009502627.1	2147108	2147503	ecoli_Sakai__NP_310168.1	BLASTP	NZ_CP117568.1	609071	610258	ydeE	ecoli_Sakai__NP_310170.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502631.1	YP_009502631.1	2228861	2229082	ecoli_Sakai__NP_310275.1						ecoli_Sakai__NP_310277.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502635.1	YP_009502635.1	2250468	2250632	ecoli_Sakai__NP_310310.2						ecoli_Sakai__NP_310311.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502643.1	YP_009502643.1	2929494	2929709	ecoli_Sakai__NP_311010.2						ecoli_Sakai__NP_311011.1						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502663.1	YP_009502663.1	4761218	4761436	ecoli_Sakai__NP_312743.1	BLASTP	NZ_CP117568.1	3003337	3004596	rho	ecoli_Sakai__NP_312744.1	BLASTP	NZ_CP117568.1	3004824	3005927	wecA	True	left_before_right	227	both_flanks_nearby
+ecoli_Sakai	ecoli_Sakai__YP_009502666.1	YP_009502666.1	4933190	4933426	ecoli_Sakai__NP_312891.1	BLASTP	NZ_CP117568.1	989446	993735		ecoli_Sakai__YP_009502667.1	TBLASTN	NZ_CP117569.1	70236	70409		False			different_replicons
+ecoli_Sakai	ecoli_Sakai__YP_009502669.1	YP_009502669.1	5049411	5049596	ecoli_Sakai__NP_312983.2						ecoli_Sakai__NP_312984.2						False			both_flanks_not_mapped
+ecoli_Sakai	ecoli_Sakai__YP_009502670.1	YP_009502670.1	5121927	5122286	ecoli_Sakai__NP_313063.1	BLASTP	NZ_CP117568.1	3351882	3353075	tyrB	ecoli_Sakai__NP_313064.1	BLASTP	NZ_CP117568.1	3366931	3367644	aphA	True	left_before_right	13855	both_flanks_far_apart
+ecoli_Sakai	ecoli_Sakai__YP_009502677.1	YP_009502677.1	5485507	5485674	ecoli_Sakai__NP_313375.2	BLASTP	NZ_CP117568.1	3728500	3729732	nadR	ecoli_Sakai__NP_313376.1	BLASTP	NZ_CP117568.1	3729853	3731520	ettA	True	left_before_right	120	both_flanks_nearby

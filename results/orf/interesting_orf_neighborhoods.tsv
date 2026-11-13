@@ -1,0 +1,22 @@
+orf_id	candidate_id	seqid	orf_start	orf_end	orf_strand	protein_id	gene	product	cds_start	cds_end	cds_strand	relation	distance_bp	overlap_bp	same_strand
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+			serine hydrolase	1522237	1522603	+	overlapping	0	192	True
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_001040438.1	murP	PTS N-acetylmuramic acid transporter subunit IIBC	1520810	1522234	+	upstream	2	0	True
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_000084594.1	yfeX	porphyrinogen peroxidase	1522811	1523710	-	downstream	382	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_025238614.1		RpoE-regulated lipoprotein	1523805	1524380	-	downstream	1376	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_256879228.1	murQ	N-acetylmuramic acid 6-phosphate etherase	1519910	1520806	+	upstream	1430	0	True
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_010332548.1		DUF2919 domain-containing protein	1524588	1525037	-	downstream	2159	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_010332550.1		GNAT family acetyltransferase	1525024	1525449	-	downstream	2595	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_000517455.1	ucpA	SDR family oxidoreductase UcpA	1518829	1519620	-	upstream	2616	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_000102912.1	amiA	N-acetylmuramoyl-L-alanine amidase AmiA	1525661	1526530	+	downstream	3232	0	True
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_256879229.1	cysP	thiosulfate/sulfate ABC transporter substrate-binding protein CysP	1517642	1518658	-	upstream	3578	0	False
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_137648431.1	hemF	oxygen-dependent coproporphyrinogen oxidase	1526534	1527433	+	downstream	4105	0	True
+ORF405|ecoli_REL606__ACT39985.1|+|1522237-1522428	ecoli_REL606__ACT39985.1	NZ_CP117568.1	1522237	1522428	+	WP_000458400.1	cysT	sulfate/thiosulfate ABC transporter permease CysT	1516809	1517642	-	upstream	4594	0	False
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_000037393.1	tssB	type VI secretion system contractile sheath small subunit	4007937	4008437	-	downstream	25	0	True
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_054412784.1	tssC	type VI secretion system contractile sheath large subunit	4006176	4007642	-	upstream	92	0	True
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_001142955.1		Hcp family type VI secretion system effector	4009082	4009600	+	downstream	1170	0	False
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_256879472.1	tssE	type VI secretion system baseplate subunit TssE	4005756	4006169	-	upstream	1565	0	True
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_256908044.1		type VI secretion system Vgr family protein	4009810	4011951	+	downstream	1898	0	False
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_044714119.1	tssF	type VI secretion system baseplate subunit TssF	4003902	4005752	-	upstream	1982	0	True
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_103053279.1	tssG	type VI secretion system baseplate subunit TssG	4002856	4003938	-	upstream	3796	0	True
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_256908043.1		RHS element core protein	4012027	4016442	+	downstream	4115	0	False
+ORF467|ecoli_Sakai__NP_308259.1|-|4007735-4007911	ecoli_Sakai__NP_308259.1	NZ_CP117568.1	4007735	4007911	-	WP_059272067.1	tagH	type VI secretion system-associated FHA domain protein TagH	4001551	4002831	-	upstream	4903	0	True

@@ -1,0 +1,5 @@
+0: E_albertii.faa
+1: MG1655.faa
+2: REL606.faa
+3: Sakai.faa
+4: W3110.faa

@@ -1,0 +1,234 @@
+IQ-TREE version 3.1.4 for MacOS Intel 64-bit built Sep 29 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    MacBook-Air-Ula.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s results/phylogeny/single_copy_supermatrix.faa -m MFP -B 1000 --alrt 1000 -bnni -T 4 --seed 12345 --prefix results/phylogeny/species_tree
+Seed:    12345 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Nov 13 00:58:16 2026
+Kernel:  SSE2 - 4 threads (8 CPU cores detected)
+
+Reading alignment file results/phylogeny/single_copy_supermatrix.faa ... Fasta format detected
+Reading fasta file: done in 0.0517471 secs using 92.34% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.496327 secs using 153.7% CPU
+WARNING: 3 sites contain only gaps or ambiguous characters.
+Alignment has 5 sequences with 931952 columns, 4451 distinct patterns
+4619 parsimony-informative, 41251 singleton sites, 886082 constant sites
+            Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 2.81334e-05 secs using 319.9% CPU
+   1  MG1655        0.43%    passed    100.00%
+   2  W3110         0.47%    passed    100.00%
+   3  REL606        0.54%    passed    100.00%
+   4  Sakai         0.42%    passed    100.00%
+   5  E_albertii    0.46%    passed     48.06%
+****  TOTAL         0.46%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: minimal branch length is reduced to 0.000000107302 for long alignment
+Checking for duplicate sequences: done in 5.29289e-05 secs using 302.3% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3036723.149
+Optimal log-likelihood: -3036723.138
+Proportion of invariable sites: 0.475
+Gamma shape alpha: 0.204
+Parameters optimization took 1 rounds (0.021 sec)
+Time for fast ML tree search: 0.148 seconds
+
+NOTE: ModelFinder requires 51 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 931952 epsilon: 0.100) ...
+Akaike Information Criterion:           JTT+F+I+R10
+Corrected Akaike Information Criterion: JTT+F+I+R10
+Bayesian Information Criterion:         JTT+F+I+R10
+Best-fit model: JTT+F+I+R10 chosen according to BIC
+
+All model information printed to results/phylogeny/species_tree.model.gz
+CPU time for ModelFinder: 1911.923 seconds (0h:31m:51s)
+Wall-clock time for ModelFinder: 482.507 seconds (0h:8m:2s)
+Generating 1000 samples for ultrafast bootstrap (seed: 12345)...
+
+NOTE: 51 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3020899.703
+2. Current log-likelihood: -3020882.901
+3. Current log-likelihood: -3020875.517
+4. Current log-likelihood: -3020870.129
+5. Current log-likelihood: -3020866.075
+6. Current log-likelihood: -3020862.979
+7. Current log-likelihood: -3020860.591
+8. Current log-likelihood: -3020858.729
+9. Current log-likelihood: -3020857.267
+10. Current log-likelihood: -3020856.098
+11. Current log-likelihood: -3020855.173
+12. Current log-likelihood: -3020854.454
+13. Current log-likelihood: -3020854.163
+14. Current log-likelihood: -3020854.002
+15. Current log-likelihood: -3020853.850
+Optimal log-likelihood: -3020853.803
+Proportion of invariable sites: 0.695
+Site proportion and rates:  (0.077,0.000) (0.044,2.940) (0.037,3.058) (0.030,3.111) (0.027,3.120) (0.023,3.123) (0.021,3.125) (0.020,3.131) (0.025,3.144) (0.001,360.081)
+Parameters optimization took 15 rounds (6.172 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00192094 secs using 314.4% CPU
+Computing ML distances took 0.002193 sec (of wall-clock time) 0.006860 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 4.57764e-05 secs using 353.9% CPU
+Constructing RapidNJ tree: done in 8.60691e-05 secs using 331.1% CPU
+Computing RapidNJ tree took 0.000290 sec (of wall-clock time) 0.001048 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3020853.803
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 99 parsimony trees... 0.551 second
+Computing log-likelihood of 4 initial trees ... 0.083 seconds
+Current best score: -3020853.803
+
+Do NNI search on 5 best initial trees
+Finish initializing candidate tree set (5)
+Current best tree score: -3020853.803 / CPU time: 1.230
+Number of iterations: 5
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+UPDATE BEST LOG-LIKELIHOOD: -3020853.803
+Iteration 10 / LogL: -3020855.204 / Time: 0h:8m:11s
+Iteration 20 / LogL: -3020853.803 / Time: 0h:8m:12s
+Iteration 30 / LogL: -3020853.835 / Time: 0h:8m:14s (0h:0m:29s left)
+Iteration 40 / LogL: -3020854.231 / Time: 0h:8m:16s (0h:0m:21s left)
+Iteration 50 / LogL: -3023317.177 / Time: 0h:8m:18s (0h:0m:15s left)
+Iteration 60 / LogL: -3020854.817 / Time: 0h:8m:19s (0h:0m:11s left)
+Iteration 70 / LogL: -3020853.803 / Time: 0h:8m:21s (0h:0m:8s left)
+Iteration 80 / LogL: -3023317.177 / Time: 0h:8m:22s (0h:0m:5s left)
+Iteration 90 / LogL: -3020855.211 / Time: 0h:8m:24s (0h:0m:2s left)
+Iteration 100 / LogL: -3020853.803 / Time: 0h:8m:26s (0h:0m:0s left)
+Refining ufboot trees with NNI 1 branch...
+100 samples done
+200 samples done
+300 samples done
+400 samples done
+500 samples done
+600 samples done
+700 samples done
+800 samples done
+900 samples done
+1000 samples done
+Total 0 ufboot trees refined
+TREE SEARCH COMPLETED AFTER 101 ITERATIONS / Time: 0h:10m:55s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3020853.803
+2. Current log-likelihood: -3020853.763
+3. Current log-likelihood: -3020853.722
+4. Current log-likelihood: -3020853.680
+5. Current log-likelihood: -3020853.640
+6. Current log-likelihood: -3020853.601
+7. Current log-likelihood: -3020853.563
+8. Current log-likelihood: -3020853.525
+9. Current log-likelihood: -3020853.488
+10. Current log-likelihood: -3020853.452
+11. Current log-likelihood: -3020853.417
+12. Current log-likelihood: -3020853.383
+13. Current log-likelihood: -3020853.349
+14. Current log-likelihood: -3020853.316
+15. Current log-likelihood: -3020853.284
+16. Current log-likelihood: -3020853.253
+17. Current log-likelihood: -3020853.222
+18. Current log-likelihood: -3020853.192
+19. Current log-likelihood: -3020853.162
+20. Current log-likelihood: -3020853.133
+21. Current log-likelihood: -3020853.105
+22. Current log-likelihood: -3020853.078
+23. Current log-likelihood: -3020853.051
+24. Current log-likelihood: -3020853.024
+25. Current log-likelihood: -3020852.998
+26. Current log-likelihood: -3020852.973
+27. Current log-likelihood: -3020852.948
+28. Current log-likelihood: -3020852.924
+29. Current log-likelihood: -3020852.900
+30. Current log-likelihood: -3020852.877
+31. Current log-likelihood: -3020852.855
+32. Current log-likelihood: -3020852.832
+33. Current log-likelihood: -3020852.811
+34. Current log-likelihood: -3020852.789
+35. Current log-likelihood: -3020852.769
+36. Current log-likelihood: -3020852.748
+37. Current log-likelihood: -3020852.728
+38. Current log-likelihood: -3020852.709
+39. Current log-likelihood: -3020852.690
+40. Current log-likelihood: -3020852.671
+41. Current log-likelihood: -3020852.653
+42. Current log-likelihood: -3020852.635
+43. Current log-likelihood: -3020852.617
+44. Current log-likelihood: -3020852.600
+45. Current log-likelihood: -3020852.583
+46. Current log-likelihood: -3020852.567
+47. Current log-likelihood: -3020852.551
+48. Current log-likelihood: -3020852.535
+49. Current log-likelihood: -3020852.519
+50. Current log-likelihood: -3020852.504
+51. Current log-likelihood: -3020852.489
+52. Current log-likelihood: -3020852.475
+53. Current log-likelihood: -3020852.461
+54. Current log-likelihood: -3020852.447
+55. Current log-likelihood: -3020852.433
+56. Current log-likelihood: -3020852.420
+57. Current log-likelihood: -3020852.407
+58. Current log-likelihood: -3020852.394
+59. Current log-likelihood: -3020852.382
+60. Current log-likelihood: -3020852.369
+61. Current log-likelihood: -3020852.357
+62. Current log-likelihood: -3020852.346
+63. Current log-likelihood: -3020852.334
+64. Current log-likelihood: -3020852.323
+65. Current log-likelihood: -3020852.312
+66. Current log-likelihood: -3020852.301
+67. Current log-likelihood: -3020852.291
+68. Current log-likelihood: -3020852.280
+69. Current log-likelihood: -3020852.270
+Optimal log-likelihood: -3020852.259
+Proportion of invariable sites: 0.691
+Site proportion and rates:  (0.076,0.000) (0.045,2.885) (0.038,3.000) (0.031,3.052) (0.027,3.061) (0.023,3.064) (0.021,3.066) (0.021,3.072) (0.026,3.084) (0.001,353.280)
+Parameters optimization took 69 rounds (4.380 sec)
+BEST SCORE FOUND : -3020852.259
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.230 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/phylogeny/species_tree.splits.nex
+Total tree length: 0.080
+
+Total number of iterations: 101
+CPU time used for tree search: 655.671 sec (0h:10m:55s)
+Wall-clock time used for tree search: 166.042 sec (0h:2m:46s)
+Total CPU time used: 2611.658 sec (0h:43m:31s)
+Total wall-clock time used: 659.718 sec (0h:10m:59s)
+UFBoot trees printed to results/phylogeny/species_tree.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file results/phylogeny/species_tree.splits.nex...
+5 taxa and 7 splits.
+Consensus tree written to results/phylogeny/species_tree.contree
+Reading input trees file results/phylogeny/species_tree.contree
+Log-likelihood of consensus tree: -3020852.259
+
+Analysis results written to: 
+  IQ-TREE report:                results/phylogeny/species_tree.iqtree
+  Maximum-likelihood tree:       results/phylogeny/species_tree.treefile
+  Likelihood distances:          results/phylogeny/species_tree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/phylogeny/species_tree.splits.nex
+  Consensus tree:                results/phylogeny/species_tree.contree
+  UFBoot trees:                  results/phylogeny/species_tree.ufboot
+  Screen log file:               results/phylogeny/species_tree.log
+
+Date and Time: Fri Nov 13 01:09:17 2026

@@ -1,0 +1,5 @@
+qseqid	sseqid	pident	length	qlen	slen	qstart	qend	sstart	send	evalue	bitscore	query_coverage_pct	subject_coverage_pct	query_sample	hit_sample	relationship	coverage_class
+ecoli_Sakai__NP_303550.1	ecoli_Sakai__NP_303550.1	100.0	132	132	132	1	132	1	132	6.69e-98	275.0	100.0	100.0	ecoli_Sakai	ecoli_Sakai	self_hit	both_coverage_ge_50
+ecoli_Sakai__NP_310248.1	ecoli_Sakai__NP_310248.1	100.0	289	289	289	1	289	1	289	0.0	596.0	100.0	100.0	ecoli_Sakai	ecoli_Sakai	self_hit	both_coverage_ge_50
+ecoli_Sakai__NP_310248.1	ecoli_Sakai__NP_304549.1	95.294	85	289	85	205	289	1	85	2.35e-55	172.0	29.411764705882355	100.0	ecoli_Sakai	ecoli_Sakai	same_sample	limited_coverage
+ecoli_Sakai__NP_310248.1	ecoli_Sakai__NP_308876.1	85.714	21	289	44	269	289	24	44	4.37e-07	44.7	7.26643598615917	47.72727272727273	ecoli_Sakai	ecoli_Sakai	same_sample	limited_coverage

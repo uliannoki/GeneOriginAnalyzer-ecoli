@@ -1,0 +1,57 @@
+sample	region	seqid	start	end	strand	protein_id	gene	locus_tag	product
+ecoli_Sakai	1	NC_002695.2	174101	174898	+	NP_308182.1	fhuC	ECs_0155	iron(3+)-hydroxamate import ABC transporter ATPase
+ecoli_Sakai	1	NC_002695.2	174898	175788	+	NP_308183.1	fhuD	ECs_0156	iron(3+)-hydroxamate import ABC transporter periplasmic binding protein
+ecoli_Sakai	1	NC_002695.2	175785	177767	+	NP_308184.1	fhuB	ECs_0157	iron(3+)-hydroxamate import ABC transporter permease
+ecoli_Sakai	2	NC_002695.2	243534	244013	-	NP_308243.1		ECs_0216	type VI secretion system effector Hcp1 family protein
+ecoli_Sakai	2	NC_002695.2	245399	248833	-	NP_308245.2	impL	ECs_0218	type VI secretion system protein ImpL
+ecoli_Sakai	2	NC_002695.2	250386	251129	-	NP_308249.1		ECs_0222	type VI secretion protein
+ecoli_Sakai	2	NC_002695.2	253906	254667	-	NP_308251.1	impK	ECs_0224	type VI secretion system protein ImpK
+ecoli_Sakai	2	NC_002695.2	254672	256003	-	NP_308252.1	impJ	ECs_0225	type VI secretion system protein ImpJ
+ecoli_Sakai	2	NC_002695.2	256527	257807	-	NP_308254.1	imp	ECs_0227	type VI secretion system protein ImpI
+ecoli_Sakai	2	NC_002695.2	257832	258914	-	NP_308255.1	impH	ECs_0228	type VI secretion system protein ImpH
+ecoli_Sakai	2	NC_002695.2	258878	260728	-	NP_308256.1		ECs_0229	type VI secretion protein
+ecoli_Sakai	2	NC_002695.2	260732	261145	-	NP_308257.1		ECs_0230	type VI secretion protein
+ecoli_Sakai	2	NC_002695.2	261236	262627	-	NP_308258.1	impC	ECs_0231	type VI secretion system protein ImpC
+ecoli_Sakai	2	NC_002695.2	262937	263437	-	NP_308260.1	impB	ECs_0233	type VI secretion system protein ImpB
+ecoli_Sakai	2	NC_002695.2	264134	264652	+	NP_308261.1		ECs_0234	Hcp-like protein
+ecoli_Sakai	2	NC_002695.2	264862	267003	+	NP_308263.1	vgrE	ECs_0236	type VI secretion system Vgr family protein
+ecoli_Sakai	5	NC_002695.2	1042295	1043263	-	NP_308985.1	hcr	ECs_0958	HCP oxidoreductase
+ecoli_Sakai	5	NC_002695.2	1043275	1044927	-	NP_308986.2	hcp	ECs_0959	hybrid-cluster [4Fe-2S-2O] subunit of anaerobic terminal reductases
+ecoli_Sakai	9	NC_002695.2	2125549	2127084	+	NP_310147.1	lsrA	ECs_2120	autoinducer 2 import ATP-binding protein
+ecoli_Sakai	9	NC_002695.2	2127078	2128106	+	NP_310148.1	lsrC	ECs_2121	autoinducer 2 import system permease protein
+ecoli_Sakai	9	NC_002695.2	2128106	2129098	+	NP_310149.1	lsrD	ECs_2122	autoinducer 2 import system permease protein
+ecoli_Sakai	10	NC_002695.2	2547432	2548043	-	NP_310598.1	ruvA	ECs_2571	component of RuvABC resolvasome regulatory subunit
+ecoli_Sakai	10	NC_002695.2	2548922	2549443	-	NP_310600.1	ruvC	ECs_2573	component of RuvABC resolvasome
+ecoli_W3110	2	AP009048.1	911604	912572	-	BAA35586.2	hcr		HCP oxidoreductase, NADH-dependent
+ecoli_W3110	2	AP009048.1	912584	914236	-	BAA35587.2	hcp		hybrid-cluster [4Fe-2S-2O] protein in anaerobic terminal reductases
+ecoli_W3110	3	AP009048.1	1275502	1276755	+	BAA36088.1	ychP		predicted invasin
+ecoli_W3110	3	AP009048.1	1297023	1299698	-	BAA36121.1	adhE		fused acetaldehyde-CoA dehydrogenase and iron-dependent alcohol dehydrogenase and pyruvate-formate lyase deactivase
+ecoli_W3110	5	AP009048.1	1946060	1947070	-	BAA15671.1	ruvB		ATP-dependent DNA helicase, component of RuvABC resolvasome
+ecoli_W3110	5	AP009048.1	1947079	1947690	-	BAA15672.1	ruvA		component of RuvABC resolvasome, regulatory subunit
+ecoli_W3110	5	AP009048.1	1948569	1949090	-	BAA15674.1	ruvC		component of RuvABC resolvasome, endonuclease
+ecoli_REL606	2	CP000819.1	927889	928857	-	ACT38559.1	hcr	ECB_00877	HCP oxidoreductase, NADH-dependent
+ecoli_REL606	2	CP000819.1	928869	930521	-	ACT38560.1	hcp	ECB_00878	hydroxylamine reductase
+ecoli_REL606	3	CP000819.1	1274075	1275328	+	ACT38877.1	ychP	ECB_01198	predicted invasin
+ecoli_REL606	3	CP000819.1	1294239	1296914	-	ACT38892.1	adhE	ECB_01215	fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase
+escherichia_albertii	1	NZ_CP117568.1	315036	315428	+	WP_000202424.1	sirB2	PS053_RS01545	invasion regulator SirB2
+escherichia_albertii	1	NZ_CP117568.1	315432	316241	+	WP_001257036.1	sirB1	PS053_RS01550	invasion regulator SirB1
+escherichia_albertii	4	NZ_CP117568.1	1034283	1036115	+	WP_113622676.1		PS053_RS05140	diol dehydratase reactivase subunit alpha
+escherichia_albertii	4	NZ_CP117568.1	1036105	1036455	+	WP_044711190.1		PS053_RS05145	glycerol dehydratase reactivase beta/small subunit family protein
+escherichia_albertii	11	NZ_CP117568.1	2626944	2627708	+	WP_059215203.1	nikD	PS053_RS12840	nickel import ATP-binding protein NikD
+escherichia_albertii	11	NZ_CP117568.1	2627705	2628511	+	WP_025238150.1	nikE	PS053_RS12845	nickel import ATP-binding protein NikE
+escherichia_albertii	15	NZ_CP117568.1	3986077	3986559	-	WP_044712774.1		PS053_RS19285	Hcp family type VI secretion system effector
+escherichia_albertii	15	NZ_CP117568.1	3986571	3987935	-	WP_256879475.1		PS053_RS19290	VasL domain-containing protein
+escherichia_albertii	15	NZ_CP117568.1	3987946	3991410	-	WP_476397316.1	tssM	PS053_RS19295	type VI secretion system membrane subunit TssM
+escherichia_albertii	15	NZ_CP117568.1	3991489	3992898	-	WP_059242375.1	tssA	PS053_RS19300	type VI secretion system protein TssA
+escherichia_albertii	15	NZ_CP117568.1	3992903	3993646	-	WP_044710921.1	vasI	PS053_RS19305	type VI secretion system-associated protein VasI
+escherichia_albertii	15	NZ_CP117568.1	3993643	3996327	-	WP_420703706.1	tssH	PS053_RS19310	type VI secretion system ATPase TssH
+escherichia_albertii	15	NZ_CP117568.1	3999696	4001027	-	WP_256879473.1	tssK	PS053_RS19335	type VI secretion system baseplate subunit TssK
+escherichia_albertii	15	NZ_CP117568.1	4001030	4001554	-	WP_098402510.1	tssJ	PS053_RS19340	type VI secretion system lipoprotein TssJ
+escherichia_albertii	15	NZ_CP117568.1	4001551	4002831	-	WP_059272067.1	tagH	PS053_RS19345	type VI secretion system-associated FHA domain protein TagH
+escherichia_albertii	15	NZ_CP117568.1	4002856	4003938	-	WP_103053279.1	tssG	PS053_RS19350	type VI secretion system baseplate subunit TssG
+escherichia_albertii	15	NZ_CP117568.1	4003902	4005752	-	WP_044714119.1	tssF	PS053_RS19355	type VI secretion system baseplate subunit TssF
+escherichia_albertii	15	NZ_CP117568.1	4005756	4006169	-	WP_256879472.1	tssE	PS053_RS19360	type VI secretion system baseplate subunit TssE
+escherichia_albertii	15	NZ_CP117568.1	4006176	4007642	-	WP_054412784.1	tssC	PS053_RS19365	type VI secretion system contractile sheath large subunit
+escherichia_albertii	15	NZ_CP117568.1	4007937	4008437	-	WP_000037393.1	tssB	PS053_RS19370	type VI secretion system contractile sheath small subunit
+escherichia_albertii	15	NZ_CP117568.1	4009082	4009600	+	WP_001142955.1		PS053_RS19375	Hcp family type VI secretion system effector
+escherichia_albertii	15	NZ_CP117568.1	4009810	4011951	+	WP_256908044.1		PS053_RS19380	type VI secretion system Vgr family protein
